@@ -1,0 +1,66 @@
+{
+  "stats": {
+    "snapshot_dates": {
+      "un": "2026-11-22",
+      "eu": "2026-11-22",
+      "uk": "2026-11-22",
+      "ofac": "2026-11-22"
+    },
+    "un_entities": 1007,
+    "un_eu": 944,
+    "un_uk": 1006,
+    "un_ofac": 702,
+    "un_eu_uk": 944,
+    "linked_by_un_ref": {
+      "eu": 82,
+      "uk": 992,
+      "ofac": 0
+    },
+    "name_dob_overlap": {
+      "eu_uk": 3447,
+      "eu_ofac": 2449,
+      "uk_ofac": 2444
+    }
+  },
+  "transposition_gaps": {
+    "eu": {
+      "count": 63,
+      "median_days_since_un_listing": 5748,
+      "max_days": 9403,
+      "by_un_reference_prefix": {
+        "IR": 20,
+        "GB": 10,
+        "KP": 7,
+        "QD": 7,
+        "CD": 5,
+        "LY": 5,
+        "SD": 4,
+        "TA": 4,
+        "SO": 1
+      },
+      "examples": [
+        "UN-listed SEBASTIEN UWIMBABAZI not found on EU list; 131 days since UN listing",
+        "UN-listed MUHAMMED LUMISA not found on EU list; 131 days since UN listing",
+        "UN-listed IBRAIMA CAMAR\u00c1 not found on EU list; 5301 days since UN listing",
+        "UN-listed CRANHA DANFA not found on EU list; 5240 days since UN listing",
+        "UN-listed IDRISSA DJAL\u00d3 not found on EU list; 5240 days since UN listing",
+        "UN-listed ANT\u00d3NIO INJAI not found on EU list; 5301 days since UN listing",
+        "UN-listed TCHIPA NA BIDON not found on EU list; 5240 days since UN listing",
+        "UN-listed TCHAM NA MAN not found on EU list; 5240 days since UN listing",
+        "UN-listed EST\u00caV\u00c3O NA MENA not found on EU list; 5301 days since UN listing",
+        "UN-listed DABA NAUALNA not found on EU list; 5301 days since UN listing"
+      ]
+    },
+    "uk": {
+      "count": 1,
+      "median_days_since_un_listing": 131,
+      "max_days": 131,
+      "by_un_reference_prefix": {
+        "CD": 1
+      },
+      "examples": [
+        "UN-listed TWIRWANEHO not found on UK list; 131 days since UN listing"
+      ]
+    }
+  }
+}

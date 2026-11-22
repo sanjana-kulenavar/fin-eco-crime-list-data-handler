@@ -1,0 +1,164 @@
+{
+  "source": "ofac",
+  "from": null,
+  "to": "2026-11-22",
+  "initial_load": true,
+  "counts": {
+    "added": 19599,
+    "removed": 0,
+    "amended": 0
+  },
+  "changes": [
+    {
+      "entity_key": "ofac:36",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "AEROCARIBBEAN AIRLINES"
+    },
+    {
+      "entity_key": "ofac:173",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "ANGLO-CARIBBEAN CO., LTD."
+    },
+    {
+      "entity_key": "ofac:306",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "BANCO NACIONAL DE CUBA"
+    },
+    {
+      "entity_key": "ofac:424",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "BOUTIQUE LA MAISON"
+    },
+    {
+      "entity_key": "ofac:475",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "CASA DE CUBA"
+    },
+    {
+      "entity_key": "ofac:480",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "CECOEX, S.A."
+    },
+    {
+      "entity_key": "ofac:535",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "CIMEX"
+    },
+    {
+      "entity_key": "ofac:536",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "CIMEX IBERICA"
+    },
+    {
+      "entity_key": "ofac:537",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "CIMEX, S.A."
+    },
+    {
+      "entity_key": "ofac:540",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "COMERCIAL IBEROAMERICANA, S.A."
+    },
+    {
+      "entity_key": "ofac:551",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "COMERCIAL CIMEX, S.A."
+    },
+    {
+      "entity_key": "ofac:552",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "COMERCIAL DE RODAJES Y MAQUINARIA, S.A."
+    },
+    {
+      "entity_key": "ofac:555",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "COMERCIALIZACION DE PRODUCTOS VARIOS"
+    },
+    {
+      "entity_key": "ofac:559",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "COMPANIA DE IMPORTACION Y EXPORTACION IBERIA"
+    },
+    {
+      "entity_key": "ofac:576",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "CORPORACION CIMEX, S.A."
+    },
+    {
+      "entity_key": "ofac:578",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "COTEI"
+    },
+    {
+      "entity_key": "ofac:589",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "CRYMSA - ARGENTINA, S.A."
+    },
+    {
+      "entity_key": "ofac:590",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "CUBACANCUN CIGARS AND GIFT SHOPS"
+    },
+    {
+      "entity_key": "ofac:591",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "CUBAEXPORT"
+    },
+    {
+      "entity_key": "ofac:592",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "CUBAFRUTAS"
+    },
+    {
+      "entity_key": "ofac:593",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "CUBAN CIGARS TRADE"
+    },
+    {
+      "entity_key": "ofac:621",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "CUBANATUR"
+    },
+    {
+      "entity_key": "ofac:622",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "CUBATABACO"
+    },
+    {
+      "entity_key": "ofac:636",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "CUMEXINT, S.A."
+    },
+    {
+      "entity_key": "ofac:651",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "DELVEST HOLDING, S.A."
+    }
+  ],
+  "changes_truncated": true
+}

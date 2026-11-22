@@ -1,0 +1,19 @@
+{
+  "system": "payments_screening",
+  "snapshot_date": "2026-11-22",
+  "file": "2026-11-22.csv",
+  "sources": [
+    "eu",
+    "un",
+    "ofac",
+    "uk",
+    "nl",
+    "internal"
+  ],
+  "blocked_sources": {},
+  "record_count": 81353,
+  "sha256": "8a29a28dea86aeec44b99b8c2daac31edb1375bd022a6b28290a94832ce58b8f",
+  "generated_at": "2026-11-22T20:08:00Z",
+  "dq_gate_passed": true,
+  "variant": "clean"
+}

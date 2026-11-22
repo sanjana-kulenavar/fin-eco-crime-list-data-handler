@@ -1,0 +1,25 @@
+# Data-quality rules. Ids are stable: README, dashboard and tests refer to them.
+# severity: high | medium | low. auto_fix: a deterministic fix exists in slo.dq.fixes.
+rules:
+  - {id: DQ001, severity: high,   auto_fix: false, enabled: true, scope: names,       title: "Entity has no primary name"}
+  - {id: DQ002, severity: medium, auto_fix: true,  enabled: true, scope: names,       title: "Name has leading/trailing/double whitespace"}
+  - {id: DQ003, severity: medium, auto_fix: true,  enabled: true, scope: names,       title: "Non-Latin name without any Latin-script name on the entity"}
+  - {id: DQ004, severity: low,    auto_fix: true,  enabled: true, scope: names,       title: "Empty alias element"}
+  - {id: DQ005, severity: medium, auto_fix: true,  enabled: true, scope: names,       title: "Duplicate names within an entity after normalisation"}
+  - {id: DQ010, severity: high,   auto_fix: false, enabled: true, scope: dates,       title: "Person has no date of birth"}
+  - {id: DQ011, severity: medium, auto_fix: false, enabled: true, scope: dates,       title: "Person has no full (day-precision) date of birth"}
+  - {id: DQ012, severity: low,    auto_fix: true,  enabled: true, scope: dates,       title: "Consecutive single-year DOB rows that should be one range"}
+  - {id: DQ013, severity: high,   auto_fix: false, enabled: true, scope: dates,       title: "Date of birth cannot be parsed"}
+  - {id: DQ014, severity: high,   auto_fix: false, enabled: true, scope: dates,       title: "Date of birth in the future or before 1900"}
+  - {id: DQ020, severity: medium, auto_fix: false, enabled: true, scope: countries,   title: "Country code unknown ('00') or country name not mappable to ISO 3166"}
+  - {id: DQ021, severity: low,    auto_fix: false, enabled: true, scope: countries,   title: "Person has no nationality or citizenship"}
+  - {id: DQ030, severity: medium, auto_fix: true,  enabled: true, scope: identifiers, title: "Identifier number contains whitespace/punctuation noise"}
+  - {id: DQ031, severity: medium, auto_fix: true,  enabled: true, scope: identifiers, title: "Same identifier repeated within one entity"}
+  - {id: DQ032, severity: high,   auto_fix: false, enabled: true, scope: identifiers, title: "Same identifier on different entities in the same list (possible duplicate)"}
+  - {id: DQ033, severity: low,    auto_fix: false, enabled: true, scope: identifiers, title: "Passport/national ID without issuing country"}
+  - {id: DQ040, severity: high,   auto_fix: false, enabled: true, scope: entities,    title: "Possible duplicate entity: same name key, same type, overlapping DOB"}
+  - {id: DQ050, severity: high,   auto_fix: false, enabled: true, scope: crosslist,   title: "UN-listed entity not found on this list (transposition gap)"}
+  - {id: DQ051, severity: medium, auto_fix: false, enabled: true, scope: crosslist,   title: "Same UN reference but names or DOBs disagree between lists"}
+  - {id: DQ052, severity: low,    auto_fix: false, enabled: true, scope: crosslist,   title: "List cites a UN reference that is not on the current UN list"}
+  - {id: DQ060, severity: high,   auto_fix: false, enabled: true, scope: release,     title: "Record count mismatch vs source, parse failures, or >5% swing vs previous snapshot"}
+  - {id: DQ061, severity: high,   auto_fix: false, enabled: true, scope: release,     title: "File unchanged but publish date changed (or the reverse)"}

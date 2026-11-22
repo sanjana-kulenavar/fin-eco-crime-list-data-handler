@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateGenerated>20/11/2026</DateGenerated>
+  <Designation>
+    <LastUpdated>09/04/2025</LastUpdated>
+    <DateDesignated>31/12/2020</DateDesignated>
+    <UniqueID>BEL0033</UniqueID>
+    <OFSIGroupID>13962</OFSIGroupID>
+    <Names>
+      <Name>
+        <Name1>Lidzia</Name1>
+        <Name2>Mihailauna</Name2>
+        <Name6>Yarmoshina</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+      <Name>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Lidia</Name1>
+        <Name2>Mikhailovna</Name2>
+        <Name6>Yarmoshina</Name6>
+        <NameType>Primary name variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Lidija</Name1>
+        <Name2>Mikhailovna</Name2>
+        <Name6>Yarmoshina</Name6>
+        <NameType>Primary name variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Lidia</Name1>
+        <Name2>Mikhailovna</Name2>
+        <Name6>Yermoshina</Name6>
+        <NameType>Primary name variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Lidija</Name1>
+        <Name2>Mikhailovna</Name2>
+        <Name6>Yermoshina</Name6>
+        <NameType>Primary name variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Lidzia</Name1>
+        <Name2>Mihailauna</Name2>
+        <Name6>Yermoshina</Name6>
+        <NameType>Primary name variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>Лідзія Міхайлаўна Ярмошына</NameNonLatinScript>
+      </NonLatinName>
+      <NonLatinName>
+        <NameNonLatinScript>Лидия Михайловна ЕРМОШИНА </NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Republic of Belarus (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>The Director Disqualification Sanction was imposed on 09/04/2025.</OtherInformation>
+    <UKStatementofReasons>
+Lidzia Yarmoshina was the Chairperson of the Central Electoral Commission of the Belarusian Regime until December 2021. In her role as Chairperson, she was responsible for the actions of the CEC, including upholding a fraudulent election result and blocking the participation of rival candidates in the election. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>29/01/1953</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Belarus</Nationality>
+        </Nationalities>
+        <Positions>
+          <Position>Former Chair of the Central Electoral Commission (CEC)</Position>
+        </Positions>
+        <Genders>
+          <Gender>Female</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Slutsk</TownOfBirth>
+            <CountryOfBirth>Belarus</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>18/12/2021</LastUpdated>
+    <DateDesignated>03/10/2017</DateDesignated>
+    <UniqueID>DPR0075</UniqueID>
+    <Names>
+      <Name>
+        <Name6>Petrel 8</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+      <Name>
+        <Name6>Jal Vahini</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>Jal_Vahini</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>Tian Tai 36</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Ship</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Prohibition of port entry</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>false</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>true</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Pursuant to paragraph 6 of Security Council Resolution 2371 (2017) and paragraph 6 of Security Council Resolution 2375 (2017)</OtherInformation>
+    <UKStatementofReasons>
+</UKStatementofReasons>
+    <ShipDetails>
+      <Ship>
+        <IMONumbers>
+          <IMONumber>IMO9562233</IMONumber>
+        </IMONumbers>
+        <CurrentOwnerOperators>
+          <CurrentOwnerOperator>Global United Shipping India </CurrentOwnerOperator>
+        </CurrentOwnerOperators>
+        <CurrentBelievedFlagOfShips>
+          <CurrentBelievedFlagOfShip>Comoros</CurrentBelievedFlagOfShip>
+        </CurrentBelievedFlagOfShips>
+        <PreviousFlags>
+          <PreviousFlag>India</PreviousFlag>
+        </PreviousFlags>
+        <TypeOfShipDetails>
+          <TypeOfShip>Bulk Carrier</TypeOfShip>
+        </TypeOfShipDetails>
+        <TonnageOfShipDetails>
+          <TonnageOfShip>7078</TonnageOfShip>
+        </TonnageOfShipDetails>
+        <LengthOfShipDetails>
+          <LengthOfShip>134.5</LengthOfShip>
+        </LengthOfShipDetails>
+        <YearsBuilt>
+          <YearBuilt>2011</YearBuilt>
+        </YearsBuilt>
+      </Ship>
+    </ShipDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>18/12/2021</LastUpdated>
+    <DateDesignated>22/12/2017</DateDesignated>
+    <UniqueID>DPR0227</UniqueID>
+    <OFSIGroupID>13561</OFSIGroupID>
+    <UNReferenceNumber>KPi.066</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name1>KIM</Name1>
+        <Name6>JONG SIK</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+      <Name>
+        <Name1>Kim</Name1>
+        <Name6>Cho'ng-sik</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+    </Names>
+    <RegimeName>The Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze|Chartering of Ships|Prevention of business arrangements|Prohibition of port entry|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>true</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>true</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>true</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>North Korea</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>dd/mm/1967</DOB>
+          <DOB>dd/mm/1968</DOB>
+          <DOB>dd/mm/1969</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>North Korea</Nationality>
+          <Nationality>North Korea</Nationality>
+        </Nationalities>
+        <Positions>
+          <Position>A leading official guiding the DPRK’s WMD development efforts. Serving as Deputy Director of the Workers’ Party of Korea Munitions Industry Department</Position>
+        </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>18/12/2021</LastUpdated>
+    <DateDesignated>27/06/2003</DateDesignated>
+    <UniqueID>IRQ0062</UniqueID>
+    <OFSIGroupID>7612</OFSIGroupID>
+    <UNReferenceNumber>IQi.001</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name1>SADDAM</Name1>
+        <Name2>HUSSEIN</Name2>
+        <Name6>AL-TIKRITI</Name6>
+        <NameType>Primary name</NameType>
+      </Name>
+      <Name>
+        <Name1>Abu</Name1>
+        <Name6>Ali</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>صدام حسين التكريتي</NameNonLatinScript>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Iraq (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>28/04/1937</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Iraq</Nationality>
+        </Nationalities>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>al-Awja, near Tikrit</TownOfBirth>
+            <CountryOfBirth>Iraq</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>25/11/2024</LastUpdated>
+    <DateDesignated>25/11/2024</DateDesignated>
+    <UniqueID>RUS2322</UniqueID>
+    <Names>
+      <Name>
+        <Name6>NEOMI</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Ship</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Shipping sanctions: (see "Other information")</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>false</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Shipping sanctions: where shipping sanctions apply, a specified ship is prohibited from entering a port in the UK, may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated.  </OtherInformation>
+    <UKStatementofReasons>
+IMO 9250543 (“NEOMI”) is involved in activity whose object or effect is to destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine or to obtain a benefit from or support the Government of Russia. Namely, NEOMI is involved in carrying oil or oil products that originated in Russia from Russia to a third country. 
+</UKStatementofReasons>
+    <ShipDetails>
+      <Ship>
+        <IMONumbers>
+          <IMONumber>IMO9250543</IMONumber>
+          <IMONumber>IMO9250543</IMONumber>
+        </IMONumbers>
+        <CurrentOwnerOperators>
+          <CurrentOwnerOperator>Eastern Euro Ship Management</CurrentOwnerOperator>
+          <CurrentOwnerOperator>Trans See Inc</CurrentOwnerOperator>
+        </CurrentOwnerOperators>
+        <CurrentBelievedFlagOfShips>
+          <CurrentBelievedFlagOfShip>Panama</CurrentBelievedFlagOfShip>
+          <CurrentBelievedFlagOfShip>Panama</CurrentBelievedFlagOfShip>
+        </CurrentBelievedFlagOfShips>
+        <TypeOfShipDetails>
+          <TypeOfShip>Oil Tanker</TypeOfShip>
+          <TypeOfShip>Oil Tanker</TypeOfShip>
+        </TypeOfShipDetails>
+        <YearsBuilt>
+          <YearBuilt>2004</YearBuilt>
+          <YearBuilt>2004</YearBuilt>
+        </YearsBuilt>
+      </Ship>
+    </ShipDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/06/2025</LastUpdated>
+    <DateDesignated>20/05/2025</DateDesignated>
+    <UniqueID>RUS2701</UniqueID>
+    <OFSIGroupID>16946</OFSIGroupID>
+    <Names>
+      <Name>
+        <Name1>Ekaterina</Name1>
+        <Name6>ROMANOVA</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>Екатерина РОМАНОВА </NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction|Internet Services Sanctions: see "Other Information"</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Internet Services Sanctions: When an individual or entity is designated for the purposes of this measure, social media services, internet access services and application stores must take reasonable steps to prevent users in the UK from accessing content, sites or applications provided by designated individuals or entities.</OtherInformation>
+    <UKStatementofReasons>
+Ekaterina ROMANOVA (hereafter ROMANOVA) is an “involved person” under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following ground: ROMANOVA is and has been involved in destabilising Ukraine by being responsible for, engaging in, providing support for, or promoting action which undermines or threatens the territorial integrity, sovereignty or independence of Ukraine through her role in the Social Design Agency (SDA). 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>Moscow</AddressLine1>
+        <AddressLine2>Russia</AddressLine2>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>15/08/19yy</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Russia</Nationality>
+        </Nationalities>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+</Designations>

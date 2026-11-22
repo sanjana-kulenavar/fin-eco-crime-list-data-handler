@@ -1,0 +1,52 @@
+name: Daily list update
+
+on:
+  schedule:
+    - cron: "30 6 * * *" # 06:30 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-list-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+      - name: Install Python and dependencies
+        run: |
+          uv python install 3.12
+          uv sync
+      # The database holds previous snapshots so today's delta has something to compare with.
+      - name: Restore snapshot database
+        uses: actions/cache/restore@v4
+        with:
+          path: data/slo.duckdb
+          key: slo-db-${{ github.run_id }}
+          restore-keys: slo-db-
+      - name: Run pipeline
+        run: uv run slo all
+      - name: Save snapshot database
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data/slo.duckdb
+          key: slo-db-${{ github.run_id }}
+      - name: Commit report, deltas and README findings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/reports data/deltas data/exports/samples README.md requests
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(data): daily list update $(date -u +%F)"
+            git push
+          fi

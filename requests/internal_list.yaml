@@ -1,0 +1,66 @@
+# Bank-internal list (fictional). Managed only through requests/requests.csv.
+entities:
+- id: INT-0001
+  type: organisation
+  name: Example Trading BV
+  aliases: [Example Trading B.V., Exmpl Trading]
+  reason: Exited relationship - suspected trade-based money laundering (fictional)
+  request_id: R001
+- id: INT-0002
+  type: organisation
+  name: Voorbeeld Logistiek NV
+  aliases: []
+  reason: Shell-company indicators (fictional)
+  request_id: R001
+- id: INT-0003
+  type: person
+  name: Jan Voorbeeld
+  dob: '1971-03-14'
+  aliases: [J. Voorbeeld]
+  reason: Fraud conviction, bank policy exit (fictional)
+  request_id: R001
+- id: INT-0004
+  type: organisation
+  name: Fictitious Shipping Ltd
+  aliases: [Fictitious Shipping Limited]
+  reason: Linked to sanctioned vessel operator (fictional)
+  request_id: R001
+- id: INT-0005
+  type: person
+  name: Piet Proefpersoon
+  dob: '1983'
+  aliases: []
+  reason: Money mule network (fictional)
+  request_id: R001
+- id: INT-0006
+  type: organisation
+  name: Demo Metals Trading FZE
+  aliases: [Demo Metals FZE]
+  reason: Sanctions circumvention typology match (fictional)
+  request_id: R001
+- id: INT-0007
+  type: person
+  name: Erika Mustermann-Test
+  dob: '1965-07-01'
+  aliases: []
+  reason: Internal fraud case (fictional)
+  request_id: R001
+- id: INT-0008
+  type: organisation
+  name: Placeholder Capital Partners LLC
+  aliases: []
+  reason: Adverse media, exited (fictional)
+  request_id: R001
+- id: INT-0009
+  type: organisation
+  name: Testcase Agro Export BV
+  aliases: [Testcase Agro]
+  reason: Dual-use goods diversion (fictional)
+  request_id: R001
+- id: INT-0010
+  type: person
+  name: John Q. Sample
+  dob: '1990-11-30'
+  aliases: [Johnny Sample]
+  reason: Identity fraud (fictional)
+  request_id: R001

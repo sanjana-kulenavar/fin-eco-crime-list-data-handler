@@ -1,0 +1,19 @@
+{
+  "system": "delta_feed",
+  "snapshot_date": "2026-11-22",
+  "file": "2026-11-22.json",
+  "sources": [
+    "eu",
+    "un",
+    "ofac",
+    "uk",
+    "nl",
+    "internal"
+  ],
+  "blocked_sources": {},
+  "record_count": 33476,
+  "sha256": "ca5bdde15d437d34f4bb8260f42b6b4992901bc6d614833cb012c2bf1d68190c",
+  "generated_at": "2026-11-22T20:08:00Z",
+  "dq_gate_passed": true,
+  "variant": "clean"
+}

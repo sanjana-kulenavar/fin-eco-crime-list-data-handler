@@ -1,0 +1,19 @@
+{
+  "system": "customer_screening",
+  "snapshot_date": "2026-11-22",
+  "file": "2026-11-22.jsonl",
+  "sources": [
+    "eu",
+    "un",
+    "ofac",
+    "uk",
+    "nl",
+    "internal"
+  ],
+  "blocked_sources": {},
+  "record_count": 33476,
+  "sha256": "c6dffb9618d12c16d37f53877145f5a324f0e7833e7b77458949e68187c64728",
+  "generated_at": "2026-11-22T20:08:00Z",
+  "dq_gate_passed": true,
+  "variant": "clean"
+}

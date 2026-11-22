@@ -1,0 +1,164 @@
+{
+  "source": "un",
+  "from": null,
+  "to": "2026-11-22",
+  "initial_load": true,
+  "counts": {
+    "added": 1007,
+    "removed": 0,
+    "amended": 0
+  },
+  "changes": [
+    {
+      "entity_key": "un:6907993",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "ERIC BADEGE"
+    },
+    {
+      "entity_key": "un:6907994",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "FRANK KAKOLELE BWAMBALE"
+    },
+    {
+      "entity_key": "un:6907995",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "GASTON IYAMUREMYE"
+    },
+    {
+      "entity_key": "un:6907996",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "INNOCENT KAINA"
+    },
+    {
+      "entity_key": "un:6907997",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "JÉRÔME KAKWAVU BUKANDE"
+    },
+    {
+      "entity_key": "un:6907998",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "GERMAIN KATANGA"
+    },
+    {
+      "entity_key": "un:6908023",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "THOMAS LUBANGA"
+    },
+    {
+      "entity_key": "un:6907999",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "SULTANI MAKENGA"
+    },
+    {
+      "entity_key": "un:6908000",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "KHAWA PANGA MANDRO"
+    },
+    {
+      "entity_key": "un:6908001",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "CALLIXTE MBARUSHIMANA"
+    },
+    {
+      "entity_key": "un:6908002",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "IRUTA DOUGLAS MPAMO"
+    },
+    {
+      "entity_key": "un:6908003",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "SYLVESTRE MUDACUMURA"
+    },
+    {
+      "entity_key": "un:6908004",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "LEODOMIR MUGARAGU"
+    },
+    {
+      "entity_key": "un:6908006",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "LEOPOLD MUJYAMBERE"
+    },
+    {
+      "entity_key": "un:6908005",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "JAMIL MUKULU"
+    },
+    {
+      "entity_key": "un:6908007",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "IGNACE MURWANASHYAKA"
+    },
+    {
+      "entity_key": "un:6908008",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "STRATON MUSONI"
+    },
+    {
+      "entity_key": "un:6908009",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "JULES MUTEBUTSI"
+    },
+    {
+      "entity_key": "un:6908010",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "BAUDOIN NGARUYE WA MYAMURO"
+    },
+    {
+      "entity_key": "un:6908011",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "MATHIEU, CHUI NGUDJOLO"
+    },
+    {
+      "entity_key": "un:6908012",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "FLORIBERT NGABU NJABU"
+    },
+    {
+      "entity_key": "un:6908013",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "LAURENT NKUNDA"
+    },
+    {
+      "entity_key": "un:6908014",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "FELICIEN NSANZUBUKIRE"
+    },
+    {
+      "entity_key": "un:6908015",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "PACIFIQUE NTAWUNGUKA"
+    },
+    {
+      "entity_key": "un:6908016",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "JAMES NYAKUNI"
+    }
+  ],
+  "changes_truncated": true
+}

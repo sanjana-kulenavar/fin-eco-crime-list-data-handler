@@ -1,0 +1,1970 @@
+source,rule_id,severity,entity_key,field,value,message,fixed
+eu,DQ002,medium,eu:106138,full_name,Soussou  Abib,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:107850,full_name,Administração Nacional da  Tecnologia Espacial,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:107850,full_name,Administrația  Națională pentru Tehnologie  Aerospațială,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:107850,full_name,Den nationella styrelsen för  rymdteknik (NATA),leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:107850,full_name,Nacionalinė aerokosminės erdvės technologijų  administracija,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:107850,full_name,Nacionalna  uprava za svemirsku tehnologiju,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:107850,full_name,Národní úřad leteckých  a kosmických technologií (NATA),leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:107850,full_name,Národný úrad  leteckých a kozmických  technológií – NATA,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:107850,full_name,den nationella styrelsen  för rymdutveckling,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:107850,full_name,voorheen National Aerospace  Development Administration,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:107850,full_name,Εθνική Υπηρεσία για την Τεχνολογία  της Αεροδιαστημικής,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:1079,full_name,Dawood  Ebrahim,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:112193,full_name,Hisham Mohammad Mamdouh  AL‐SHA'AR,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:112371,full_name,Korea Kumsani  kaubanduskorporatsioon,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:113760,full_name,Grupo empresarial  Mansudae Overseas  Project,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:113760,full_name,Grupul  de întreprinderi din cadrul proiectului  Mansudae Overseas,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114281,full_name,Státní jednotný podnik Republiky  Krym »Crimean Sea Ports«‘ (Krymské  námořní přístavy),leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114281,full_name,«Întreprinderea unitară de stat a  Republicii Crimeea „Porturile  maritime ale Crimeei”»,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114281,full_name,»Republikken Krims statsejede  virksomhed »Crimean Sea Ports»«,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114281,full_name,Štátny unitárny podnik ‚Krymskej  republiky‘ ‚Krymské námorné  prístavy‘,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114281,full_name,Държавно единно предприятие на  Кримската република „Кримски  морски пристанища“,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114281,full_name,“Impresa unitaria statale della  Repubblica di Crimea ‘porti  marittimi di Crimea’”,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114281,full_name,“Krimas  Republikas” valsts unitārs uzņēmums “Crimean Sea Ports”,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114281,full_name,“Κρατική Ενιαία Επιχείρηση της  Δημοκρατίας της Κριμαίας “Θαλάσσιοι  Λιμένες της Κριμαίας”“,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114281,full_name,”Krimin tasavallan omistama valtion  unitaarinen yritys ”Krimin merisatamat””,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114281,full_name,"„Krími  Tengeri Kikötők”, a „Krími  Köztársaság” állami egységes  vállalata",leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114281,full_name,„Państwowe  przedsiębiorstwo unitarne Republiki  Krymu »Krymskie Porty Morskie«”,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114583,full_name,A Népi Fegyveres  Erők Minisztériuma,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114583,full_name,Gynybos  ministerija,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114583,full_name,Ministarstvo  obrane,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114583,full_name,Ministarstvo Narodnih oružanih  snaga,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114583,full_name,Ministeriet for  Folkets Væbnede Styrker (MPAF),leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114583,full_name,Ministerium für nationale  Verteidigung,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114583,full_name,Ministero delle Forze armate del  popolo,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114583,full_name,Ministeru għall-Forzi Armati tal-Poplu  (MPAF),leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114583,full_name,Ministerul  Apărării,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114583,full_name,Ministry of the People’s  Armed Forces (MPAF),leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114583,full_name,Ministère des forces armées  populaires,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114583,full_name,Rahvaarmee  ministeerium,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114583,full_name,Υπουργείο  των Λαϊκών Ενόπλων Δυνάμεων  (MPAF),leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114583,full_name,Министерство  на отбраната,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114583,full_name,Министерство на народните въоръжени  сили (MPAF),leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114583,full_name,Министерство на националната  отбрана,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114585,full_name,Armée populaire  coréenne,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114585,full_name,Exército do Povo  Coreano,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114585,full_name,Koreaans  Volksleger,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114585,full_name,Koreanische  Volksarmee,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114585,full_name,Ludowe Siły Zbrojne  Korei,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114591,full_name,Korea rahvusvaheline  näitusekorporatsioon,leading/trailing/double whitespace in name,true
+eu,DQ002,medium,eu:114591,full_name,Korejska mednarodna  razstavna družba,leading/trailing/double whitespace in name,true
+eu,DQ005,medium,eu:101,norm_name,barzan ibrahim hassan al tikriti,3 names normalise to the same key,true
+eu,DQ005,medium,eu:1010,norm_name,brigada internacional islamica,2 names normalise to the same key,true
+eu,DQ005,medium,eu:103,norm_name,huda salih mahdi ammash,4 names normalise to the same key,true
+eu,DQ005,medium,eu:105403,norm_name,kim il su,2 names normalise to the same key,true
+eu,DQ005,medium,eu:105407,norm_name,song sam kang,2 names normalise to the same key,true
+eu,DQ005,medium,eu:105411,norm_name,choe chun sik,2 names normalise to the same key,true
+eu,DQ005,medium,eu:105416,norm_name,sin kyu nam,2 names normalise to the same key,true
+eu,DQ005,medium,eu:105420,norm_name,pak chun san,2 names normalise to the same key,true
+eu,DQ005,medium,eu:107804,norm_name,chun sik choe,3 names normalise to the same key,true
+eu,DQ005,medium,eu:107938,norm_name,yong chol kim,2 names normalise to the same key,true
+eu,DQ005,medium,eu:108623,norm_name,choe kyong song,2 names normalise to the same key,true
+eu,DQ005,medium,eu:108625,norm_name,choe yong ho,2 names normalise to the same key,true
+eu,DQ005,medium,eu:108627,norm_name,sung mu hong,3 names normalise to the same key,true
+eu,DQ005,medium,eu:108633,norm_name,kim chun sam,2 names normalise to the same key,true
+eu,DQ005,medium,eu:108635,norm_name,kim chun sop,2 names normalise to the same key,true
+eu,DQ005,medium,eu:108637,norm_name,jong gak kim,2 names normalise to the same key,true
+eu,DQ005,medium,eu:108640,norm_name,rak gyom kim,2 names normalise to the same key,true
+eu,DQ005,medium,eu:108643,norm_name,kim won hong,2 names normalise to the same key,true
+eu,DQ005,medium,eu:108647,norm_name,jong chon pak,2 names normalise to the same key,true
+eu,DQ005,medium,eu:108651,norm_name,son chol ju,2 names normalise to the same key,true
+eu,DQ005,medium,eu:108653,norm_name,yun jong rin,2 names normalise to the same key,true
+eu,DQ005,medium,eu:110167,norm_name,rafea abu saad,2 names normalise to the same key,true
+eu,DQ005,medium,eu:111686,norm_name,mohamed al chaar,2 names normalise to the same key,true
+eu,DQ005,medium,eu:111686,norm_name,mohamed al shaar,2 names normalise to the same key,true
+eu,DQ005,medium,eu:111686,norm_name,mohammad al chaar,2 names normalise to the same key,true
+eu,DQ005,medium,eu:111686,norm_name,mohammad al shaar,2 names normalise to the same key,true
+eu,DQ005,medium,eu:111686,norm_name,mohammed al chaar,2 names normalise to the same key,true
+eu,DQ005,medium,eu:111686,norm_name,mohammed al shaar,2 names normalise to the same key,true
+eu,DQ005,medium,eu:111686,norm_name,muhammad al chaar,2 names normalise to the same key,true
+eu,DQ005,medium,eu:111686,norm_name,muhammad al shaar,2 names normalise to the same key,true
+eu,DQ005,medium,eu:112270,norm_name,chol cho,2 names normalise to the same key,true
+eu,DQ005,medium,eu:112291,norm_name,yong won jo,2 names normalise to the same key,true
+eu,DQ005,medium,eu:112320,norm_name,byong chol min,2 names normalise to the same key,true
+eu,DQ005,medium,eu:112348,norm_name,to chun pak,3 names normalise to the same key,true
+eu,DQ005,medium,eu:112353,norm_name,chae il ri,2 names normalise to the same key,true
+eu,DQ005,medium,eu:112364,norm_name,yong mu ri,3 names normalise to the same key,true
+eu,DQ005,medium,eu:113677,norm_name,chang su han,2 names normalise to the same key,true
+eu,DQ005,medium,eu:113697,norm_name,chol song cho,2 names normalise to the same key,true
+eu,DQ005,medium,eu:114826,norm_name,sok min choe,3 names normalise to the same key,true
+eu,DQ005,medium,eu:114830,norm_name,hyok chu,2 names normalise to the same key,true
+eu,DQ005,medium,eu:114848,norm_name,kyong il kim,2 names normalise to the same key,true
+eu,DQ005,medium,eu:114855,norm_name,tong chol kim,3 names normalise to the same key,true
+eu,DQ005,medium,eu:114860,norm_name,chol man ko,2 names normalise to the same key,true
+eu,DQ005,medium,eu:114872,norm_name,kyong hwan mun,2 names normalise to the same key,true
+eu,DQ005,medium,eu:114878,norm_name,won uk pae,2 names normalise to the same key,true
+eu,DQ005,medium,eu:114884,norm_name,pong nam pak,2 names normalise to the same key,true
+eu,DQ005,medium,eu:114898,norm_name,mun il pak,2 names normalise to the same key,true
+eu,DQ005,medium,eu:114913,norm_name,chun hwan ri,2 names normalise to the same key,true
+eu,DQ005,medium,eu:114925,norm_name,chun song ri,2 names normalise to the same key,true
+eu,DQ005,medium,eu:114931,norm_name,pyong chol ri,3 names normalise to the same key,true
+eu,DQ010,high,eu:105305,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:107806,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:108625,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:108631,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:108633,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:108635,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:108640,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:108647,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:108649,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:108651,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:108653,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:108657,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:109872,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:109900,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:109904,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:109906,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:110142,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:111318,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:112286,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:112309,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:112342,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:113186,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:113207,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:113210,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:113213,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:113216,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:113218,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:113221,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:113224,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:113672,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:113713,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:113717,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:114578,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:115137,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:115139,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:115150,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:115152,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:115162,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:115176,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:115178,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:115180,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:115191,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:115960,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:115965,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:115977,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:117053,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:117060,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:117498,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:117509,birth_dates,,person has no date of birth,false
+eu,DQ010,high,eu:117548,birth_dates,,person has no date of birth,false
+eu,DQ011,medium,eu:101,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:103,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:105618,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:105748,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:105792,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:106544,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:107009,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:107689,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:107691,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:108470,precision,month,no day-precision DOB (only month),false
+eu,DQ011,medium,eu:108623,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:109183,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:109324,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:109405,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:109426,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:109750,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:110103,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:110107,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:110149,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:110157,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:110161,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:110164,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:110167,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:110171,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:110174,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:1102,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:110874,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:110994,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:111143,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:111811,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:112114,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:112193,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:112198,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:112353,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:113095,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:113179,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:113193,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:113197,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:114931,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:115291,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:115307,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:115488,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:115820,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:116041,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:116737,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:117244,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:117490,precision,month,no day-precision DOB (only month),false
+eu,DQ011,medium,eu:117501,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:119554,precision,year,no day-precision DOB (only year),false
+eu,DQ011,medium,eu:119557,precision,year,no day-precision DOB (only year),false
+eu,DQ012,low,eu:108086,birth_dates,"1959,1960,1961,1963,1965","5 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:109405,birth_dates,"1992,1993,1994,1995","4 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:109426,birth_dates,"1991,1992,1993","3 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:127388,birth_dates,"1964,1965","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:127433,birth_dates,"1972,1973","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:128012,birth_dates,"1971,1972,1973","3 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:139168,birth_dates,"1955,1956","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:145737,birth_dates,"1963,1964","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:146083,birth_dates,"1968,1969,1970","3 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:146090,birth_dates,"1987,1988,1991,1992,1993","5 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:146397,birth_dates,"1959,1960","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:146444,birth_dates,"1963,1964","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:167890,birth_dates,"1976,1977","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:174159,birth_dates,"1979,1980,1981","3 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:176944,birth_dates,"1984,1985","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:180517,birth_dates,"1966,1967","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:20,birth_dates,"1965,1966","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:3780,birth_dates,"1958,1959","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:3803,birth_dates,"1952,1953","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:5417,birth_dates,"1943,1944","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:5618,birth_dates,"1974,1975,1979","3 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:5619,birth_dates,"1974,1975","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:5759,birth_dates,"1960,1961","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:5807,birth_dates,"1953,1954","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:6114,birth_dates,"1948,1949","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:640,birth_dates,"1937,1938,1939,1940,1941,1942,1943,1944,1945","9 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:6596,birth_dates,"1959,1960","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:6613,birth_dates,"1961,1962,1966","3 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:7206,birth_dates,"1965,1966","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:7237,birth_dates,"1970,1971,1972,1973,1974,1975","6 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:7356,birth_dates,"1969,1970,1971","3 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:7491,birth_dates,"1981,1982","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ012,low,eu:833,birth_dates,"1956,1957","2 single-year DOBs, consecutive years -> express as a range",true
+eu,DQ014,high,eu:127388,raw,1343,DOB before 1900 or in the future,false
+eu,DQ014,high,eu:127411,raw,1340,DOB before 1900 or in the future,false
+eu,DQ014,high,eu:127433,raw,1352,DOB before 1900 or in the future,false
+eu,DQ020,medium,eu:1004,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:101,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:103,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:105424,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:105618,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:105631,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:106144,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:106385,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:106389,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107163,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107163,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107480,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:1077,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:1077,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107804,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107808,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107810,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107810,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107812,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107814,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107814,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107816,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107818,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107820,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107822,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107828,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107830,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107832,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107834,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:107938,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:108086,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:108086,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:108086,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:108086,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:108086,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:108086,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:108086,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:108437,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:108623,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:108627,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:108659,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:108659,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:108667,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:108672,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:109405,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:109405,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:109405,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:109405,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:109426,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ020,medium,eu:109426,birth,00,country not mappable to ISO 3166-1,false
+eu,DQ021,low,eu:105210,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:105305,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:105403,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:105407,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:105411,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:105416,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:105420,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:105424,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:105626,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:105792,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:106530,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:106544,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:107009,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:107163,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:107480,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:108623,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:108625,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:108627,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:108631,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:108633,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:108635,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:108637,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:108640,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:108643,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:108647,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:108649,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:108651,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:108653,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:108657,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:108659,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:108667,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:109405,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:109426,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:109865,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:109872,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:109876,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:109880,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:109896,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:109900,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:109904,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:109906,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:109980,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:109984,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:109988,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:110103,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:110107,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:110111,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:110118,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:110138,countries,,person has no nationality/citizenship,false
+eu,DQ021,low,eu:110142,countries,,person has no nationality/citizenship,false
+eu,DQ030,medium,eu:1068,other,640120-01-5529,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:1068,passport,A 10472263,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:107480,other,911-10-77,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:107842,swift_bic,DCBK KPPY,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:1079,passport,A-333602,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:1079,passport,C-267185,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:1079,passport,G-869537,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:1079,passport,H-123259,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:1079,passport,KC-285901,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:108659,passport,PS- 563410163,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:109887,other,060- 10276707,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:110350,other,1-64-86-22311-29,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:110425,passport,8208 No. 555627,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:112075,national_id,103-00653129-22,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:113086,other,1-64-87-77512-30,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:113282,other,1-72-96-80384-52,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:113291,other,1-69-09-51400-64,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:117485,other,BC 17444,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:117490,other,Tatmadaw Kyee 19571,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:117494,other,BC 25723,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:117498,other,BC 23750,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:117943,national_id,660603-05-5267,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:118025,passport,S/263963,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:119304,national_id,010-30208342,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:119304,passport,N 011612445,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:121025,other,V-15222057,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:121030,other,V-6250588,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:121039,other,V-11311672,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:121043,other,V-14970215,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:122300,passport,002-14-L169340,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:122300,other,784-1976-7135283-5,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:124283,other,V-7087964,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:124294,other,V-4114842,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:124298,other,V-6432672,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:124306,other,V-7659695,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:124315,other,V-8714253,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:124322,other,V-8608523,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:124325,other,V-10002096,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:124329,other,V-14211633,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:124333,other,V-3304045,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:124337,other,V-8348784,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:124573,other,V-9499372,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:125154,passport,N°235/MISPAT/DIRCAB/DGPC/DGAEI/SI/SP,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:125228,national_id,35202-4135948-7,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:125637,passport,722 706 177,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:125648,company_reg,1 027 809 210 054,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:125660,company_reg,1 121 402 000 213,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:125660,other,1 402 015 986,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:125666,company_reg,1 159 102 022 738,identifier contains whitespace/punctuation,true
+eu,DQ030,medium,eu:125666,other,9 102 157 783,identifier contains whitespace/punctuation,true
+eu,DQ031,medium,eu:154720,tax_id,7805060220,identifier listed 2 times on the same entity,true
+eu,DQ031,medium,eu:174984,company_reg,1027802718437,identifier listed 2 times on the same entity,true
+eu,DQ031,medium,eu:179756,company_reg,1025902394385,identifier listed 2 times on the same entity,true
+eu,DQ032,high,eu:107832,passport,563410081,same identifier also on eu:147507,false
+eu,DQ032,high,eu:122257,other,10090110187,same identifier also on eu:141876,false
+eu,DQ032,high,eu:141876,other,10090110187,same identifier also on eu:122257,false
+eu,DQ032,high,eu:147507,passport,563410081,same identifier also on eu:107832,false
+eu,DQ032,high,eu:153605,tax_id,771577190559,same identifier also on eu:153611,false
+eu,DQ032,high,eu:153611,tax_id,771577190559,same identifier also on eu:153605,false
+eu,DQ032,high,eu:159967,other,504001001,same identifier also on eu:160052,false
+eu,DQ032,high,eu:160052,other,504001001,same identifier also on eu:159967,false
+eu,DQ032,high,eu:162658,other,771501001,same identifier also on eu:174792,false
+eu,DQ032,high,eu:162874,other,780401001,same identifier also on eu:184089,false
+eu,DQ032,high,eu:163004,other,770901001,same identifier also on eu:184275,false
+eu,DQ032,high,eu:163389,other,026801001,same identifier also on eu:181503,false
+eu,DQ032,high,eu:165849,passport,572110043,same identifier also on eu:167900,false
+eu,DQ032,high,eu:165994,company_reg,CZ05185327,same identifier also on eu:175803,false
+eu,DQ032,high,eu:167095,other,770401001,same identifier also on eu:183966,false
+eu,DQ032,high,eu:167900,passport,572110043,same identifier also on eu:165849,false
+eu,DQ032,high,eu:171250,passport,768613166,same identifier also on eu:186049,false
+eu,DQ032,high,eu:171681,other,772501001,"same identifier also on eu:184007, eu:175818",false
+eu,DQ032,high,eu:172861,company_reg,100386629,same identifier also on eu:174276,false
+eu,DQ032,high,eu:172910,other,780201001,same identifier also on eu:173519,false
+eu,DQ032,high,eu:173519,other,780201001,same identifier also on eu:172910,false
+eu,DQ032,high,eu:174276,company_reg,100386629,same identifier also on eu:172861,false
+eu,DQ032,high,eu:174792,other,771501001,same identifier also on eu:162658,false
+eu,DQ032,high,eu:174811,other,526001001,same identifier also on eu:184109,false
+eu,DQ032,high,eu:175352,other,525801001,same identifier also on eu:175383,false
+eu,DQ032,high,eu:175352,tax_id,5258100129,same identifier also on eu:175383,false
+eu,DQ032,high,eu:175383,other,525801001,same identifier also on eu:175352,false
+eu,DQ032,high,eu:175383,tax_id,5258100129,same identifier also on eu:175352,false
+eu,DQ032,high,eu:175803,company_reg,CZ05185327,same identifier also on eu:165994,false
+eu,DQ032,high,eu:175818,other,772501001,"same identifier also on eu:171681, eu:184007",false
+eu,DQ032,high,eu:176852,other,701701001,same identifier also on eu:184496,false
+eu,DQ032,high,eu:176861,other,773101001,"same identifier also on eu:184001, eu:184551",false
+eu,DQ032,high,eu:178981,passport,A0030940,same identifier also on eu:3793,false
+eu,DQ032,high,eu:179301,company_reg,1082468060553,same identifier also on eu:180953,false
+eu,DQ032,high,eu:179311,other,771301001,same identifier also on eu:179811,false
+eu,DQ032,high,eu:179702,other,770501001,"same identifier also on eu:184013, eu:183981",false
+eu,DQ032,high,eu:179811,other,771301001,same identifier also on eu:179311,false
+eu,DQ032,high,eu:180912,company_reg,1020502527066,same identifier also on eu:182588,false
+eu,DQ032,high,eu:180948,other,771701001,same identifier also on eu:181646,false
+eu,DQ032,high,eu:180953,company_reg,1082468060553,same identifier also on eu:179301,false
+eu,DQ032,high,eu:181503,other,026801001,same identifier also on eu:163389,false
+eu,DQ032,high,eu:181538,other,770401001,same identifier also on eu:183972,false
+eu,DQ032,high,eu:181578,other,615401001,"same identifier also on eu:185410, eu:185418",false
+eu,DQ032,high,eu:181613,other,772401001,same identifier also on eu:183768,false
+eu,DQ032,high,eu:181646,other,771701001,same identifier also on eu:180948,false
+eu,DQ032,high,eu:181662,other,668501001,same identifier also on eu:182580,false
+eu,DQ032,high,eu:182580,other,668501001,same identifier also on eu:181662,false
+eu,DQ032,high,eu:182588,company_reg,1020502527066,same identifier also on eu:180912,false
+eu,DQ032,high,eu:182948,tax_id,183209712425,same identifier also on eu:182953,false
+eu,DQ032,high,eu:182953,tax_id,183209712425,same identifier also on eu:182948,false
+eu,DQ033,low,eu:1004,national_id,3603251708570001,national_id without issuing country,false
+eu,DQ033,low,eu:105411,passport,745132109,passport without issuing country,false
+eu,DQ033,low,eu:105416,passport,PO472132950,passport without issuing country,false
+eu,DQ033,low,eu:105420,passport,PS472220097,passport without issuing country,false
+eu,DQ033,low,eu:105596,national_id,M6600000258472,national_id without issuing country,false
+eu,DQ033,low,eu:106548,national_id,1121628414,national_id without issuing country,false
+eu,DQ033,low,eu:106548,passport,E704088,passport without issuing country,false
+eu,DQ033,low,eu:106554,passport,516088643,passport without issuing country,false
+eu,DQ033,low,eu:107693,national_id,08619445,national_id without issuing country,false
+eu,DQ033,low,eu:107806,passport,472320665,passport without issuing country,false
+eu,DQ033,low,eu:107806,passport,563120356,passport without issuing country,false
+eu,DQ033,low,eu:107810,passport,836110034,passport without issuing country,false
+eu,DQ033,low,eu:107814,passport,4721202031,passport without issuing country,false
+eu,DQ033,low,eu:107814,passport,836110035,passport without issuing country,false
+eu,DQ033,low,eu:107816,passport,PS472330208,passport without issuing country,false
+eu,DQ033,low,eu:107820,passport,199421147,passport without issuing country,false
+eu,DQ033,low,eu:107820,passport,381110042,passport without issuing country,false
+eu,DQ033,low,eu:107820,passport,563210184,passport without issuing country,false
+eu,DQ033,low,eu:107828,passport,563120630,passport without issuing country,false
+eu,DQ033,low,eu:107830,passport,PO381230469,passport without issuing country,false
+eu,DQ033,low,eu:107832,passport,563410081,passport without issuing country,false
+eu,DQ033,low,eu:1079,passport,G-869537,passport without issuing country,false
+eu,DQ033,low,eu:1079,passport,H-123259,passport without issuing country,false
+eu,DQ033,low,eu:1079,passport,KC-285901,passport without issuing country,false
+eu,DQ033,low,eu:1079,passport,P537849,passport without issuing country,false
+eu,DQ033,low,eu:108643,passport,745310010,passport without issuing country,false
+eu,DQ033,low,eu:108659,passport,381320634,passport without issuing country,false
+eu,DQ033,low,eu:108659,passport,PS- 563410163,passport without issuing country,false
+eu,DQ033,low,eu:1096,national_id,05258253,national_id without issuing country,false
+eu,DQ033,low,eu:110269,passport,381420565,passport without issuing country,false
+eu,DQ033,low,eu:110269,passport,654120219,passport without issuing country,false
+eu,DQ033,low,eu:110281,passport,PD472310104,passport without issuing country,false
+eu,DQ033,low,eu:110286,passport,381310014,passport without issuing country,false
+eu,DQ033,low,eu:110302,passport,472310082,passport without issuing country,false
+eu,DQ033,low,eu:110425,passport,8208 No. 555627,passport without issuing country,false
+eu,DQ033,low,eu:111822,passport,PD836410105,passport without issuing country,false
+eu,DQ033,low,eu:111832,passport,563310042,passport without issuing country,false
+eu,DQ033,low,eu:112270,passport,736410010,passport without issuing country,false
+eu,DQ033,low,eu:112291,passport,108210124,passport without issuing country,false
+eu,DQ033,low,eu:112303,passport,563120238,passport without issuing country,false
+eu,DQ033,low,eu:112314,passport,745310111,passport without issuing country,false
+eu,DQ033,low,eu:112342,passport,290410121,passport without issuing country,false
+eu,DQ033,low,eu:112358,passport,654310175,passport without issuing country,false
+eu,DQ033,low,eu:113672,passport,65441078,passport without issuing country,false
+eu,DQ033,low,eu:113677,passport,745420176,passport without issuing country,false
+eu,DQ033,low,eu:113692,passport,563120368,passport without issuing country,false
+eu,DQ033,low,eu:113697,passport,654320502,passport without issuing country,false
+eu,DQ033,low,eu:113703,passport,472234895,passport without issuing country,false
+eu,DQ033,low,eu:113713,passport,654110043,passport without issuing country,false
+eu,DQ033,low,eu:113717,passport,563120235,passport without issuing country,false
+eu,DQ040,high,eu:112348,primary_name,chun pak to,possible duplicate of eu:6849,false
+eu,DQ040,high,eu:136665,primary_name,ivanov pavlovich sergey,possible duplicate of eu:146570,false
+eu,DQ040,high,eu:146570,primary_name,ivanov pavlovich sergey,possible duplicate of eu:136665,false
+eu,DQ040,high,eu:149929,primary_name,ibatullin rakhmatullovich ramil,possible duplicate of eu:151447,false
+eu,DQ040,high,eu:151447,primary_name,ibatullin rakhmatullovich ramil,possible duplicate of eu:149929,false
+eu,DQ040,high,eu:153824,primary_name,igor jurjevitj tjajka,possible duplicate of eu:154246,false
+eu,DQ040,high,eu:154246,primary_name,igor jurjevitj tjajka,possible duplicate of eu:153824,false
+eu,DQ040,high,eu:163207,primary_name,flot llc mg,possible duplicate of eu:170467,false
+eu,DQ040,high,eu:164300,primary_name,kirill nikiforov sergejevic,possible duplicate of eu:165712,false
+eu,DQ040,high,eu:165712,primary_name,kirill nikiforov sergejevic,possible duplicate of eu:164300,false
+eu,DQ040,high,eu:170467,primary_name,flot llc mg,possible duplicate of eu:163207,false
+eu,DQ040,high,eu:171642,primary_name,jsc signal,possible duplicate of eu:179862,false
+eu,DQ040,high,eu:179862,primary_name,jsc signal,possible duplicate of eu:171642,false
+eu,DQ040,high,eu:181709,primary_name,abdul dagalo hamdan rahim,possible duplicate of eu:181858,false
+eu,DQ040,high,eu:181858,primary_name,abdul dagalo hamdan rahim,possible duplicate of eu:181709,false
+eu,DQ040,high,eu:6218,primary_name,hossein taeb,possible duplicate of eu:6480,false
+eu,DQ040,high,eu:6305,primary_name,al ibrahim mohammad shaar,possible duplicate of eu:6831,false
+eu,DQ040,high,eu:6480,primary_name,hossein taeb,possible duplicate of eu:6218,false
+eu,DQ040,high,eu:6831,primary_name,al ibrahim mohammad shaar,possible duplicate of eu:6305,false
+eu,DQ040,high,eu:6849,primary_name,chun pak to,possible duplicate of eu:112348,false
+eu,DQ050,high,un:110331,un_reference,IRE.073,UN-listed SPECIAL INDUSTRIES GROUP (SIG) not found on EU list; 6010 days since UN listing,false
+eu,DQ050,high,un:110332,un_reference,IRE.072,UN-listed SOUTH SHIPPING LINE IRAN (SSL) not found on EU list; 6010 days since UN listing,false
+eu,DQ050,high,un:110334,un_reference,IRE.070,UN-listed SHAHID SAYYADE SHIRAZI INDUSTRIES (SSSI) not found on EU list; 6010 days since UN listing,false
+eu,DQ050,high,un:110337,un_reference,IRE.067,UN-listed SHAHID HEMMAT INDUSTRIAL GROUP (SHIG) not found on EU list; 7274 days since UN listing,false
+eu,DQ050,high,un:110338,un_reference,IRE.066,UN-listed SHAHID BAGHERI INDUSTRIAL GROUP (SBIG) not found on EU list; 7274 days since UN listing,false
+eu,DQ050,high,un:110340,un_reference,IRE.064,UN-listed SEPANIR not found on EU list; 6010 days since UN listing,false
+eu,DQ050,high,un:110343,un_reference,IRE.061,UN-listed SAHAND ALUMINUM PARTS INDUSTRIAL COMPANY (SAPICO) not found on EU list; 6010 days since UN listing,false
+eu,DQ050,high,un:110344,un_reference,IRE.060,UN-listed SAFETY EQUIPMENT PROCUREMENT (SEP) not found on EU list; 6838 days since UN listing,false
+eu,DQ050,high,un:110350,un_reference,IRE.054,UN-listed PISHGAM ENERGY INDUSTRIES not found on EU list; 6838 days since UN listing,false
+eu,DQ050,high,un:110354,un_reference,IRE.050,UN-listed PARCHIN CHEMICAL INDUSTRIES not found on EU list; 7183 days since UN listing,false
+eu,DQ050,high,un:110357,un_reference,IRE.047,UN-listed NUCLEAR RESEARCH CENTER FOR AGRICULTURE AND MEDICINE (NFRPC) not found on EU list; 6010 days since UN listing,false
+eu,DQ050,high,un:110365,un_reference,IRE.039,UN-listed MAKIN not found on EU list; 6010 days since UN listing,false
+eu,DQ050,high,un:110368,un_reference,IRE.036,UN-listed KHATAM AL-ANBIYA CONSTRUCTION HEADQUARTERS (KAA) not found on EU list; 6010 days since UN listing,false
+eu,DQ050,high,un:110389,un_reference,IRE.015,UN-listed ESFAHAN NUCLEAR FUEL RESEARCH AND PRODUCTION CENTRE (NFRPC) AND ESFAHAN NUCLEAR TECHNOLOGY CENTRE (ENTC) not found on EU list; 7183 days since UN listing,false
+eu,DQ050,high,un:110391,un_reference,IRE.013,UN-listed DOOSTAN INTERNATIONAL COMPANY (DICO) not found on EU list; 6010 days since UN listing,false
+eu,DQ050,high,un:110392,un_reference,IRE.012,UN-listed DEFENSE TECHNOLOGY AND SCIENCE RESEARCH CENTER (DTSRC) not found on EU list; 6010 days since UN listing,false
+eu,DQ050,high,un:110393,un_reference,IRE.011,UN-listed DEFENCE INDUSTRIES ORGANISATION (DIO) not found on EU list; 7274 days since UN listing,false
+eu,DQ050,high,un:110398,un_reference,IRE.006,UN-listed ATOMIC ENERGY ORGANISATION OF IRAN (AEOI) not found on EU list; 7274 days since UN listing,false
+eu,DQ050,high,un:110399,un_reference,IRE.005,UN-listed ARMAMENT INDUSTRIES GROUP (AIG) not found on EU list; 6010 days since UN listing,false
+eu,DQ050,high,un:110402,un_reference,IRE.002,UN-listed ABZAR BORESH KAVEH CO. (BK CO.) not found on EU list; 6838 days since UN listing,false
+eu,DQ050,high,un:110913,un_reference,TAI.036,UN-listed FAIZ not found on EU list; 9403 days since UN listing,false
+eu,DQ050,high,un:110959,un_reference,TAI.095,UN-listed WALIJAN not found on EU list; 9403 days since UN listing,false
+eu,DQ050,high,un:111094,un_reference,TAI.020,UN-listed MATIULLAH not found on EU list; 9403 days since UN listing,false
+eu,DQ050,high,un:112043,un_reference,QDI.083,UN-listed ZAKARYA ESSABAR not found on EU list; 8819 days since UN listing,false
+eu,DQ050,high,un:113335,un_reference,QDE.111,UN-listed AL-HARAMAIN: ALBANIA BRANCH not found on EU list; 8174 days since UN listing,false
+eu,DQ050,high,un:113457,un_reference,QDE.002,UN-listed AL-ITIHAAD AL-ISLAMIYA / AIAI not found on EU list; 9178 days since UN listing,false
+eu,DQ050,high,un:113883,un_reference,QDE.068,UN-listed UMMAH TAMEER E-NAU (UTN) not found on EU list; 9099 days since UN listing,false
+eu,DQ050,high,un:114089,un_reference,QDE.096,UN-listed LASHKAR I JHANGVI (LJ) not found on EU list; 8693 days since UN listing,false
+eu,DQ050,high,un:3000441,un_reference,TAE.012,UN-listed HAQQANI NETWORK (HQN) not found on EU list; 5130 days since UN listing,false
+eu,DQ050,high,un:690730,un_reference,LYI.001,UN-listed ABDULQADER MOHAMMED AL-BAGHDADI not found on EU list; 5748 days since UN listing,false
+eu,DQ050,high,un:690732,un_reference,LYI.003,UN-listed SAYYID MOHAMMED QADHAF AL-DAM not found on EU list; 5748 days since UN listing,false
+eu,DQ050,high,un:690757,un_reference,LYI.009,UN-listed AISHA MUAMMAR MUHAMMED ABU MINYAR QADHAFI not found on EU list; 5748 days since UN listing,false
+eu,DQ050,high,un:690758,un_reference,KPE.007,UN-listed GENERAL BUREAU OF ATOMIC ENERGY (GBAE) not found on EU list; 6338 days since UN listing,false
+eu,DQ050,high,un:690789,un_reference,GBI.001,UN-listed IBRAIMA CAMARÁ not found on EU list; 5301 days since UN listing,false
+eu,DQ050,high,un:690791,un_reference,GBI.003,UN-listed CRANHA DANFA not found on EU list; 5240 days since UN listing,false
+eu,DQ050,high,un:690792,un_reference,GBI.004,UN-listed IDRISSA DJALÓ not found on EU list; 5240 days since UN listing,false
+eu,DQ050,high,un:690793,un_reference,GBI.005,UN-listed ANTÓNIO INJAI not found on EU list; 5301 days since UN listing,false
+eu,DQ050,high,un:690794,un_reference,GBI.006,UN-listed TCHIPA NA BIDON not found on EU list; 5240 days since UN listing,false
+eu,DQ050,high,un:690795,un_reference,GBI.007,UN-listed TCHAM NA MAN not found on EU list; 5240 days since UN listing,false
+eu,DQ050,high,un:690796,un_reference,GBI.008,UN-listed ESTÊVÃO NA MENA not found on EU list; 5301 days since UN listing,false
+eu,DQ050,high,un:690797,un_reference,GBI.009,UN-listed DABA NAUALNA not found on EU list; 5301 days since UN listing,false
+eu,DQ050,high,un:690798,un_reference,GBI.010,UN-listed JÚLIO NHATE not found on EU list; 5240 days since UN listing,false
+eu,DQ050,high,un:6907984,un_reference,GBI.011,UN-listed MAMADU TURE not found on EU list; 5301 days since UN listing,false
+eu,DQ050,high,un:6908024,un_reference,CDE.002,UN-listed BUTEMBO AIRLINES (BAL) not found on EU list; 7178 days since UN listing,false
+eu,DQ050,high,un:6908026,un_reference,CDE.003,UN-listed COMPAGNIE AERIENNE DES GRANDS LACS (CAGL) ; GREAT LAKES BUSINESS COMPANY (GLBC) not found on EU list; 7178 days since UN listing,false
+eu,DQ050,high,un:6908042,un_reference,SOI.010,UN-listed OMAR HAMMAMI not found on EU list; 5596 days since UN listing,false
+eu,DQ050,high,un:6908489,un_reference,QDI.365,UN-listed AKHMED RAJAPOVICH CHATAEV not found on EU list; 4069 days since UN listing,false
+eu,DQ050,high,un:6908510,un_reference,KPE.021,UN-listed ACADEMY OF NATIONAL DEFENSE SCIENCE not found on EU list; 3917 days since UN listing,false
+eu,DQ050,high,un:6908614,un_reference,KPI.055,UN-listed HAN JANG SU not found on EU list; 3396 days since UN listing,false
+eu,DQ050,high,un:6908626,un_reference,KPI.063,UN-listed PAK YONG SIK not found on EU list; 3359 days since UN listing,false
+eu,DQ051,medium,eu:112314,names,KPI.045,shares UN reference with un:6908585 but no name matches,false
+eu,DQ052,low,eu:110845,un_reference,QDI.399,cites UN reference not on current UN list,false
+eu,DQ052,low,eu:111143,un_reference,QDI.400,cites UN reference not on current UN list,false
+eu,DQ052,low,eu:153124,un_reference,QDI.043,cites UN reference not on current UN list,false
+eu,DQ052,low,eu:170139,un_reference,HTI.000,cites UN reference not on current UN list,false
+internal,DQ005,medium,internal:INT-0001,norm_name,example trading bv,2 names normalise to the same key,true
+internal,DQ005,medium,internal:INT-0004,norm_name,fictitious shipping ltd,2 names normalise to the same key,true
+internal,DQ011,medium,internal:INT-0005,precision,year,no day-precision DOB (only year),false
+internal,DQ021,low,internal:INT-0003,countries,,person has no nationality/citizenship,false
+internal,DQ021,low,internal:INT-0005,countries,,person has no nationality/citizenship,false
+internal,DQ021,low,internal:INT-0007,countries,,person has no nationality/citizenship,false
+internal,DQ021,low,internal:INT-0010,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:NK-ZUY6Az9Jx9AhuP7q3ADSu2,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:Q23920818,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-044f77473e58706fb9e8c5a00b53d84e128a7473,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-099d87aff65e78d33758a5517e1aff8d9d04371d,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-0b59a3bbec85ea43bb76fd8fea4fe6b57e92a288,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-0b799e9a56c870470b64bf4f4c58b9659dccce8f,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-0bc212adbb11686cb6314fd22c0f4b448cdf3dac,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-0e9d27e1945130fb8c28b83d786dea6e862c0af9,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-1035a83268decade619554cf3c9a983a3944567e,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-12312b4562c80066a1cf78349d8ca278553e731d,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-13b3b49e876808f8a0de7664c0ec969a26e1b98d,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-1627e3c694852b24474fadfb0589d8f8a90f4fd2,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-1784a57f9760caca3d9c2c8217113886c59f24d7,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-19af40c4d6b1b7899bc057b27f8bf91117909a56,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-19c56847defc3b609b7f43eb0c69075b09f402a9,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-1a1f2597b8a58c7f6a88541150385bb776315912,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-24a617ed62701651b56223d677ec5a56d2c5480f,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-24d6c73e3045da1e150b8e45d84bfda95a98b214,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-26af016c30dd81038cb03208bdadf8b93f377c12,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-2a2dd43acf5384b4cc6b699e6116d7b6bd5770f9,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-2a46efe06040a3e0a03c2c327a9c8d590f3e49a3,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-2deb0a44e4c40a5e8d0e281900224345e3aa5b93,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-2fec8d94a364253eb6532de4df8c885aafedad7f,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-3533c0bc20fff296a4e164e3f9ef467267aadc14,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-356ca8be05add58758a763347043eacd31d6316d,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-3b22f59d449d153e121a82ca23606a4639c194ad,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-3d818a812466df7ab74ff894a1e1cd0b40de949b,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-3e6d468ad292b6c5a17f96dcec0299e4bf6ec365,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-3ea5fb04f61d10907f333df6dc86f48a179a2357,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-3ec21f2ed797774667c4aa3dad75c7056a3fc3b7,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-41f19d5997e465850fe57fee94515c7f8b74b972,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-45476f71f3e2db06cc19f1a83335d1fb5902c113,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-46c6561ccb9de6d1fa1917d339ca32178b329ca0,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-4ec386075f912cf4f68f5884994a3cda06cbca9d,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-4f2ba387d51e7760061ae992a4146ddfecf51114,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-4f8881cff3fa542a1f9af68d3028d5a1e64122d8,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-4fc7fa4e20d3aabc84e1e8df2d80928cdc4ceb46,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-50278e6e96afc73d9d6bbf0a75765f7db26495ee,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-52769300db362e72b503056080288693dce5cfb4,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-56651fdda15ce76541e50a983e6d62db3d3a8f80,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-5a2c4cd22f19e39e31a1a23e0791d9f3ce0e12a8,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-5c8a5e5d2550351481f235e2560696bc939c8fa7,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-5e32f8d45a63d338e9546a74a71ae5a9f92988c4,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-5e3a2a9573d34310a9a60d9c115b43608ae30bd2,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-5fb8d82c9e0399ab501148dd985677146cc42fa4,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-6a7d42c734674569d92032d0818d3a18b0234571,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-73c4054db2bf6d4bb3c9d05650baab8f59cb5152,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-73f0c8750f5bc5cbcc383a48aa4e5fcbc802c511,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-7698f9e43ef7c9f3bc2743ae208c7b90e1020836,countries,,person has no nationality/citizenship,false
+nl,DQ021,low,nl:nl-dnst-77de173acf369bcb1997a3262b94e07ac18c6658,countries,,person has no nationality/citizenship,false
+ofac,DQ002,medium,ofac:10923,full_name,IJHA TURATH  AL-ISLAMI,leading/trailing/double whitespace in name,true
+ofac,DQ002,medium,ofac:11297,full_name,TING SHING TAI JEWELLERY (HK)  CO. LIMITED,leading/trailing/double whitespace in name,true
+ofac,DQ002,medium,ofac:11608,full_name,AHWAZ STEEL COMMERCIAL & TECHNICAL SERVICE GMBH  ASCOTEC,leading/trailing/double whitespace in name,true
+ofac,DQ002,medium,ofac:13116,full_name,"DEEP OFFSHORE TECHNOLOGY COMPANY,  P.J.S.",leading/trailing/double whitespace in name,true
+ofac,DQ002,medium,ofac:26785,full_name,MORALES CIFUENTES DRUG TRAFFICKING  ORGANIZATION,leading/trailing/double whitespace in name,true
+ofac,DQ002,medium,ofac:37684,full_name,JOINT  STOCK COMPANY RESEARCH AND PRODUCTION ENTERPRISE ALMAZ,leading/trailing/double whitespace in name,true
+ofac,DQ002,medium,ofac:38138,full_name,AKTSIONERNOE  OBSCHESTVO NAUCHNO PROIZVODSTVENNOE OBEDINENIE IZMERITELNOY TEKHNIKI,leading/trailing/double whitespace in name,true
+ofac,DQ002,medium,ofac:38139,full_name,ELECTRONICS ENGINEERING AND DESIGN CENTER  JOINT STOCK COMPANY,leading/trailing/double whitespace in name,true
+ofac,DQ002,medium,ofac:51802,full_name,SURREY QUAYS COMPANY  LIMITED,leading/trailing/double whitespace in name,true
+ofac,DQ002,medium,ofac:9595,full_name,Abd  Al Rahman AL-KHATAB,leading/trailing/double whitespace in name,true
+ofac,DQ005,medium,ofac:10568,norm_name,wiam wahhab,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:10728,norm_name,akram turki hishan al mazidih,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:10755,norm_name,polotsk steklovolokno jsc,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:10761,norm_name,al hijra,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:10860,norm_name,yahya rahim safavi,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:10893,norm_name,biblos travel ca,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:11173,norm_name,al haqq al hajj abd,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:11293,norm_name,aik haw,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:11318,norm_name,naftiran intertrade co ltd,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:11373,norm_name,muhammad arif qasmani,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:11622,norm_name,petrochemical commercial co international ltd,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:11626,norm_name,pcc uk,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:11633,norm_name,petropars ltd,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:11648,norm_name,tong myong kim,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:11695,norm_name,ansar al sharia,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:11695,norm_name,ansar al shariah,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:11741,norm_name,fares mohammed manaa,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:11741,norm_name,faris mohamed hassan manaa,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12028,norm_name,oner bank,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12057,norm_name,mohammad reza naqdi,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12066,norm_name,mohammad ali jafari,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12081,norm_name,mahab ghodss consulting engineering co,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12209,norm_name,office 39,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12211,norm_name,yong chol kim,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12212,norm_name,chongsong yonhap,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12327,norm_name,abu saad shabir,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12403,norm_name,mati ur rehman,3 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12458,norm_name,afri belg,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12562,norm_name,said jan abd al salam,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12596,norm_name,abbas jafari dolatabadi,3 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12596,norm_name,abbas jafari dowlatabadi,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12606,norm_name,muammar gaddafi,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12722,norm_name,ali mamluk,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12740,norm_name,muhammad ibrahim al shaar,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12744,norm_name,al sham co,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12762,norm_name,esmail ahmadi moghaddam,3 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12762,norm_name,ismail ahmadi moghadam,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12860,norm_name,naftan jsc,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12862,norm_name,grodno khimvolokno jsc,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12863,norm_name,belshina jsc,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:12960,norm_name,abu jabal,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:13098,norm_name,jamaah ansharut tauhid,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:13098,norm_name,jemmah ansharut tauhid,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:13107,norm_name,esmail ghaani,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:13145,norm_name,tosee taavon bank,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:15573,norm_name,reza mozaffari nia,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:15656,norm_name,myong ho chang,3 names normalise to the same key,true
+ofac,DQ005,medium,ofac:15667,norm_name,chang ho paek,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:15769,norm_name,to chun pak,2 names normalise to the same key,true
+ofac,DQ005,medium,ofac:15770,norm_name,kyu chang chu,2 names normalise to the same key,true
+ofac,DQ010,high,ofac:10861,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:11748,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:11811,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:12118,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:13106,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:15582,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:15656,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:15657,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:15659,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:15660,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:15775,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:15949,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:15964,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:15965,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:16434,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:16435,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:16855,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:16856,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:17213,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:17686,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:19499,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:20601,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:21734,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:21746,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:21747,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:22690,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:22691,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:23468,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:26396,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:26533,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:26560,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:26583,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:26936,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:26938,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:26939,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:26940,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:27267,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:27270,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:27287,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:28919,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:28920,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:28921,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:28922,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:28923,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:28924,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:30365,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:30368,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:30369,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:30370,birth_dates,,person has no date of birth,false
+ofac,DQ010,high,ofac:30376,birth_dates,,person has no date of birth,false
+ofac,DQ011,medium,ofac:10136,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10154,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10155,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10327,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10329,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10330,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10373,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10374,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10377,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10378,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10380,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10384,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10409,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10414,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10415,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10479,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10480,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10483,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10485,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10568,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10569,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10584,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10587,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10592,precision,month,no day-precision DOB (only month),false
+ofac,DQ011,medium,ofac:10609,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10656,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10659,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10691,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10727,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10728,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10729,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10743,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10860,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:10929,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:11021,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:11169,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:11177,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:11280,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:11283,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:11286,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:11288,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:11291,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:11292,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:11373,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:11375,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:11377,precision,month,no day-precision DOB (only month),false
+ofac,DQ011,medium,ofac:11378,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:11379,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:11380,precision,year,no day-precision DOB (only year),false
+ofac,DQ011,medium,ofac:11387,precision,year,no day-precision DOB (only year),false
+ofac,DQ012,low,ofac:10378,birth_dates,"1943,1944","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:10692,birth_dates,"1943,1944","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:10727,birth_dates,"1974,1975","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:10728,birth_dates,"1974,1975,1979","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:10729,birth_dates,"1955,1956","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:10743,birth_dates,"1970,1977,1978","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:11018,birth_dates,"1959,1960,1961,1963,1965","5 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:12251,birth_dates,"1963,1964","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:12327,birth_dates,"1972,1973","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:12328,birth_dates,"1953,1954","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:12402,birth_dates,"1968,1969,1970,1971,1972,1973,1974,1975","8 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:12479,birth_dates,"1961,1962","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:12561,birth_dates,"1958,1959,1960,1961,1962,1963,1964","7 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:12610,birth_dates,"1976,1977","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:12631,birth_dates,"1979,1982,1983","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:12839,birth_dates,"1977,1978","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:12872,birth_dates,"1956,1957","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:12920,birth_dates,"1961,1966,1968,1969,1970","5 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:12931,birth_dates,"1964,1965,1966","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:15415,birth_dates,"1966,1967","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:15516,birth_dates,"1970,1971,1972,1973,1974,1975","6 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:15530,birth_dates,"1969,1970,1971","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:15556,birth_dates,"1968,1969","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:15570,birth_dates,"1958,1959","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:15668,birth_dates,"1965,1966","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:15917,birth_dates,"1957,1958,1959,1960,1961,1962","6 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:16235,birth_dates,"1960,1961,1962","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:16433,birth_dates,"1970,1971,1972","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:16962,birth_dates,"1970,1971","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:17048,birth_dates,"1978,1979","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:17152,birth_dates,"1981,1982","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:17386,birth_dates,"1984,1985,1986","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:17927,birth_dates,"1980,1981,1982","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:18010,birth_dates,"1958,1959","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:19929,birth_dates,"1991,1992,1993","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:19930,birth_dates,"1992,1993,1994,1995","4 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:22258,birth_dates,"1970,1971,1972","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:22884,birth_dates,"1974,1975,1976,1980,1981,1982","6 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:22885,birth_dates,"1964,1965,1966","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:23335,birth_dates,"1987,1988,1989","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:23383,birth_dates,"1971,1972,1973","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:23547,birth_dates,"1978,1979,1980","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:23683,birth_dates,"1981,1982","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:23719,birth_dates,"1974,1975,1976","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:23846,birth_dates,"1990,1991,1992,1993,1994,1995","6 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:23924,birth_dates,"1972,1973,1974,1975","4 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:23963,birth_dates,"1986,1987,1988","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:24244,birth_dates,"1969,1970,1971","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:24308,birth_dates,"1970,1971,1972","3 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ012,low,ofac:24471,birth_dates,"1966,1967","2 single-year DOBs, consecutive years -> express as a range",true
+ofac,DQ020,medium,ofac:10929,birth,Phillipines,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:12171,birth,Baja California Norte,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:12872,birth,Akale Guzay (Shemejena),country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:13126,birth,Nawzad District of Helmand Province,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:15047,registration,None Identified,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:15688,birth,Jalsico,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:16398,birth,Oshkaya region of the Kirghiz SSR,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:16651,birth,Lakes State,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:16912,birth,Mayon County Unity State,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:16912,birth,Unity State,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:17241,birth,Donetsk Region,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:17367,birth,South Waziristan,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:19494,birth,Pyo'ngso'ng,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:20239,birth,the Russian Federation,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:21731,birth,UK,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:21731,birth,UK,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:21749,birth,Pyongyang,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:23090,birth,North,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:23470,birth,Isfahan Province,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:28705,birth,USSR,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:36356,nationality,"North Macedonia, The Republic of",country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:36357,nationality,"North Macedonia, The Republic of",country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:42537,birth,Sistan and Baluchistan Province,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:44147,nationality,"North Macedonia, The Republic of",country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:44923,birth,Kohgiluyeh and Boyer Ahmad,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:45309,nationality,"North Macedonia, The Republic of",country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:45310,nationality,"North Macedonia, The Republic of",country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:45311,nationality,"North Macedonia, The Republic of",country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:45917,nationality,Region: Gaza,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:48185,birth,UK,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:49741,birth,Jiangsu Province,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:49742,birth,Jiangsu Province,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:49744,birth,Hebei Province,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:49746,birth,Shandong Province,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:49763,birth,Hebei Province,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:49845,registration,Unknown,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:51647,registration,Unknown,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:51712,registration,Unknown,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:51763,registration,Antigua & Barbuda,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:53329,registration,Unknown,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:53906,registration,Antigua & Barbuda,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:53994,birth,USSR,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:54033,registration,Unknown,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:54120,registration,Sao Tome & Principe,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:54320,registration,Unknown,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:54542,registration,Unknown,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:54820,registration,Unknown,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:54869,registration,St. Vincent and Grenadines,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:55215,registration,Sao Tome & Principe,country not mappable to ISO 3166-1,false
+ofac,DQ020,medium,ofac:56547,registration,Unknown,country not mappable to ISO 3166-1,false
+ofac,DQ021,low,ofac:10030,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10033,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10034,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10035,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10036,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10045,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10132,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10327,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10329,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10352,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10377,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10378,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10409,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10414,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10415,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10566,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10568,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10569,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10581,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10582,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10583,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10659,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10691,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10727,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10728,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10743,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10860,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10861,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10891,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10892,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10929,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10934,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10935,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10936,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10937,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:10990,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:11177,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:11222,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:11223,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:11272,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:11273,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:11274,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:11275,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:11276,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:11278,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:11279,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:11280,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:11281,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:11283,countries,,person has no nationality/citizenship,false
+ofac,DQ021,low,ofac:11284,countries,,person has no nationality/citizenship,false
+ofac,DQ030,medium,ofac:10001,tax_id,816005011-4,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10002,tax_id,816004106-0,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10003,tax_id,800102465-1,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10004,tax_id,800032092-7,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10042,national_id,2.194.575,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10042,national_id,2.194.975,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10050,national_id,2.121.948,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10131,national_id,5902285162089/055,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10327,passport,1990/345751,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10329,passport,87/437555,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10330,passport,96/184442,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10486,tax_id,52-1943868,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10591,national_id,1041 002019 56,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10593,national_id,35200-5407888-5,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10689,national_id,3520025509842-7,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10689,passport,Booklet A5250088,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10690,national_id,61101-9618232-1,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10691,passport,A-374184,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10762,company_reg,UNP 101119568,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:10892,national_id,V-6.919.272,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11185,national_id,5.764.952,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11186,national_id,8.352.301,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11322,passport,TR-P 614166,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11347,tax_id,52-1699409,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11376,national_id,35404-1577309-9,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11494,passport,RL 1794375,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11495,passport,RL 1622378,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11840,tax_id,900110094-9,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11841,tax_id,900224846-0,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11845,tax_id,830092250-1,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11849,tax_id,830039006-4,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11853,tax_id,860525034-4,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11854,tax_id,900063810-4,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11855,tax_id,830147501-1,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11856,tax_id,900078332-0,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11857,tax_id,900016274-6,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11858,tax_id,822001081-3,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11859,tax_id,822000899-6,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11860,tax_id,830007842-8,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11862,tax_id,900083653-1,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11869,tax_id,822000687-1,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11870,tax_id,800212502-8,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11873,tax_id,900049690-9,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11875,tax_id,830084978-9,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11877,tax_id,900069501-0,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11879,tax_id,900103490-3,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11880,tax_id,900039614-6,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11882,tax_id,830122743-9,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11940,other,1-1-22-07-00030905-3,identifier contains whitespace/punctuation,true
+ofac,DQ030,medium,ofac:11940,national_id,U22-30905,identifier contains whitespace/punctuation,true
+ofac,DQ031,medium,ofac:36466,tax_id,1718002246,identifier listed 2 times on the same entity,true
+ofac,DQ032,high,ofac:13434,tax_id,7142099,same identifier also on ofac:13456,false
+ofac,DQ032,high,ofac:13456,tax_id,7142099,same identifier also on ofac:13434,false
+ofac,DQ032,high,ofac:16885,company_reg,1086623002190,same identifier also on ofac:48877,false
+ofac,DQ032,high,ofac:17015,tax_id,7750004150,same identifier also on ofac:18291,false
+ofac,DQ032,high,ofac:18291,tax_id,7750004150,same identifier also on ofac:17015,false
+ofac,DQ032,high,ofac:24537,national_id,14006467155,same identifier also on ofac:24538,false
+ofac,DQ032,high,ofac:24538,national_id,14006467155,same identifier also on ofac:24537,false
+ofac,DQ032,high,ofac:26786,tax_id,7690495,same identifier also on ofac:26795,false
+ofac,DQ032,high,ofac:26787,tax_id,844191K,"same identifier also on ofac:26796, ofac:26797",false
+ofac,DQ032,high,ofac:26788,tax_id,1198063K,same identifier also on ofac:26798,false
+ofac,DQ032,high,ofac:26795,tax_id,7690495,same identifier also on ofac:26786,false
+ofac,DQ032,high,ofac:26796,tax_id,844191K,"same identifier also on ofac:26797, ofac:26787",false
+ofac,DQ032,high,ofac:26797,tax_id,844191K,"same identifier also on ofac:26796, ofac:26787",false
+ofac,DQ032,high,ofac:26798,tax_id,1198063K,same identifier also on ofac:26788,false
+ofac,DQ032,high,ofac:34916,tax_id,83524479,same identifier also on ofac:44119,false
+ofac,DQ032,high,ofac:35864,company_reg,5067847016782,same identifier also on ofac:35865,false
+ofac,DQ032,high,ofac:35865,company_reg,5067847016782,same identifier also on ofac:35864,false
+ofac,DQ032,high,ofac:35895,company_reg,1047401500046,same identifier also on ofac:35896,false
+ofac,DQ032,high,ofac:35896,company_reg,1047401500046,same identifier also on ofac:35895,false
+ofac,DQ032,high,ofac:36596,tax_id,9709058222,same identifier also on ofac:36616,false
+ofac,DQ032,high,ofac:36616,tax_id,9709058222,same identifier also on ofac:36596,false
+ofac,DQ032,high,ofac:37683,company_reg,1064632050152,same identifier also on ofac:51212,false
+ofac,DQ032,high,ofac:37683,tax_id,4632071042,same identifier also on ofac:51212,false
+ofac,DQ032,high,ofac:37797,company_reg,1114345026784,same identifier also on ofac:37798,false
+ofac,DQ032,high,ofac:37797,tax_id,4345309407,same identifier also on ofac:37798,false
+ofac,DQ032,high,ofac:37798,company_reg,1114345026784,same identifier also on ofac:37797,false
+ofac,DQ032,high,ofac:37798,tax_id,4345309407,same identifier also on ofac:37797,false
+ofac,DQ032,high,ofac:37976,tax_id,59536969,"same identifier also on ofac:38939, ofac:44227",false
+ofac,DQ032,high,ofac:38939,tax_id,59536969,"same identifier also on ofac:37976, ofac:44227",false
+ofac,DQ032,high,ofac:44119,tax_id,83524479,same identifier also on ofac:34916,false
+ofac,DQ032,high,ofac:44227,tax_id,59536969,"same identifier also on ofac:37976, ofac:38939",false
+ofac,DQ032,high,ofac:44267,national_id,3QL4V499999SL643,same identifier also on ofac:44336,false
+ofac,DQ032,high,ofac:44336,national_id,3QL4V499999SL643,same identifier also on ofac:44267,false
+ofac,DQ032,high,ofac:45376,company_reg,92660626,same identifier also on ofac:45377,false
+ofac,DQ032,high,ofac:45377,company_reg,92660626,same identifier also on ofac:45376,false
+ofac,DQ032,high,ofac:45789,tax_id,7719019691,same identifier also on ofac:45790,false
+ofac,DQ032,high,ofac:45790,tax_id,7719019691,same identifier also on ofac:45789,false
+ofac,DQ032,high,ofac:46751,company_reg,1227700488003,same identifier also on ofac:46752,false
+ofac,DQ032,high,ofac:46752,company_reg,1227700488003,same identifier also on ofac:46751,false
+ofac,DQ032,high,ofac:47001,company_reg,563157932,same identifier also on ofac:47002,false
+ofac,DQ032,high,ofac:47002,company_reg,563157932,same identifier also on ofac:47001,false
+ofac,DQ032,high,ofac:47561,company_reg,1147746193891,same identifier also on ofac:47565,false
+ofac,DQ032,high,ofac:47565,company_reg,1147746193891,same identifier also on ofac:47561,false
+ofac,DQ032,high,ofac:48877,company_reg,1086623002190,same identifier also on ofac:16885,false
+ofac,DQ032,high,ofac:49706,company_reg,2880358,same identifier also on ofac:49709,false
+ofac,DQ032,high,ofac:49709,company_reg,2880358,same identifier also on ofac:49706,false
+ofac,DQ032,high,ofac:51212,company_reg,1064632050152,same identifier also on ofac:37683,false
+ofac,DQ032,high,ofac:51212,tax_id,4632071042,same identifier also on ofac:37683,false
+ofac,DQ032,high,ofac:56772,national_id,14009960537,same identifier also on ofac:57148,false
+ofac,DQ032,high,ofac:57148,national_id,14009960537,same identifier also on ofac:56772,false
+ofac,DQ033,low,ofac:10010,passport,101423404,passport without issuing country,false
+ofac,DQ033,low,ofac:10657,passport,01374026,passport without issuing country,false
+ofac,DQ033,low,ofac:10861,passport,4229533,passport without issuing country,false
+ofac,DQ033,low,ofac:10861,passport,A0009228,passport without issuing country,false
+ofac,DQ033,low,ofac:11320,national_id,7020783883,national_id without issuing country,false
+ofac,DQ033,low,ofac:11648,passport,290320764,passport without issuing country,false
+ofac,DQ033,low,ofac:11884,passport,C00168817,passport without issuing country,false
+ofac,DQ033,low,ofac:11982,passport,00344994,passport without issuing country,false
+ofac,DQ033,low,ofac:12118,passport,08550695,passport without issuing country,false
+ofac,DQ033,low,ofac:12118,passport,A0022791,passport without issuing country,false
+ofac,DQ033,low,ofac:12598,national_id,2181558,national_id without issuing country,false
+ofac,DQ033,low,ofac:12598,national_id,3219222002.2181558,national_id without issuing country,false
+ofac,DQ033,low,ofac:12610,national_id,98606612,national_id without issuing country,false
+ofac,DQ033,low,ofac:12610,passport,B/011641,passport without issuing country,false
+ofac,DQ033,low,ofac:12669,passport,F654645,passport without issuing country,false
+ofac,DQ033,low,ofac:12787,national_id,1089516791,national_id without issuing country,false
+ofac,DQ033,low,ofac:12840,passport,28163402296,passport without issuing country,false
+ofac,DQ033,low,ofac:12872,passport,Laissez-Passer 02154,passport without issuing country,false
+ofac,DQ033,low,ofac:12873,passport,D000080,passport without issuing country,false
+ofac,DQ033,low,ofac:12873,passport,D0001060,passport without issuing country,false
+ofac,DQ033,low,ofac:12916,national_id,29553654234,national_id without issuing country,false
+ofac,DQ033,low,ofac:12916,national_id,35202-4135948-7,national_id without issuing country,false
+ofac,DQ033,low,ofac:12916,passport,A2815665,passport without issuing country,false
+ofac,DQ033,low,ofac:12916,passport,DG5149481,passport without issuing country,false
+ofac,DQ033,low,ofac:12930,passport,D9004878,passport without issuing country,false
+ofac,DQ033,low,ofac:13029,passport,E646989,passport without issuing country,false
+ofac,DQ033,low,ofac:13088,passport,1175427,passport without issuing country,false
+ofac,DQ033,low,ofac:13106,passport,6620505,passport without issuing country,false
+ofac,DQ033,low,ofac:13106,passport,9003213,passport without issuing country,false
+ofac,DQ033,low,ofac:13165,passport,5752452,passport without issuing country,false
+ofac,DQ033,low,ofac:13367,national_id,A00710804,national_id without issuing country,false
+ofac,DQ033,low,ofac:13367,passport,C0004350,passport without issuing country,false
+ofac,DQ033,low,ofac:13368,passport,KE007776,passport without issuing country,false
+ofac,DQ033,low,ofac:15190,national_id,NBC 80114829,national_id without issuing country,false
+ofac,DQ033,low,ofac:15270,passport,C389664,passport without issuing country,false
+ofac,DQ033,low,ofac:15418,passport,AB6217491,passport without issuing country,false
+ofac,DQ033,low,ofac:15541,passport,N15792968,passport without issuing country,false
+ofac,DQ033,low,ofac:15559,passport,G1751672,passport without issuing country,false
+ofac,DQ033,low,ofac:15667,passport,381420754,passport without issuing country,false
+ofac,DQ033,low,ofac:15949,passport,R10789966,passport without issuing country,false
+ofac,DQ033,low,ofac:15982,passport,AN1912357,passport without issuing country,false
+ofac,DQ033,low,ofac:16221,national_id,42201-015024707-7,national_id without issuing country,false
+ofac,DQ033,low,ofac:16529,national_id,58786069032,national_id without issuing country,false
+ofac,DQ033,low,ofac:16534,passport,5659068,passport without issuing country,false
+ofac,DQ033,low,ofac:16536,passport,C20423657,passport without issuing country,false
+ofac,DQ033,low,ofac:16538,passport,D9004309,passport without issuing country,false
+ofac,DQ033,low,ofac:16541,passport,D9005625,passport without issuing country,false
+ofac,DQ033,low,ofac:16961,passport,4506460961,passport without issuing country,false
+ofac,DQ033,low,ofac:17034,national_id,61 Niha El-Mehfara,national_id without issuing country,false
+ofac,DQ033,low,ofac:17067,national_id,IMO 5342883,national_id without issuing country,false
+ofac,DQ040,high,ofac:10923,primary_name,heritage islamic of revival society,possible duplicate of ofac:7149,false
+ofac,DQ040,high,ofac:10932,primary_name,al foundation haramain islamic,possible duplicate of ofac:7199,false
+ofac,DQ040,high,ofac:20129,primary_name,ministry of security state,possible duplicate of ofac:25437,false
+ofac,DQ040,high,ofac:25437,primary_name,ministry of security state,possible duplicate of ofac:20129,false
+ofac,DQ040,high,ofac:26466,primary_name,ltd property smile travel,possible duplicate of ofac:26603,false
+ofac,DQ040,high,ofac:26603,primary_name,ltd property smile travel,possible duplicate of ofac:26466,false
+ofac,DQ040,high,ofac:43125,primary_name,co liability ltd severnaya zvezda,possible duplicate of ofac:49147,false
+ofac,DQ040,high,ofac:43264,primary_name,103 arsenal co joint stock,possible duplicate of ofac:51132,false
+ofac,DQ040,high,ofac:44264,primary_name,co energy europe gmbh kg nai,possible duplicate of ofac:44270,false
+ofac,DQ040,high,ofac:44270,primary_name,co energy europe gmbh kg nai,possible duplicate of ofac:44264,false
+ofac,DQ040,high,ofac:45380,primary_name,biotechnology co guanlang hebei ltd,possible duplicate of ofac:45396,false
+ofac,DQ040,high,ofac:45396,primary_name,biotechnology co guanlang hebei ltd,possible duplicate of ofac:45380,false
+ofac,DQ040,high,ofac:45946,primary_name,co komplekt legion liability ltd,possible duplicate of ofac:50427,false
+ofac,DQ040,high,ofac:4706,primary_name,army liberation national,possible duplicate of ofac:7755,false
+ofac,DQ040,high,ofac:47450,primary_name,commodities haleel ltd,possible duplicate of ofac:47451,false
+ofac,DQ040,high,ofac:47451,primary_name,commodities haleel ltd,possible duplicate of ofac:47450,false
+ofac,DQ040,high,ofac:47650,primary_name,feniks,possible duplicate of ofac:48686,false
+ofac,DQ040,high,ofac:48686,primary_name,feniks,possible duplicate of ofac:47650,false
+ofac,DQ040,high,ofac:49147,primary_name,co liability ltd severnaya zvezda,possible duplicate of ofac:43125,false
+ofac,DQ040,high,ofac:50427,primary_name,co komplekt legion liability ltd,possible duplicate of ofac:45946,false
+ofac,DQ040,high,ofac:51132,primary_name,103 arsenal co joint stock,possible duplicate of ofac:43264,false
+ofac,DQ040,high,ofac:576,primary_name,cimex corporacion sa,possible duplicate of ofac:8125,false
+ofac,DQ040,high,ofac:7149,primary_name,heritage islamic of revival society,possible duplicate of ofac:10923,false
+ofac,DQ040,high,ofac:7199,primary_name,al foundation haramain islamic,possible duplicate of ofac:10932,false
+ofac,DQ040,high,ofac:7269,primary_name,foundation global inc relief,possible duplicate of ofac:7270,false
+ofac,DQ040,high,ofac:7270,primary_name,foundation global inc relief,possible duplicate of ofac:7269,false
+ofac,DQ040,high,ofac:7637,primary_name,al aqsa foundation,"possible duplicate of ofac:7645, ofac:7643, ofac:7644",false
+ofac,DQ040,high,ofac:7643,primary_name,al aqsa foundation,"possible duplicate of ofac:7637, ofac:7644, ofac:7645",false
+ofac,DQ040,high,ofac:7644,primary_name,al aqsa foundation,"possible duplicate of ofac:7643, ofac:7645, ofac:7637",false
+ofac,DQ040,high,ofac:7645,primary_name,al aqsa foundation,"possible duplicate of ofac:7644, ofac:7637, ofac:7643",false
+ofac,DQ040,high,ofac:7755,primary_name,army liberation national,possible duplicate of ofac:4706,false
+ofac,DQ040,high,ofac:8125,primary_name,cimex corporacion sa,possible duplicate of ofac:576,false
+uk,DQ001,high,uk:BEL0174,primary_name,"",entity has no primary name,false
+uk,DQ001,high,uk:IRN0249,primary_name,"",entity has no primary name,false
+uk,DQ002,medium,uk:BEL0111,full_name,"Open Joint Stock Company  ""Belaruskali""",leading/trailing/double whitespace in name,true
+uk,DQ002,medium,uk:BEL0111,full_name,"Open Joint Stock Company  ""Belaruskali""",leading/trailing/double whitespace in name,true
+uk,DQ002,medium,uk:BEL0119,full_name,Григорий Юрьевич  АЗАРЁНОК,leading/trailing/double whitespace in name,true
+uk,DQ002,medium,uk:BEL0119,full_name,Григорий Юрьевич  АЗАРЕНОК,leading/trailing/double whitespace in name,true
+uk,DQ002,medium,uk:RUS0006,full_name,Ігор ВЛАДИМИРОВИЧ  Костенок,leading/trailing/double whitespace in name,true
+uk,DQ002,medium,uk:RUS0229,full_name,Olecsandr Viktorovyč  Janukovyč,leading/trailing/double whitespace in name,true
+uk,DQ002,medium,uk:RUS0783,full_name,Андрей  Андреевич ГУРЬЕВ,leading/trailing/double whitespace in name,true
+uk,DQ002,medium,uk:RUS1112,full_name,Михаил Евгеньевич  Мизинцев,leading/trailing/double whitespace in name,true
+uk,DQ002,medium,uk:RUS1113,full_name,Сергей Борисович  Брилёв,leading/trailing/double whitespace in name,true
+uk,DQ002,medium,uk:RUS1773,full_name,Матвеев  Георгий Николаевич,leading/trailing/double whitespace in name,true
+uk,DQ002,medium,uk:RUS2109,full_name,LIMITED LIABILITY COMPANY REDUT-BEZOPASNOST   PMC REDUT,leading/trailing/double whitespace in name,true
+uk,DQ002,medium,uk:YEM0016,full_name,حمد ل  ع القادريي,leading/trailing/double whitespace in name,true
+uk,DQ004,low,uk:BEL0033,full_name,"",empty alias element,true
+uk,DQ004,low,uk:BEL0038,full_name,"",empty alias element,true
+uk,DQ004,low,uk:BEL0044,full_name,"",empty alias element,true
+uk,DQ004,low,uk:BEL0174,full_name,"",empty primary element,true
+uk,DQ004,low,uk:CAF0017,full_name,"",empty alias element,true
+uk,DQ004,low,uk:CHW0036,full_name,"",empty alias element,true
+uk,DQ004,low,uk:CHW0044,full_name,"",empty alias element,true
+uk,DQ004,low,uk:CHW0044,full_name,"",empty alias element,true
+uk,DQ004,low,uk:DRC0067,full_name,"",empty alias element,true
+uk,DQ004,low,uk:IRN0249,full_name,"",empty primary element,true
+uk,DQ004,low,uk:RUS0005,full_name,"",empty alias element,true
+uk,DQ004,low,uk:RUS0006,full_name,"",empty alias element,true
+uk,DQ004,low,uk:RUS0007,full_name,"",empty alias element,true
+uk,DQ004,low,uk:RUS0053,full_name,"",empty alias element,true
+uk,DQ004,low,uk:RUS0061,full_name,"",empty alias element,true
+uk,DQ004,low,uk:RUS0062,full_name,"",empty alias element,true
+uk,DQ004,low,uk:RUS0077,full_name,"",empty alias element,true
+uk,DQ004,low,uk:RUS0083,full_name,"",empty alias element,true
+uk,DQ004,low,uk:RUS0104,full_name,"",empty alias element,true
+uk,DQ004,low,uk:RUS0106,full_name,"",empty alias element,true
+uk,DQ004,low,uk:RUS0108,full_name,"",empty alias element,true
+uk,DQ004,low,uk:RUS0118,full_name,"",empty alias element,true
+uk,DQ004,low,uk:RUS0230,full_name,"",empty alias element,true
+uk,DQ004,low,uk:RUS0777,full_name,"",empty alias element,true
+uk,DQ004,low,uk:RUS3643,full_name,"",empty alias element,true
+uk,DQ004,low,uk:RUS3773,full_name,"",empty alias element,true
+uk,DQ004,low,uk:SYR0328,full_name,"",empty alias element,true
+uk,DQ005,medium,uk:AFG0119,norm_name,faizullah khan noorzai,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AFG0120,norm_name,malik noorzai,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0007,norm_name,les enturbannes,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0009,norm_name,al ameen trust,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0009,norm_name,al madina trust,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0009,norm_name,al rasheed trust,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0009,norm_name,al rashid trust,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0025,norm_name,al kawthar co,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0027,norm_name,al qaida,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0030,norm_name,ansar al charia,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0030,norm_name,ansar al charia benghazi,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0030,norm_name,ansar al sharia,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0031,norm_name,ansar al charia derna,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0033,norm_name,ansar al sharia in tunisia,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0036,norm_name,groupe islamique arme,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0059,norm_name,jamaah islamiyah,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0059,norm_name,jemaah islamiyah,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0060,norm_name,jamaah ansharut tauhid,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0060,norm_name,jemmah ansharut tauhid,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0081,norm_name,al qaida au maghreb islamique aqmi,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0081,norm_name,le groupe salafiste pour la predication et le combat gspc,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0100,norm_name,abu al wafa,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0103,norm_name,maimaiti iman,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0103,norm_name,muhelisi,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0103,norm_name,qerman,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0103,norm_name,saifuding,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0114,norm_name,abu bakar baasyir,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0126,norm_name,ayman al zawahari,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0146,norm_name,muhammad arif qasmani,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0157,norm_name,boubakeur el hakim,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0190,norm_name,hamid abdallah ahmad al ali,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0194,norm_name,hassan dahir aweys,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0198,norm_name,ibrahim awwad ibrahim ali al badri al samarrai,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0199,norm_name,ibrahim hassan al asiri,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0202,norm_name,abu jabal,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0214,norm_name,khaled al fawwaz,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0224,norm_name,mati ur rehman,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0260,norm_name,muhammad jamal abd al rahim ahmad al kashif,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0268,norm_name,muthanna al dari,2 names normalise to the same key,true
+uk,DQ005,medium,uk:AQD0302,norm_name,said jan abd al salam,2 names normalise to the same key,true
+uk,DQ005,medium,uk:BEL0004,norm_name,yury leanidavich sivakau,2 names normalise to the same key,true
+uk,DQ005,medium,uk:BEL0014,norm_name,ivan uladzimiravich kubrakou,2 names normalise to the same key,true
+uk,DQ005,medium,uk:BEL0017,norm_name,galenka andrey vasilevich,2 names normalise to the same key,true
+uk,DQ005,medium,uk:BEL0025,norm_name,oleg vladimirovitch matkin,2 names normalise to the same key,true
+uk,DQ005,medium,uk:BEL0094,norm_name,yulia chaslavauna hustyr,2 names normalise to the same key,true
+uk,DQ005,medium,uk:BEL0107,norm_name,bnk uk,2 names normalise to the same key,true
+uk,DQ005,medium,uk:BEL0107,norm_name,bnk uk ltd,4 names normalise to the same key,true
+uk,DQ005,medium,uk:BEL0111,norm_name,open joint stock co belaruskali,2 names normalise to the same key,true
+uk,DQ005,medium,uk:BEL0113,norm_name,alina siarhiejeuna kasyanchuk,2 names normalise to the same key,true
+uk,DQ005,medium,uk:BEL0119,norm_name,grigoriy yurevich azarenok,2 names normalise to the same key,true
+uk,DQ010,high,uk:AQD0104,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0011,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0015,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0016,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0017,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0023,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0024,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0025,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0026,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0029,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0030,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0031,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0055,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0068,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0087,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0093,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0106,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0143,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0145,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0160,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:BEL0162,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CAF0017,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CAF0018,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CHW0002,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CHW0003,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CHW0005,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CHW0007,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CHW0021,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CHW0022,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CHW0030,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CHW0040,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CHW0041,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CHW0042,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CHW0043,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CTI0003,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CTI0047,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CTI0059,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CTI0062,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CYB0006,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CYB0075,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CYB0078,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CYB0079,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CYB0081,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CYB0082,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CYB0083,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CYB0086,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CYB0089,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CYB0090,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CYB0091,birth_dates,,person has no date of birth,false
+uk,DQ010,high,uk:CYB0092,birth_dates,,person has no date of birth,false
+uk,DQ011,medium,uk:AFG0006,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0008,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0009,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0010,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0012,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0013,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0014,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0015,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0016,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0017,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0018,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0019,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0020,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0021,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0022,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0025,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0028,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0029,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0030,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0031,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0032,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0033,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0035,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0036,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0037,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0040,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0041,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0042,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0043,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0044,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0045,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0048,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0049,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0050,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0051,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0052,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0053,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0054,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0056,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0057,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0058,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0059,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0060,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0061,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0063,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0064,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0065,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0066,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0067,precision,year,no day-precision DOB (only year),false
+uk,DQ011,medium,uk:AFG0069,precision,year,no day-precision DOB (only year),false
+uk,DQ012,low,uk:AFG0006,birth_dates,"1945,1946,1947,1948,1949,1950,1955,1956,1957,1958","10 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0022,birth_dates,"1968,1969","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0023,birth_dates,"1963,1964,1965,1966,1967,1968","6 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0025,birth_dates,"1958,1959,1960,1961,1962,1963,1970","7 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0034,birth_dates,"1960,1961","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0046,birth_dates,"1955,1956,1963","3 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0058,birth_dates,"1968,1969,1970,1971,1972,1973","6 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0060,birth_dates,"1966,1967","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0063,birth_dates,"1962,1963","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0064,birth_dates,"1968,1969,1970,1971,1972,1973","6 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0065,birth_dates,"1953,1954,1955,1956,1957,1958","6 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0070,birth_dates,"1968,1969,1970,1971,1972,1973","6 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0079,birth_dates,"1963,1964,1965,1966,1967,1968","6 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0082,birth_dates,"1958,1959,1960,1961,1962,1963","6 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0084,birth_dates,"1956,1957","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0087,birth_dates,"1966,1967","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0092,birth_dates,"1972,1973","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0093,birth_dates,"1954,1955","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0095,birth_dates,"1940,1941","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0112,birth_dates,"1977,1978","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0114,birth_dates,"1970,1971,1972,1973","4 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0117,birth_dates,"1961,1962","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0118,birth_dates,"1958,1959,1960,1961,1962,1963,1964","7 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0119,birth_dates,"1961,1962,1966,1968,1969,1970","6 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0130,birth_dates,"1969,1970,1971","3 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0131,birth_dates,"1975,1976","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0133,birth_dates,"1970,1971,1972,1973,1974,1975","6 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AFG0138,birth_dates,"1981,1982","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AQD0101,birth_dates,"1977,1978,1979,1980,1981,1982","6 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AQD0128,birth_dates,"1974,1975,1979","3 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AQD0178,birth_dates,"1974,1975","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AQD0186,birth_dates,"1965,1966,1967,1968,1969","5 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AQD0220,birth_dates,"1937,1938,1939,1940,1941,1942,1943,1944,1945","9 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:AQD0221,birth_dates,"1943,1944","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:CAF0004,birth_dates,"1969,1970,1971","3 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:CAF0010,birth_dates,"1959,1960,1961,1963,1965","5 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:CAF0011,birth_dates,"1992,1993,1994,1995","4 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:CAF0012,birth_dates,"1991,1992,1993","3 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:CTI0014,birth_dates,"1964,1965,1966","3 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:CTI0048,birth_dates,"1963,1964,1965","3 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:CTI0050,birth_dates,"1961,1962,1963","3 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:DPR0035,birth_dates,"1932,1933,1934,1935,1936,1937,1938","7 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:DPR0046,birth_dates,"1933,1934","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:DPR0050,birth_dates,"1937,1938","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:DPR0200,birth_dates,"1965,1966","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:DPR0206,birth_dates,"1954,1955","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:DPR0227,birth_dates,"1967,1968,1969","3 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:DPR0231,birth_dates,"1937,1938","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:DRC0025,birth_dates,"1973,1974","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ012,low,uk:DRC0047,birth_dates,"1953,1954","2 single-year DOBs, consecutive years -> express as a range",true
+uk,DQ013,high,uk:RUS2701,raw,15/08/19yy,DOB cannot be parsed,false
+uk,DQ020,medium,uk:GHR0055,birth,Former USSR,country not mappable to ISO 3166-1,false
+uk,DQ020,medium,uk:GHR0164,birth,Occupied Golan Heights,country not mappable to ISO 3166-1,false
+uk,DQ020,medium,uk:RUS0017,birth,Kazakh SSR,country not mappable to ISO 3166-1,false
+uk,DQ020,medium,uk:RUS0029,birth,Russian Soviet Federative Socialist Republic (RSFSR),country not mappable to ISO 3166-1,false
+uk,DQ020,medium,uk:RUS0056,birth,USSR,country not mappable to ISO 3166-1,false
+uk,DQ020,medium,uk:RUS0064,birth,Moldovian SSR (now Republic of Moldovia),country not mappable to ISO 3166-1,false
+uk,DQ020,medium,uk:RUS0115,birth,Former German Democratic Republic,country not mappable to ISO 3166-1,false
+uk,DQ020,medium,uk:RUS0145,birth,Yakut Autonomous SSR,country not mappable to ISO 3166-1,false
+uk,DQ020,medium,uk:RUS0149,birth,Ukrainian SSR,country not mappable to ISO 3166-1,false
+uk,DQ020,medium,uk:RUS0149,birth,Ukrainian SSR,country not mappable to ISO 3166-1,false
+uk,DQ020,medium,uk:RUS2404,birth,Kazakh Soviet Socialist Republic,country not mappable to ISO 3166-1,false
+uk,DQ020,medium,uk:RUS3683,registration,St Vincent,country not mappable to ISO 3166-1,false
+uk,DQ021,low,uk:AFG0121,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:AFG0122,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:AFG0124,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:AFG0125,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:AFG0128,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:AFG0129,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:AFG0136,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:AFG0137,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:AFG0140,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:AQD0104,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:AQD0116,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:AQD0121,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:AQD0128,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:AQD0138,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:AQD0156,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:AQD0178,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:AQD0356,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:AQD0364,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0005,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0010,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0011,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0016,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0025,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0026,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0031,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0034,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0035,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0036,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0037,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0038,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0039,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0040,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0041,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0042,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0043,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0044,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0048,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0049,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0068,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0069,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0070,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0071,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0072,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0075,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0076,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0077,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0081,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0083,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0095,countries,,person has no nationality/citizenship,false
+uk,DQ021,low,uk:BEL0098,countries,,person has no nationality/citizenship,false
+uk,DQ030,medium,uk:AFG0014,passport,SE-011697,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AFG0032,passport,OR 1961825,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AFG0097,passport,D 001206,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AFG0098,passport,D 000974,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AFG0099,passport,D 000912,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AFG0100,passport,D 000933,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AFG0102,passport,D 000769,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AFG0103,passport,SE-012820,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AFG0104,passport,SE 011252,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AFG0105,passport,D 000952,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AFG0107,passport,D 000763,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AFG0110,passport,D 0001203,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AFG0120,national_id,54201-247561-5,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AFG0132,national_id,54401-2288025-9,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0085,national_id,"Kuwait,  number 273030601222",identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0098,passport,D-379312,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0098,national_id,DE-473900,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0107,national_id,156-92-9858,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0110,passport,"Indonesia, number T710219 (issued in Sukoharjo, Central Java, Indonesia)",identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0112,national_id,44103-5251752-5,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0116,national_id,"Indonesia, number 1608600001",identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0120,passport,TR-P 614 166,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0135,passport,96/184442,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0159,passport,A-333602,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0159,passport,C-267185,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0159,passport,G-869537,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0159,passport,H-123259,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0159,passport,KC-285901,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0165,passport,96 03 464086,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0170,passport,A 0139243,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0181,national_id,LBR HBB 61S17 Z352F,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0183,national_id,3520025509842-7,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0184,passport,A-374184,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0190,national_id,"Kuwait, number 260012001546",identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0213,passport,12CP63882.3FRA,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0221,national_id,4-6032-0048-1,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0236,national_id,660603-05-5267,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0239,passport,L 191609,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0247,national_id,35404-1577309-9,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0254,national_id,E-491591,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0254,passport,H 236483,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0261,national_id,3219222002.2181558,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0291,national_id,548-91-5411,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0297,passport,8208 No. 555627,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0305,passport,1990/345751,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0337,national_id,640120-01-5529,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0337,passport,A 10472263,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0339,national_id,35202-4135948-7,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0340,national_id,E-189935,identifier contains whitespace/punctuation,true
+uk,DQ030,medium,uk:AQD0340,national_id,G-0343089,identifier contains whitespace/punctuation,true
+uk,DQ031,medium,uk:AFG0006,passport,P04581926,identifier listed 10 times on the same entity,true
+uk,DQ031,medium,uk:AFG0023,passport,D0009726,identifier listed 2 times on the same entity,true
+uk,DQ031,medium,uk:AFG0024,passport,D0009751,identifier listed 2 times on the same entity,true
+uk,DQ031,medium,uk:AFG0026,passport,D0009803,identifier listed 2 times on the same entity,true
+uk,DQ031,medium,uk:BEL0162,national_id,3010177E015PB7,identifier listed 2 times on the same entity,true
+uk,DQ031,medium,uk:CAF0014,passport,06FBO2262,identifier listed 2 times on the same entity,true
+uk,DQ031,medium,uk:DRC0014,passport,OB0814241,identifier listed 2 times on the same entity,true
+uk,DQ031,medium,uk:DRC0072,passport,EP985086,identifier listed 2 times on the same entity,true
+uk,DQ031,medium,uk:GHR0112,national_id,204377998,identifier listed 2 times on the same entity,true
+uk,DQ031,medium,uk:IRN0204,national_id,5249398618,identifier listed 2 times on the same entity,true
+uk,DQ031,medium,uk:RUS2321,imo,IMO9250892,identifier listed 2 times on the same entity,true
+uk,DQ031,medium,uk:RUS2322,imo,IMO9250543,identifier listed 2 times on the same entity,true
+uk,DQ031,medium,uk:RUS2323,imo,IMO9250531,identifier listed 2 times on the same entity,true
+uk,DQ031,medium,uk:RUS2325,imo,IMO9232888,identifier listed 2 times on the same entity,true
+uk,DQ031,medium,uk:RUS2328,imo,IMO9319882,identifier listed 2 times on the same entity,true
+uk,DQ031,medium,uk:RUS2330,imo,IMO9274434,identifier listed 3 times on the same entity,true
+uk,DQ031,medium,uk:RUS2920,company_reg,91440300MA5H0TP85J,identifier listed 2 times on the same entity,true
+uk,DQ032,high,uk:AQD0128,national_id,0075258,same identifier also on uk:AQD0270,false
+uk,DQ032,high,uk:AQD0270,national_id,0075258,same identifier also on uk:AQD0128,false
+uk,DQ032,high,uk:DPR0019,passport,563120238,same identifier also on uk:DPR0225,false
+uk,DQ032,high,uk:DPR0225,passport,563120238,same identifier also on uk:DPR0019,false
+uk,DQ032,high,uk:GHR0046,national_id,12SAKHANA(N)020199,same identifier also on uk:MYA0018,false
+uk,DQ032,high,uk:GHR0204,company_reg,513991273(ISRAEL),same identifier also on uk:GHR0205,false
+uk,DQ032,high,uk:GHR0205,company_reg,513991273(ISRAEL),same identifier also on uk:GHR0204,false
+uk,DQ032,high,uk:INU0278,passport,6620505,same identifier also on uk:INU0279,false
+uk,DQ032,high,uk:INU0279,passport,6620505,same identifier also on uk:INU0278,false
+uk,DQ032,high,uk:MYA0018,national_id,12SAKHANA(N)020199,same identifier also on uk:GHR0046,false
+uk,DQ032,high,uk:RUS3086,company_reg,DMCC201071,same identifier also on uk:RUS3087,false
+uk,DQ032,high,uk:RUS3087,company_reg,DMCC201071,same identifier also on uk:RUS3086,false
+uk,DQ033,low,uk:AFG0006,passport,P04581926,passport without issuing country,false
+uk,DQ033,low,uk:AFG0006,passport,P04581926,passport without issuing country,false
+uk,DQ033,low,uk:AFG0006,passport,P04581926,passport without issuing country,false
+uk,DQ033,low,uk:AFG0006,passport,P04581926,passport without issuing country,false
+uk,DQ033,low,uk:AFG0006,passport,P04581926,passport without issuing country,false
+uk,DQ033,low,uk:AFG0006,passport,P04581926,passport without issuing country,false
+uk,DQ033,low,uk:AFG0006,passport,P04581926,passport without issuing country,false
+uk,DQ033,low,uk:AFG0006,passport,P04581926,passport without issuing country,false
+uk,DQ033,low,uk:AFG0006,passport,P04581926,passport without issuing country,false
+uk,DQ033,low,uk:AFG0006,passport,P04581926,passport without issuing country,false
+uk,DQ033,low,uk:AFG0007,passport,D0009925,passport without issuing country,false
+uk,DQ033,low,uk:AFG0011,passport,D0009720,passport without issuing country,false
+uk,DQ033,low,uk:AFG0011,passport,D0010442,passport without issuing country,false
+uk,DQ033,low,uk:AFG0011,passport,P05629010,passport without issuing country,false
+uk,DQ033,low,uk:AFG0012,national_id,2132370,national_id without issuing country,false
+uk,DQ033,low,uk:AFG0012,national_id,812673,national_id without issuing country,false
+uk,DQ033,low,uk:AFG0014,passport,SE-011697,passport without issuing country,false
+uk,DQ033,low,uk:AFG0023,passport,D0009726,passport without issuing country,false
+uk,DQ033,low,uk:AFG0023,passport,D0009726,passport without issuing country,false
+uk,DQ033,low,uk:AFG0024,passport,D0009751,passport without issuing country,false
+uk,DQ033,low,uk:AFG0024,passport,D0009751,passport without issuing country,false
+uk,DQ033,low,uk:AFG0024,passport,P02444826,passport without issuing country,false
+uk,DQ033,low,uk:AFG0026,passport,D0009716,passport without issuing country,false
+uk,DQ033,low,uk:AFG0026,passport,D0009803,passport without issuing country,false
+uk,DQ033,low,uk:AFG0026,passport,D0009803,passport without issuing country,false
+uk,DQ033,low,uk:AFG0026,passport,D0010741,passport without issuing country,false
+uk,DQ033,low,uk:AFG0026,passport,P02444824,passport without issuing country,false
+uk,DQ033,low,uk:AFG0027,passport,D00009723,passport without issuing country,false
+uk,DQ033,low,uk:AFG0027,passport,D0010098,passport without issuing country,false
+uk,DQ033,low,uk:AFG0027,passport,P03078281,passport without issuing country,false
+uk,DQ033,low,uk:AFG0032,passport,OR 1961825,passport without issuing country,false
+uk,DQ033,low,uk:AFG0032,passport,TR024417,passport without issuing country,false
+uk,DQ033,low,uk:AFG0034,passport,D0009724,passport without issuing country,false
+uk,DQ033,low,uk:AFG0038,passport,D0009731,passport without issuing country,false
+uk,DQ033,low,uk:AFG0039,passport,"D0010694,",passport without issuing country,false
+uk,DQ033,low,uk:AFG0040,passport,D00010126,passport without issuing country,false
+uk,DQ033,low,uk:AFG0042,passport,OA462456,passport without issuing country,false
+uk,DQ033,low,uk:AFG0046,passport,P00429243,passport without issuing country,false
+uk,DQ033,low,uk:AFG0047,passport,D0010402,passport without issuing country,false
+uk,DQ033,low,uk:AFG0055,national_id,545167,national_id without issuing country,false
+uk,DQ033,low,uk:AFG0055,passport,D0009871,passport without issuing country,false
+uk,DQ033,low,uk:AFG0057,national_id,1136,national_id without issuing country,false
+uk,DQ033,low,uk:AFG0062,passport,D0009755,passport without issuing country,false
+uk,DQ033,low,uk:AFG0062,passport,D0010689,passport without issuing country,false
+uk,DQ033,low,uk:AFG0062,passport,P00429350,passport without issuing country,false
+uk,DQ033,low,uk:AFG0071,passport,D0009770,passport without issuing country,false
+uk,DQ033,low,uk:AFG0071,passport,P04411676,passport without issuing country,false
+uk,DQ033,low,uk:AFG0088,passport,D0009914,passport without issuing country,false
+uk,DQ033,low,uk:AFG0088,passport,P09305451,passport without issuing country,false
+uk,DQ033,low,uk:AFG0090,passport,OA296623,passport without issuing country,false
+uk,DQ040,high,uk:AQD0194,primary_name,aweys dahir hassan,possible duplicate of uk:SOM0003,false
+uk,DQ040,high,uk:BEL0007,primary_name,alexander barsukov petrovich,possible duplicate of uk:GHR0056,false
+uk,DQ040,high,uk:BEL0009,primary_name,gennadyevich nazarenko yuri,possible duplicate of uk:GHR0057,false
+uk,DQ040,high,uk:BEL0046,primary_name,igor petrovich sergeenko,possible duplicate of uk:GHR0052,false
+uk,DQ040,high,uk:BEL0047,primary_name,aliaksandravich lukashenko viktor,possible duplicate of uk:GHR0051,false
+uk,DQ040,high,uk:CHW0013,primary_name,ivanovich menyailo sergei,possible duplicate of uk:RUS0029,false
+uk,DQ040,high,uk:CHW0014,primary_name,aleksandr bortnikov vasilievich,possible duplicate of uk:RUS0084,false
+uk,DQ040,high,uk:DPR0019,primary_name,chol kim nam,possible duplicate of uk:DPR0225,false
+uk,DQ040,high,uk:DPR0225,primary_name,chol kim nam,possible duplicate of uk:DPR0019,false
+uk,DQ040,high,uk:GHR0046,primary_name,aung hlaing min,possible duplicate of uk:MYA0018,false
+uk,DQ040,high,uk:GHR0051,primary_name,aliaksandravich lukashenko viktor,possible duplicate of uk:BEL0047,false
+uk,DQ040,high,uk:GHR0052,primary_name,igor petrovich sergeenko,possible duplicate of uk:BEL0046,false
+uk,DQ040,high,uk:GHR0056,primary_name,alexander barsukov petrovich,possible duplicate of uk:BEL0007,false
+uk,DQ040,high,uk:GHR0057,primary_name,gennadyevich nazarenko yuri,possible duplicate of uk:BEL0009,false
+uk,DQ040,high,uk:MYA0018,primary_name,aung hlaing min,possible duplicate of uk:GHR0046,false
+uk,DQ040,high,uk:RUS0029,primary_name,ivanovich menyailo sergei,possible duplicate of uk:CHW0013,false
+uk,DQ040,high,uk:RUS0084,primary_name,aleksandr bortnikov vasilievich,possible duplicate of uk:CHW0014,false
+uk,DQ040,high,uk:RUS1439,primary_name,jsc zvezda,possible duplicate of uk:RUS1739,false
+uk,DQ040,high,uk:RUS1739,primary_name,jsc zvezda,possible duplicate of uk:RUS1439,false
+uk,DQ040,high,uk:SOM0003,primary_name,aweys dahir hassan,possible duplicate of uk:AQD0194,false
+uk,DQ050,high,un:6909620,un_reference,CDE.011,UN-listed TWIRWANEHO not found on UK list; 131 days since UN listing,false
+uk,DQ051,medium,uk:AQD0019,names,QDE.112,shares UN reference with un:113454 but no name matches,false
+uk,DQ051,medium,uk:AQD0043,names,QDE.091,shares UN reference with un:113476 but no name matches,false
+uk,DQ051,medium,uk:AQD0064,names,QDE.096,shares UN reference with un:114089 but no name matches,false
+uk,DQ051,medium,uk:DPR0127,names,KPE.051,shares UN reference with un:6908627 but no name matches,false
+uk,DQ051,medium,uk:DPR0138,names,KPE.024,shares UN reference with un:6908517 but no name matches,false
+uk,DQ051,medium,uk:DRC0016,names,CDE.002,shares UN reference with un:6908024 but no name matches,false
+uk,DQ051,medium,uk:HAI0012,names,HTI.009,shares UN reference with un:6909475 but no name matches,false
+uk,DQ051,medium,uk:INU0253,names,IRE.055,shares UN reference with un:110349 but no name matches,false
+uk,DQ051,medium,uk:INU0278,names,IRI.041,shares UN reference with un:110406 but no name matches,false
+uk,DQ051,medium,uk:INU0279,names,IRI.012,shares UN reference with un:110435 but no name matches,false
+uk,DQ051,medium,uk:INU0360,names,IRE.006,shares UN reference with un:110398 but no name matches,false
+uk,DQ051,medium,uk:INU0361,names,IRE.007,shares UN reference with un:110397 but no name matches,false
+uk,DQ051,medium,uk:INU0366,names,IRE.013,shares UN reference with un:110391 but no name matches,false
+uk,DQ051,medium,uk:INU0380,names,IRI.007,shares UN reference with un:110440 but no name matches,false
+uk,DQ051,medium,uk:LIB0028,names,LYI.005,shares UN reference with un:690737 but no name matches,false
+uk,DQ051,medium,uk:LIB0079,names,LYE.006,shares UN reference with un:6909645 but no name matches,false
+uk,DQ051,medium,uk:SUD0022,names,SDI.008,shares UN reference with un:6909527 but no name matches,false
+uk,DQ052,low,uk:HAI0013,un_reference,HTI.010,cites UN reference not on current UN list,false
+un,DQ002,medium,un:3001252,full_name,"حركة التوحيد والجهاد في
+                                                  غرب إفريقيا",leading/trailing/double whitespace in name,true
+un,DQ002,medium,un:6908841,full_name,"أمیر محمد سعید عبد
+                                                  الرحمن السلبي",leading/trailing/double whitespace in name,true
+un,DQ004,low,un:110327,full_name,"",empty alias element,true
+un,DQ004,low,un:110328,full_name,"",empty alias element,true
+un,DQ004,low,un:110329,full_name,"",empty alias element,true
+un,DQ004,low,un:110330,full_name,"",empty alias element,true
+un,DQ004,low,un:110331,full_name,"",empty alias element,true
+un,DQ004,low,un:110332,full_name,"",empty alias element,true
+un,DQ004,low,un:110333,full_name,"",empty alias element,true
+un,DQ004,low,un:110334,full_name,"",empty alias element,true
+un,DQ004,low,un:110336,full_name,"",empty alias element,true
+un,DQ004,low,un:110337,full_name,"",empty alias element,true
+un,DQ004,low,un:110338,full_name,"",empty alias element,true
+un,DQ004,low,un:110339,full_name,"",empty alias element,true
+un,DQ004,low,un:110340,full_name,"",empty alias element,true
+un,DQ004,low,un:110341,full_name,"",empty alias element,true
+un,DQ004,low,un:110342,full_name,"",empty alias element,true
+un,DQ004,low,un:110343,full_name,"",empty alias element,true
+un,DQ004,low,un:110344,full_name,"",empty alias element,true
+un,DQ004,low,un:110345,full_name,"",empty alias element,true
+un,DQ004,low,un:110346,full_name,"",empty alias element,true
+un,DQ004,low,un:110347,full_name,"",empty alias element,true
+un,DQ004,low,un:110348,full_name,"",empty alias element,true
+un,DQ004,low,un:110349,full_name,"",empty alias element,true
+un,DQ004,low,un:110351,full_name,"",empty alias element,true
+un,DQ004,low,un:110352,full_name,"",empty alias element,true
+un,DQ004,low,un:110353,full_name,"",empty alias element,true
+un,DQ004,low,un:110354,full_name,"",empty alias element,true
+un,DQ004,low,un:110355,full_name,"",empty alias element,true
+un,DQ004,low,un:110356,full_name,"",empty alias element,true
+un,DQ004,low,un:110359,full_name,"",empty alias element,true
+un,DQ004,low,un:110363,full_name,"",empty alias element,true
+un,DQ004,low,un:110364,full_name,"",empty alias element,true
+un,DQ004,low,un:110365,full_name,"",empty alias element,true
+un,DQ004,low,un:110366,full_name,"",empty alias element,true
+un,DQ004,low,un:110367,full_name,"",empty alias element,true
+un,DQ004,low,un:110368,full_name,"",empty alias element,true
+un,DQ004,low,un:110369,full_name,"",empty alias element,true
+un,DQ004,low,un:110370,full_name,"",empty alias element,true
+un,DQ004,low,un:110371,full_name,"",empty alias element,true
+un,DQ004,low,un:110373,full_name,"",empty alias element,true
+un,DQ004,low,un:110374,full_name,"",empty alias element,true
+un,DQ004,low,un:110375,full_name,"",empty alias element,true
+un,DQ004,low,un:110376,full_name,"",empty alias element,true
+un,DQ004,low,un:110378,full_name,"",empty alias element,true
+un,DQ004,low,un:110379,full_name,"",empty alias element,true
+un,DQ004,low,un:110380,full_name,"",empty alias element,true
+un,DQ004,low,un:110381,full_name,"",empty alias element,true
+un,DQ004,low,un:110382,full_name,"",empty alias element,true
+un,DQ004,low,un:110383,full_name,"",empty alias element,true
+un,DQ004,low,un:110385,full_name,"",empty alias element,true
+un,DQ004,low,un:110386,full_name,"",empty alias element,true
+un,DQ005,medium,un:111072,norm_name,sayed mohammad azim agha,2 names normalise to the same key,true
+un,DQ005,medium,un:111734,norm_name,fabio fusco,3 names normalise to the same key,true
+un,DQ005,medium,un:111763,norm_name,khaled al fawwaz,2 names normalise to the same key,true
+un,DQ005,medium,un:111792,norm_name,abu bakar baasyir,2 names normalise to the same key,true
+un,DQ005,medium,un:111916,norm_name,hamraoui kamel,3 names normalise to the same key,true
+un,DQ005,medium,un:111922,norm_name,dour nadre,2 names normalise to the same key,true
+un,DQ005,medium,un:111923,norm_name,ayman al zawahari,2 names normalise to the same key,true
+un,DQ005,medium,un:112379,norm_name,djamal mostafa,2 names normalise to the same key,true
+un,DQ005,medium,un:112379,norm_name,djamel mostafa,2 names normalise to the same key,true
+un,DQ005,medium,un:112379,norm_name,djamel mustafa,2 names normalise to the same key,true
+un,DQ005,medium,un:113458,norm_name,al qaida,2 names normalise to the same key,true
+un,DQ005,medium,un:113459,norm_name,al ameen trust,2 names normalise to the same key,true
+un,DQ005,medium,un:113459,norm_name,al madina trust,2 names normalise to the same key,true
+un,DQ005,medium,un:113459,norm_name,al rasheed trust,2 names normalise to the same key,true
+un,DQ005,medium,un:113459,norm_name,al rashid trust,2 names normalise to the same key,true
+un,DQ005,medium,un:113967,norm_name,jamaah islamiyah,2 names normalise to the same key,true
+un,DQ005,medium,un:113967,norm_name,jemaah islamiyah,2 names normalise to the same key,true
+un,DQ005,medium,un:114076,norm_name,jamaat ud daawa,2 names normalise to the same key,true
+un,DQ005,medium,un:2797951,norm_name,hamid abdallah ahmad al ali,2 names normalise to the same key,true
+un,DQ005,medium,un:2863362,norm_name,muhammad arif qasmani,2 names normalise to the same key,true
+un,DQ005,medium,un:2959427,norm_name,said jan abd al salam,2 names normalise to the same key,true
+un,DQ005,medium,un:2960872,norm_name,dokka umarov,2 names normalise to the same key,true
+un,DQ005,medium,un:2962519,norm_name,ibrahim hassan al asiri,2 names normalise to the same key,true
+un,DQ005,medium,un:2973988,norm_name,mati ur rehman,2 names normalise to the same key,true
+un,DQ005,medium,un:2983820,norm_name,jamaah ansharut tauhid,2 names normalise to the same key,true
+un,DQ005,medium,un:2983820,norm_name,jemmah ansharut tauhid,2 names normalise to the same key,true
+un,DQ005,medium,un:3026942,norm_name,muhammad jamal abd al rahim ahmad al kashif,2 names normalise to the same key,true
+un,DQ005,medium,un:690744,norm_name,chang myong ho,3 names normalise to the same key,true
+un,DQ005,medium,un:690744,norm_name,ra kyong su,2 names normalise to the same key,true
+un,DQ005,medium,un:690747,norm_name,paek chang ho,2 names normalise to the same key,true
+un,DQ005,medium,un:690750,norm_name,mun chong chol,2 names normalise to the same key,true
+un,DQ005,medium,un:690761,norm_name,chongsong yonhap,2 names normalise to the same key,true
+un,DQ005,medium,un:690767,norm_name,ryonha machinery corp,2 names normalise to the same key,true
+un,DQ005,medium,un:690779,norm_name,abdoullah ould ahmed,2 names normalise to the same key,true
+un,DQ005,medium,un:6908040,norm_name,fares mohammed manaa,2 names normalise to the same key,true
+un,DQ005,medium,un:6908044,norm_name,abubaker shariff ahmed,2 names normalise to the same key,true
+un,DQ005,medium,un:6908128,norm_name,yasir sabawi ibrahim hasan al tikriti,2 names normalise to the same key,true
+un,DQ005,medium,un:6908129,norm_name,ayman sabawi ibrahim hasan al tikriti,2 names normalise to the same key,true
+un,DQ005,medium,un:6908130,norm_name,ibrahim sabawi ibrahim hasan al tikriti,2 names normalise to the same key,true
+un,DQ005,medium,un:6908131,norm_name,bashar sabawi ibrahim hasan al tikriti,2 names normalise to the same key,true
+un,DQ005,medium,un:6908339,norm_name,al bashair trading co ltd,2 names normalise to the same key,true
+un,DQ005,medium,un:6908394,norm_name,omar sabawi ibrahim hasan al tikriti,2 names normalise to the same key,true
+un,DQ005,medium,un:6908401,norm_name,abu jabal,2 names normalise to the same key,true
+un,DQ005,medium,un:6908424,norm_name,abu al wafa,2 names normalise to the same key,true
+un,DQ005,medium,un:6908434,norm_name,abd al khaliq al huthi,2 names normalise to the same key,true
+un,DQ005,medium,un:6908434,norm_name,abd al khaliq badr al din al huthi,2 names normalise to the same key,true
+un,DQ005,medium,un:6908435,norm_name,abu ali al hakim,2 names normalise to the same key,true
+un,DQ005,medium,un:6908437,norm_name,ansar al charia derna,2 names normalise to the same key,true
+un,DQ005,medium,un:6908437,norm_name,ansar al sharia,2 names normalise to the same key,true
+un,DQ005,medium,un:6908438,norm_name,ansar al charia benghazi,2 names normalise to the same key,true
+un,DQ010,high,un:110404,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:110407,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:110409,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:110410,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:110412,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:110415,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:110417,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:110419,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:110420,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:110422,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:110423,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:110431,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:110433,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:110439,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:110440,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:110441,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:110442,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:110444,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:111514,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:690736,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:690737,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:690741,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:690746,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:690749,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6907994,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6907996,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6907997,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908016,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908023,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908037,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908091,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908092,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908095,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908096,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908101,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908120,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908126,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908455,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908501,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908589,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908613,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908620,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908621,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908703,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908759,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908863,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6908907,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6909386,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6909474,birth_dates,,person has no date of birth,false
+un,DQ010,high,un:6909475,birth_dates,,person has no date of birth,false
+un,DQ011,medium,un:110405,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110406,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110411,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110414,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110425,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110430,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110437,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110443,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110446,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110447,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110577,precision,range,no day-precision DOB (only range),false
+un,DQ011,medium,un:110579,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110580,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110896,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110897,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110900,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110901,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110912,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110913,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110915,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110941,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110942,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110943,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110944,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110947,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110959,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110960,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110961,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110962,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110963,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110964,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110965,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:110967,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:111034,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:111035,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:111036,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:111037,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:111038,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:111039,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:111041,precision,"range,year","no day-precision DOB (only range,year)",false
+un,DQ011,medium,un:111066,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:111067,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:111070,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:111072,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:111075,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:111076,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:111077,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:111080,precision,range,no day-precision DOB (only range),false
+un,DQ011,medium,un:111081,precision,year,no day-precision DOB (only year),false
+un,DQ011,medium,un:111082,precision,range,no day-precision DOB (only range),false
+un,DQ012,low,un:110446,birth_dates,"1958,1959","2 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:112032,birth_dates,"1937,1938,1939,1940,1941,1942,1943,1944,1945","9 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:2832991,birth_dates,"1943,1944","2 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:2892251,birth_dates,"1974,1975","2 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:2892252,birth_dates,"1974,1975","2 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:2975510,birth_dates,"1961,1962,1966","3 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:3016479,birth_dates,"1970,1971,1972,1973,1974,1975","6 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:690728,birth_dates,"1969,1970,1971","3 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:690743,birth_dates,"1965,1966","2 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:6908004,birth_dates,"1953,1954","2 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:6908038,birth_dates,"1979,1980,1981,1982","4 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:6908049,birth_dates,"1965,1966","2 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:6908406,birth_dates,"1981,1982","2 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:6908538,birth_dates,"1959,1960,1961,1963,1965","5 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:6908549,birth_dates,"1992,1993,1994,1995","4 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:6908550,birth_dates,"1991,1992,1993","3 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:6908582,birth_dates,"1954,1955","2 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:6908585,birth_dates,"1937,1938","2 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:6908853,birth_dates,"1971,1972,1973","3 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:6908955,birth_dates,"1969,1970,1971","3 single-year DOBs, consecutive years -> express as a range",true
+un,DQ012,low,un:6908996,birth_dates,"1987,1988,1991,1992,1993","5 single-year DOBs, consecutive years -> express as a range",true
+un,DQ020,medium,un:2960872,nationality,former Soviet Union,country not mappable to ISO 3166-1,false
+un,DQ020,medium,un:690784,nationality,na,country not mappable to ISO 3166-1,false
+un,DQ021,low,un:110404,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110405,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110407,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110408,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110409,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110410,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110411,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110412,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110413,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110414,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110415,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110416,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110417,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110419,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110420,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110421,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110422,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110423,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110425,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110426,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110427,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110428,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110429,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110430,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110431,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110432,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110433,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110434,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110435,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110436,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110437,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110439,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110440,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110441,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110442,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110443,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110445,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:110446,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:111514,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:111942,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:113215,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:2892251,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:2892252,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:2975591,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:2981584,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:2981821,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:2989674,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:2989740,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:3013137,countries,,person has no nationality/citizenship,false
+un,DQ021,low,un:690730,countries,,person has no nationality/citizenship,false
+un,DQ030,medium,un:110424,passport,Diplomatic Passport: Z30321794,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:110917,passport,OA 454044,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111090,passport,SE-011697,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111178,passport,D 000769,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111179,passport,Afghan passport number SE 012820,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111182,national_id,Afghan national identification card (tazkira) number 4414,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111210,national_id,544311 ,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111211,passport,Afghan passport number OA296623,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111234,passport,D 001206,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111235,passport,D 000912,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111238,passport,D 000763,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111239,passport,D 0001203,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111302,passport,D 000974,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111303,passport,SE 011252,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111304,passport,D 000952,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111305,national_id,Afghan national identification card (tazkira) number 300786,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111305,passport,D 000857,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111951,national_id,E-491591,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111951,passport,H 236483,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:111953,passport,German travel document (“Reiseausweis”) A 0139243,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112030,passport,Provisional passport No.: 28642163,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112039,passport,Indonesia travel document number XD253038,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112043,national_id,E-189935,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112043,national_id,G-0343089,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112043,passport,K-348486,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112043,passport,M 271351,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112078,national_id,548-91-5411,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112138,passport,A-333602,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112138,passport,A501801 ,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112138,passport,A717288 ,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112138,passport,C-267185,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112138,passport,F823692 ,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112138,passport,G-869537,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112138,passport,G866537 ,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112138,passport,H-123259,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112138,passport,KC-285901,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112138,passport,P537849 ,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112379,national_id,Counterfeit Danish driving licence number 20645897,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:112483,passport,D-379312,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:113439,national_id,640120-01-5529,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:113439,passport,A 10472263,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:2760967,passport,British number 094629366,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:2786246,passport,1990/345751,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:2786469,passport,Libyan Passport No. 96/184442,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:2830354,passport,TR-P 614 166,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:2832887,national_id,61101-9618232-1,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:2832890,passport,A-374184,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:2832991,national_id,4-6032-0048-1,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:2833107,national_id,3520025509842-7,identifier contains whitespace/punctuation,true
+un,DQ030,medium,un:2863574,national_id,35404-1577309-9,identifier contains whitespace/punctuation,true
+un,DQ032,high,un:110406,passport,6620505,same identifier also on un:110444,false
+un,DQ032,high,un:110406,passport,9003213,same identifier also on un:110444,false
+un,DQ032,high,un:110444,passport,6620505,same identifier also on un:110406,false
+un,DQ032,high,un:110444,passport,9003213,same identifier also on un:110406,false
+un,DQ033,low,un:110427,passport,A0030940,passport without issuing country,false
+un,DQ033,low,un:110428,passport,K8196482,passport without issuing country,false
+un,DQ033,low,un:110431,passport,4229533,passport without issuing country,false
+un,DQ033,low,un:110431,passport,A0009228,passport without issuing country,false
+un,DQ033,low,un:110896,national_id,2132370,national_id without issuing country,false
+un,DQ033,low,un:110896,national_id,812673,national_id without issuing country,false
+un,DQ033,low,un:111043,passport,P03078281,passport without issuing country,false
+un,DQ033,low,un:111078,national_id,545167,national_id without issuing country,false
+un,DQ033,low,un:111179,passport,Afghan passport number SE 012820,passport without issuing country,false
+un,DQ033,low,un:111182,national_id,Afghan national identification card (tazkira) number 4414,national_id without issuing country,false
+un,DQ033,low,un:111210,national_id,544311 ,national_id without issuing country,false
+un,DQ033,low,un:111211,passport,Afghan passport number OA296623,passport without issuing country,false
+un,DQ033,low,un:111305,national_id,Afghan national identification card (tazkira) number 300786,national_id without issuing country,false
+un,DQ033,low,un:111451,national_id,3603251708570001,national_id without issuing country,false
+un,DQ033,low,un:111660,national_id,216040,national_id without issuing country,false
+un,DQ033,low,un:111763,passport,456682,passport without issuing country,false
+un,DQ033,low,un:111785,national_id,01817002,national_id without issuing country,false
+un,DQ033,low,un:111806,national_id,00319547,national_id without issuing country,false
+un,DQ033,low,un:111806,national_id,SSDSBN68B10Z352F,national_id without issuing country,false
+un,DQ033,low,un:111900,national_id,0094195,national_id without issuing country,false
+un,DQ033,low,un:111923,passport,19820215,passport without issuing country,false
+un,DQ033,low,un:111953,passport,German travel document (“Reiseausweis”) A 0139243,passport without issuing country,false
+un,DQ033,low,un:112033,national_id,BNSDLA70L14Z352B,national_id without issuing country,false
+un,DQ033,low,un:112039,passport,Indonesia travel document number XD253038,passport without issuing country,false
+un,DQ033,low,un:112078,national_id,548-91-5411,national_id without issuing country,false
+un,DQ033,low,un:112078,national_id,9681029476,national_id without issuing country,false
+un,DQ033,low,un:112138,passport,A717288 ,passport without issuing country,false
+un,DQ033,low,un:112138,passport,C-267185,passport without issuing country,false
+un,DQ033,low,un:112138,passport,G-869537,passport without issuing country,false
+un,DQ033,low,un:112138,passport,H-123259,passport without issuing country,false
+un,DQ033,low,un:112138,passport,KC-285901,passport without issuing country,false
+un,DQ033,low,un:112138,passport,V57865,passport without issuing country,false
+un,DQ033,low,un:112379,national_id,Counterfeit Danish driving licence number 20645897,national_id without issuing country,false
+un,DQ033,low,un:113328,passport,27082171,passport without issuing country,false
+un,DQ033,low,un:113439,national_id,640120-01-5529,national_id without issuing country,false
+un,DQ033,low,un:113439,passport,A 10472263,passport without issuing country,false
+un,DQ033,low,un:2760967,passport,British number 094629366,passport without issuing country,false
+un,DQ033,low,un:2762998,national_id,0075258,national_id without issuing country,false
+un,DQ033,low,un:2797952,passport,101423404,passport without issuing country,false
+un,DQ033,low,un:2894441,national_id,1729765,national_id without issuing country,false
+un,DQ033,low,un:2903810,national_id,Yemeni national identification number 973406,national_id without issuing country,false
+un,DQ033,low,un:2972739,national_id,2181558,national_id without issuing country,false
+un,DQ033,low,un:2972739,national_id,3219222002.2181558,national_id without issuing country,false
+un,DQ033,low,un:2975516,national_id,0134852,national_id without issuing country,false
+un,DQ033,low,un:2983821,national_id, 353010405480001 ,national_id without issuing country,false
+un,DQ033,low,un:2983973,national_id,29553654234,national_id without issuing country,false
+un,DQ033,low,un:2983973,national_id,35202- 4135948-7,national_id without issuing country,false
+un,DQ033,low,un:2983973,passport,DG5149481,passport without issuing country,false
+un,DQ033,low,un:690727,passport,D00002264,passport without issuing country,false
+un,DQ033,low,un:690727,national_id,M4800002143743,national_id without issuing country,false
+un,DQ040,high,un:111944,primary_name,aweys dahir hassan,possible duplicate of un:6908034,false
+un,DQ040,high,un:6908034,primary_name,aweys dahir hassan,possible duplicate of un:111944,false

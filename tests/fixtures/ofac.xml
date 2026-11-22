@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/XML">
+  <publshInformation>
+    <Publish_Date>11/20/2026</Publish_Date>
+    <Record_Count>6</Record_Count>
+  </publshInformation>
+  <sdnEntry>
+    <uid>906</uid>
+    <lastName>HAVIN BANK LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CUBA</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>19525</uid>
+        <idType>Company Number</idType>
+        <idNumber>01074897</idNumber>
+        <idCountry>United Kingdom</idCountry>
+      </id>
+      <id>
+        <uid>136109</uid>
+        <idType>SWIFT/BIC</idType>
+        <idNumber>HAVIGB2L</idNumber>
+      </id>
+      <id>
+        <uid>136110</uid>
+        <idType>Website</idType>
+        <idNumber>www.havanaintbank.co.uk</idNumber>
+      </id>
+      <id>
+        <uid>136111</uid>
+        <idType>Website</idType>
+        <idNumber>www.hib.uk.com</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>46100</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>HAVANA INTERNATIONAL BANK, LTD</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>44386</uid>
+        <address1>4th Floor</address1>
+        <address2>189 Marsh Wall</address2>
+        <city>London</city>
+        <postalCode>E14 9SH</postalCode>
+        <country>United Kingdom</country>
+      </address>
+      <address>
+        <uid>44387</uid>
+        <address1>Edificio Atlantic, Oficina 4 H</address1>
+        <address2>Calle D No. 8 entre 1ra. y 3ra.</address2>
+        <address3>Vedado, Plaza de la Revolucion</address3>
+        <city>Havana</city>
+        <postalCode>10400</postalCode>
+        <country>Cuba</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>3754</uid>
+    <firstName>Mousa Mohammed</firstName>
+    <lastName>ABU MARZOOK</lastName>
+    <title>Political Leader in Amman, Jordan and Damascus, Syria for HAMAS</title>
+    <sdnType>Individual</sdnType>
+    <programList>
+      <program>SDGT</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>1008</uid>
+        <idType>Passport</idType>
+        <idNumber>92/664</idNumber>
+        <idCountry>Egypt</idCountry>
+      </id>
+      <id>
+        <uid>1009</uid>
+        <idType>SSN</idType>
+        <idNumber>523-33-8386</idNumber>
+        <idCountry>United States</idCountry>
+      </id>
+      <id>
+        <uid>185823</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>section 1(b) of Executive Order 13224, as amended by Executive Order 13886</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>3341</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>MARZUK</lastName>
+        <firstName>Musa Abu</firstName>
+      </aka>
+      <aka>
+        <uid>3342</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>ABU-MARZUQ</lastName>
+        <firstName>Dr. Musa</firstName>
+      </aka>
+      <aka>
+        <uid>3343</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>MARZOOK</lastName>
+        <firstName>Mousa Mohamed Abou</firstName>
+      </aka>
+      <aka>
+        <uid>3344</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>ABU-MARZUQ</lastName>
+        <firstName>Sa'id</firstName>
+      </aka>
+      <aka>
+        <uid>3345</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>ABU-'UMAR</lastName>
+      </aka>
+      <aka>
+        <uid>5821</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>MARZOUK</lastName>
+        <firstName>Musa Abu</firstName>
+      </aka>
+    </akaList>
+    <dateOfBirthList>
+      <dateOfBirthItem>
+        <uid>1029</uid>
+        <dateOfBirth>09 Feb 1951</dateOfBirth>
+        <mainEntry>true</mainEntry>
+      </dateOfBirthItem>
+    </dateOfBirthList>
+    <placeOfBirthList>
+      <placeOfBirthItem>
+        <uid>1030</uid>
+        <placeOfBirth>Gaza, Egypt</placeOfBirth>
+        <mainEntry>true</mainEntry>
+      </placeOfBirthItem>
+    </placeOfBirthList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>4238</uid>
+    <lastName>MAR AZUL</lastName>
+    <sdnType>Vessel</sdnType>
+    <programList>
+      <program>CUBA</program>
+    </programList>
+    <vesselInfo>
+      <callSign>CL2192</callSign>
+      <vesselType>Tug</vesselType>
+      <vesselFlag>Cuba</vesselFlag>
+      <vesselOwner>Samir de Navegacion S.A.</vesselOwner>
+      <grossRegisteredTonnage>212</grossRegisteredTonnage>
+    </vesselInfo>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>7782</uid>
+    <firstName>Senad</firstName>
+    <lastName>SAHINPASIC</lastName>
+    <sdnType>Individual</sdnType>
+    <programList>
+      <program>BALKANS</program>
+    </programList>
+    <dateOfBirthList>
+      <dateOfBirthItem>
+        <uid>1945</uid>
+        <dateOfBirth>circa 1951</dateOfBirth>
+        <mainEntry>false</mainEntry>
+      </dateOfBirthItem>
+    </dateOfBirthList>
+    <placeOfBirthList>
+      <placeOfBirthItem>
+        <uid>1944</uid>
+        <placeOfBirth>Foca, Bosnia-Herzegovina</placeOfBirth>
+        <mainEntry>true</mainEntry>
+      </placeOfBirthItem>
+    </placeOfBirthList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>7843</uid>
+    <firstName>Saddam Hussein</firstName>
+    <lastName>AL-TIKRITI</lastName>
+    <sdnType>Individual</sdnType>
+    <remarks>named in UNSCR 1483; President since 1979</remarks>
+    <programList>
+      <program>IRAQ2</program>
+    </programList>
+    <akaList>
+      <aka>
+        <uid>5643</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>ABU ALI</lastName>
+      </aka>
+      <aka>
+        <uid>5644</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>HUSAYN</lastName>
+        <firstName>Saddam</firstName>
+      </aka>
+      <aka>
+        <uid>5645</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>HUSSAIN</lastName>
+        <firstName>Saddam</firstName>
+      </aka>
+      <aka>
+        <uid>5646</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>HUSSEIN</lastName>
+        <firstName>Saddam</firstName>
+      </aka>
+    </akaList>
+    <nationalityList>
+      <nationality>
+        <uid>2068</uid>
+        <country>Iraq</country>
+        <mainEntry>true</mainEntry>
+      </nationality>
+    </nationalityList>
+    <dateOfBirthList>
+      <dateOfBirthItem>
+        <uid>2066</uid>
+        <dateOfBirth>28 Apr 1937</dateOfBirth>
+        <mainEntry>true</mainEntry>
+      </dateOfBirthItem>
+    </dateOfBirthList>
+    <placeOfBirthList>
+      <placeOfBirthItem>
+        <uid>2067</uid>
+        <placeOfBirth>al-Awja, near Tikrit, Iraq</placeOfBirth>
+        <mainEntry>true</mainEntry>
+      </placeOfBirthItem>
+    </placeOfBirthList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>8868</uid>
+    <firstName>Zuhayr</firstName>
+    <lastName>SHALISH</lastName>
+    <title>Brigadier General; Major General</title>
+    <sdnType>Individual</sdnType>
+    <programList>
+      <program>IRAQ2</program>
+    </programList>
+    <akaList>
+      <aka>
+        <uid>8107</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SHALISH</lastName>
+        <firstName>Zuhilma</firstName>
+      </aka>
+      <aka>
+        <uid>8108</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SHALISH</lastName>
+        <firstName>Dhu Al Himma</firstName>
+      </aka>
+      <aka>
+        <uid>8111</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SHALEESH</lastName>
+        <firstName>Dhu Himma</firstName>
+      </aka>
+      <aka>
+        <uid>8118</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AL-HEMMEH</lastName>
+        <firstName>Thu</firstName>
+      </aka>
+      <aka>
+        <uid>8119</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SHALISH</lastName>
+        <firstName>Dhuil Himma</firstName>
+      </aka>
+      <aka>
+        <uid>8120</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AL-SHALISH</lastName>
+        <firstName>Dhu Al-Himma</firstName>
+      </aka>
+      <aka>
+        <uid>8812</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SHALEESH</lastName>
+        <firstName>Thu Al Hima</firstName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>11527</uid>
+        <city>Damascus</city>
+        <country>Syria</country>
+      </address>
+    </addressList>
+    <nationalityList>
+      <nationality>
+        <uid>4173</uid>
+        <country>Syria</country>
+        <mainEntry>true</mainEntry>
+      </nationality>
+    </nationalityList>
+    <dateOfBirthList>
+      <dateOfBirthItem>
+        <uid>4276</uid>
+        <dateOfBirth>1955 to 1957</dateOfBirth>
+        <mainEntry>true</mainEntry>
+      </dateOfBirthItem>
+    </dateOfBirthList>
+    <placeOfBirthList>
+      <placeOfBirthItem>
+        <uid>4277</uid>
+        <placeOfBirth>Al-Ladhiqiyah, Syria</placeOfBirth>
+        <mainEntry>true</mainEntry>
+      </placeOfBirthItem>
+    </placeOfBirthList>
+  </sdnEntry>
+</sdnList>

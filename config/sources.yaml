@@ -1,0 +1,30 @@
+eu:
+  url: "https://webgate.ec.europa.eu/fsd/fsf/public/files/xmlFullSanctionsList_1_1/content?token=dG9rZW4tMjAxNw"
+  format: "xml"
+  namespace: "http://eu.europa.ec/fpi/fsd/export"
+  entity_tag: "sanctionEntity"
+  id_field: "logicalId"
+  count_field: "record_count"
+
+un:
+  url: "https://scsanctions.un.org/resources/xml/en/consolidated.xml"
+  format: "xml"
+  entity_tag: "INDIVIDUAL"
+  count_field: "record_count"
+
+ofac:
+  url: "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.XML"
+  format: "xml"
+  namespace: "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/XML"
+  entity_tag: "sdnEntry"
+  count_field: "Record_Count"
+
+uk:
+  url: "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.xml"
+  format: "xml"
+  entity_tag: "Designation"
+  id_field: "UniqueID"
+
+nl:
+  url: "https://data.opensanctions.org/datasets/latest/nl_terrorism_list/entities.ftm.json"
+  format: "ftm_json"

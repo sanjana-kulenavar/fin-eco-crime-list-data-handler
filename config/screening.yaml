@@ -1,0 +1,11 @@
+# Screening-impact experiment (see PLAN.md §10)
+seed: 42
+n_customers: 20000
+n_hits: 300
+threshold: 85          # default alert threshold on the final score (0-100+)
+sweep: {min: 75, max: 95}
+blocking:
+  min_token_length: 3
+  max_candidates: 200
+# Offline demo (fixtures) uses a smaller book
+demo: {n_customers: 2000, n_hits: 20}

@@ -1,0 +1,3487 @@
+{
+ "snapshot_date": "2026-11-22",
+ "operations": [
+  {
+   "op": "upsert",
+   "entity_key": "eu:1003",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:1003",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Nurjaman Riduan Isamuddin",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2026-08-26",
+    "names": [
+     {
+      "name": "Nurjaman Riduan Isamuddin",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Hambali",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Nurjaman",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Nurjaman Riduan Isomuddin",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Encep Nurjaman (birth name)",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Hambali Bin Ending",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Hambali Ending Hambali",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Isomuddin, Nurjaman Riduan",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Isamudin Ridwan",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Isamuddin Riduan",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1964-04-04",
+      "from": "1964-04-04",
+      "to": "1964-04-04",
+      "precision": "day"
+     },
+     {
+      "raw": "1966",
+      "from": "1966-01-01",
+      "to": "1966-12-31",
+      "precision": "year"
+     }
+    ],
+    "identifiers": [],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "ID"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "ID"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "MY"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:1004",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:1004",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Mohamad Iqbal Rahman",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2011-06-22",
+    "names": [
+     {
+      "name": "Mohamad Iqbal Rahman",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Mohamad Iqbal Abdul Rahman",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Mohamad Iqbal A Rahman",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Mohamad Iqbal Abdurrahman",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Fihiruddin Muqti",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Fikiruddin Muqti",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu Jibril Abdurrahman",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1957-08-17",
+      "from": "1957-08-17",
+      "to": "1957-08-17",
+      "precision": "day"
+     },
+     {
+      "raw": "1958-08-17",
+      "from": "1958-08-17",
+      "to": "1958-08-17",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "national_id",
+      "number": "3603251708570001",
+      "country": null
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "ID"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "ID"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:1006",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:1006",
+    "list_source": "eu",
+    "entity_type": "organisation",
+    "primary_name": "Lashkar i Jhangvi",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2026-08-26",
+    "names": [
+     {
+      "name": "Lashkar i Jhangvi",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [],
+    "identifiers": [],
+    "countries": []
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:1008",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:1008",
+    "list_source": "eu",
+    "entity_type": "organisation",
+    "primary_name": "Apoiantes Curdos do Islão",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2012-01-18",
+    "names": [
+     {
+      "name": "Apoiantes Curdos do Islão",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Devotos del Islam",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Ejército Ansar al-Sunna",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Soldados de Deus",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Apoiantes do Islão no Curdistão",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Ansar al-Islam",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Jund al-Islam",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Soldiers of Islam",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Kurdistan Supporters of Islam",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Supporters of Islam in Kurdistan",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Followers of Islam in Kurdistan",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Soldados del Islam",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Seguidores do Islão no Curdistão",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Simpatizantes kurdos del Islam",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Simpatizantes del Islam en Kurdistán",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Seguidores del Islam en Kurdistán",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Soldados do Islão",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Exército Ansar al-Sunna",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Поданици на исляма",
+      "type": "alias",
+      "strength": "strong",
+      "script": "cyrillic"
+     },
+     {
+      "name": "Войници на исляма",
+      "type": "alias",
+      "strength": "strong",
+      "script": "cyrillic"
+     },
+     {
+      "name": "Кюрдски поддръжници на исляма",
+      "type": "alias",
+      "strength": "strong",
+      "script": "cyrillic"
+     },
+     {
+      "name": "Поддръжници на исляма в Кюрдистан",
+      "type": "alias",
+      "strength": "strong",
+      "script": "cyrillic"
+     },
+     {
+      "name": "Последователи на исляма в Кюрдистан",
+      "type": "alias",
+      "strength": "strong",
+      "script": "cyrillic"
+     },
+     {
+      "name": "Kurdish Taliban",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Кюрдски талибани",
+      "type": "alias",
+      "strength": "strong",
+      "script": "cyrillic"
+     },
+     {
+      "name": "Войници на бог",
+      "type": "alias",
+      "strength": "strong",
+      "script": "cyrillic"
+     },
+     {
+      "name": "Devotees of Islam",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Devotos do Islão",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Soldiers of God",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Ansar al-Sunna Army",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Jaish Ansar al-Sunna",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Ansar al-Sunna",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Talibanes kurdos",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Soldados de Dios",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [],
+    "identifiers": [],
+    "countries": []
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:101",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:101",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Barzan Ibrahim Hassan Al-Tikriti",
+    "programmes": [
+     "IRQ"
+    ],
+    "listed_on": "2003-07-08",
+    "names": [
+     {
+      "name": "Barzan Ibrahim Hassan Al-Tikriti",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1951",
+      "from": "1951-01-01",
+      "to": "1951-12-31",
+      "precision": "year"
+     }
+    ],
+    "identifiers": [],
+    "countries": [
+     {
+      "role": "citizenship",
+      "iso2": "IQ"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:1010",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:1010",
+    "list_source": "eu",
+    "entity_type": "organisation",
+    "primary_name": "Islamic International Brigade",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2012-01-18",
+    "names": [
+     {
+      "name": "Islamic International Brigade",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "the Islamic Peacekeeping Brigade",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "International Brigade",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Islamic Peacekeeping International Brigade",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "the Islamic Peacekeeping Army",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Islamic Peacekeeping Battalion",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "International Battalion",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Brigada Internacional Islâmica",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "the International Brigade",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Islamic Peacekeeping Brigade",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Islamic Peacekeeping Army",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [],
+    "identifiers": [],
+    "countries": []
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:1011",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:1011",
+    "list_source": "eu",
+    "entity_type": "organisation",
+    "primary_name": "The al-Jihad-Fisi-Sabililah Special Islamic Regiment",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2012-01-18",
+    "names": [
+     {
+      "name": "The al-Jihad-Fisi-Sabililah Special Islamic Regiment",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Islamic Regiment of Special Meaning",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "SPIR",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "The Islamic Special Purpose Regiment",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Regimento Islâmico Especial al-Jihad-Fisi-Sabililah",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Regimento Islâmico de Significado Especial",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Special Purpose Islamic Regiment",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Regimento Islâmico de Operações Especiais",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [],
+    "identifiers": [],
+    "countries": []
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:1012",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:1012",
+    "list_source": "eu",
+    "entity_type": "organisation",
+    "primary_name": "Riyadus-Salikhin Reconnaissance and Sabotage Battalion of Chechen Martyrs",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2012-01-18",
+    "names": [
+     {
+      "name": "Riyadus-Salikhin Reconnaissance and Sabotage Battalion of Chechen Martyrs",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Riyadus-Salikhin Reconnaissance and Sabotage Battalion",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Riyadu-Salikhin Reconnaissance and Sabotage battalion of Shahids (Martyrs)",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Riyadh-as-Saliheen",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "The Sabotage and Military Surveillance Group of the Riyadh al-Salihin Martyrs",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Firqat al-Takhrib wa al-Istitla al-Askariyah li Shuhada Riyadh al-Salihin",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Batalhão de Reconhecimento e Sabotagem dos Shahids (Mártires) Riyadu-Salikhin",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "RSRSBCM",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Batalhão de Reconhecimento e Sabotagem dos Mártires Chechenos Riyadus-Salikhin",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Batalhão de Reconhecimento e Sabotagem Riyadus-Salikhin",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Grupo de Sabotagem e de Vigilância Militar dos Mártires Riyadh al-Salihin",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [],
+    "identifiers": [],
+    "countries": []
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:1016",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:1016",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Mehrez Ben Mahmoud Ben Sassi Al-Amdouni",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2011-06-17",
+    "names": [
+     {
+      "name": "Mehrez Ben Mahmoud Ben Sassi Al-Amdouni",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Amdouni Mehrez ben Tah",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Meherez Hamdouni",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu Thale",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Mohamed Hassan",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Fabio Fusco",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Meherez ben Ahdoud ben Amdouni",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1968-05-25",
+      "from": "1968-05-25",
+      "to": "1968-05-25",
+      "precision": "day"
+     },
+     {
+      "raw": "1968-05-25",
+      "from": "1968-05-25",
+      "to": "1968-05-25",
+      "precision": "day"
+     },
+     {
+      "raw": "1968-12-18",
+      "from": "1968-12-18",
+      "to": "1968-12-18",
+      "precision": "day"
+     },
+     {
+      "raw": "1969-07-14",
+      "from": "1969-07-14",
+      "to": "1969-07-14",
+      "precision": "day"
+     },
+     {
+      "raw": "1969-12-18",
+      "from": "1969-12-18",
+      "to": "1969-12-18",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "passport",
+      "number": "G737411",
+      "country": "TN"
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "DZ"
+     },
+     {
+      "role": "birth",
+      "iso2": "IT"
+     },
+     {
+      "role": "birth",
+      "iso2": "TN"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "TN"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:1020",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:1020",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Moussa Ben Omar Ben Ali Essaadi",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2020-09-17",
+    "names": [
+     {
+      "name": "Moussa Ben Omar Ben Ali Essaadi",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Dah Dah",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abdelrahmman",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Bechir",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "موسى بن عمر بن علي السعدي",
+      "type": "alias",
+      "strength": "strong",
+      "script": "arabic"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1964-12-04",
+      "from": "1964-12-04",
+      "to": "1964-12-04",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "passport",
+      "number": "L335915",
+      "country": "TN"
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "TN"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "TN"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:103",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:103",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Huda Salih Mahdi Ammash",
+    "programmes": [
+     "IRQ"
+    ],
+    "listed_on": "2003-07-08",
+    "names": [
+     {
+      "name": "Huda Salih Mahdi Ammash",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Houda Sali Mahdi Ammach",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1953",
+      "from": "1953-01-01",
+      "to": "1953-12-31",
+      "precision": "year"
+     }
+    ],
+    "identifiers": [],
+    "countries": [
+     {
+      "role": "citizenship",
+      "iso2": "IQ"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:1037",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:1037",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Agus Dwikarna",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2014-05-29",
+    "names": [
+     {
+      "name": "Agus Dwikarna",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1964-08-11",
+      "from": "1964-08-11",
+      "to": "1964-08-11",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "other",
+      "number": "XD253038",
+      "country": "ID"
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "ID"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "ID"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:1040",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:1040",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Salim Y Salamuddin JULKIPLI",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2026-08-26",
+    "names": [
+     {
+      "name": "Salim Y Salamuddin JULKIPLI",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Kipli Sali",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Julkipli Salim",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1967-06-20",
+      "from": "1967-06-20",
+      "to": "1967-06-20",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "PH"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "PH"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:105210",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:105210",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Muhamad MAHALLA",
+    "programmes": [
+     "SYR"
+    ],
+    "listed_on": "2024-05-27",
+    "names": [
+     {
+      "name": "Muhamad MAHALLA",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Mohamed MAHALLA",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Mohamed Mualla",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Muhamad Mualla",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Muhammad Mahla",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Mohamed Mahla",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Muhamad Mahla",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "محمد محلا",
+      "type": "alias",
+      "strength": "strong",
+      "script": "arabic"
+     },
+     {
+      "name": "Muhammad MAHALLA",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Muhammad Muhalla",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Mohamed Muhalla",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Muhamad Muhalla",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Muhammad Maalla",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Mohamed Maalla",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Muhamad Maalla",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Muhammad Mualla",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1959-06-04",
+      "from": "1959-06-04",
+      "to": "1959-06-04",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "SY"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:105305",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:105305",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Abdulmalik al-Huthi",
+    "programmes": [
+     "YEM"
+    ],
+    "listed_on": "2016-09-30",
+    "names": [
+     {
+      "name": "Abdulmalik al-Huthi",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abdulmalik al-Houthi",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [],
+    "identifiers": [],
+    "countries": []
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:105403",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:105403",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "KIM Il-Su",
+    "programmes": [
+     "PRK"
+    ],
+    "listed_on": "2024-12-16",
+    "names": [
+     {
+      "name": "KIM Il-Su",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "김일수",
+      "type": "alias",
+      "strength": "strong",
+      "script": "cjk"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1965-09-02",
+      "from": "1965-09-02",
+      "to": "1965-09-02",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "KP"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:105407",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:105407",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Song-Sam KANG",
+    "programmes": [
+     "PRK"
+    ],
+    "listed_on": "2024-12-16",
+    "names": [
+     {
+      "name": "Song-Sam KANG",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1972-07-05",
+      "from": "1972-07-05",
+      "to": "1972-07-05",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "KP"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:105411",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:105411",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "최천식",
+    "programmes": [
+     "PRK"
+    ],
+    "listed_on": "2024-12-16",
+    "names": [
+     {
+      "name": "최천식",
+      "type": "primary",
+      "strength": "strong",
+      "script": "cjk"
+     },
+     {
+      "name": "CHOE Chun-Sik",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1963-12-23",
+      "from": "1963-12-23",
+      "to": "1963-12-23",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "passport",
+      "number": "745132109",
+      "country": null
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "KP"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:105416",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:105416",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "SIN Kyu-Nam",
+    "programmes": [
+     "PRK"
+    ],
+    "listed_on": "2024-12-16",
+    "names": [
+     {
+      "name": "SIN Kyu-Nam",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "신규남",
+      "type": "alias",
+      "strength": "strong",
+      "script": "cjk"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1972-09-12",
+      "from": "1972-09-12",
+      "to": "1972-09-12",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "passport",
+      "number": "PO472132950",
+      "country": null
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "KP"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:105420",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:105420",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "PAK Chun San",
+    "programmes": [
+     "PRK"
+    ],
+    "listed_on": "2024-12-16",
+    "names": [
+     {
+      "name": "PAK Chun San",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "박천산",
+      "type": "alias",
+      "strength": "strong",
+      "script": "cjk"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1953-12-18",
+      "from": "1953-12-18",
+      "to": "1953-12-18",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "passport",
+      "number": "PS472220097",
+      "country": null
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "KP"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:105424",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:105424",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "서동명",
+    "programmes": [
+     "PRK"
+    ],
+    "listed_on": "2024-12-16",
+    "names": [
+     {
+      "name": "서동명",
+      "type": "primary",
+      "strength": "strong",
+      "script": "cjk"
+     },
+     {
+      "name": "SO Tong Myong",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1956-09-10",
+      "from": "1956-09-10",
+      "to": "1956-09-10",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [],
+    "countries": []
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:105596",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:105596",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Jock Riak",
+    "programmes": [
+     "SSD"
+    ],
+    "listed_on": "2018-12-11",
+    "names": [
+     {
+      "name": "Jock Riak",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Jok Riak",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Gabriel Jok",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Gabriel JOK RIAK MAKOL",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1966-01-01",
+      "from": "1966-01-01",
+      "to": "1966-01-01",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "national_id",
+      "number": "M6600000258472",
+      "country": null
+     },
+     {
+      "type": "passport",
+      "number": "D00008623",
+      "country": "SS"
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "SD"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "SS"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:105618",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:105618",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "James Koang Chual",
+    "programmes": [
+     "SSD"
+    ],
+    "listed_on": "2017-03-09",
+    "names": [
+     {
+      "name": "James Koang Chual",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Koang Chuol Ranley",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "James Koang Chol",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "James Koang Chol Ranley",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "James Koang CHUOL",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1961",
+      "from": "1961-01-01",
+      "to": "1961-12-31",
+      "precision": "year"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "passport",
+      "number": "R00012098",
+      "country": "SD"
+     }
+    ],
+    "countries": [
+     {
+      "role": "citizenship",
+      "iso2": "SD"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:105626",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:105626",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Santino Deng WOL",
+    "programmes": [
+     "SSD"
+    ],
+    "listed_on": "2017-03-09",
+    "names": [
+     {
+      "name": "Santino Deng WOL",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Santino Deng Wuol",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Santino Deng Kuol",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1962-11-09",
+      "from": "1962-11-09",
+      "to": "1962-11-09",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "SD"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:105631",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:105631",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Marial Chinuong",
+    "programmes": [
+     "SSD"
+    ],
+    "listed_on": "2017-03-09",
+    "names": [
+     {
+      "name": "Marial Chinuong",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Marial Chanuong Yol MANGOK",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Marial Chinoum",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Marial Chan",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Marial Chanoung Yol",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1960-01-01",
+      "from": "1960-01-01",
+      "to": "1960-01-01",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "passport",
+      "number": "R00005943",
+      "country": "SD"
+     }
+    ],
+    "countries": [
+     {
+      "role": "citizenship",
+      "iso2": "SD"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:105748",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:105748",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Abdul Basir",
+    "programmes": [
+     "AFG"
+    ],
+    "listed_on": "2017-03-09",
+    "names": [
+     {
+      "name": "Abdul Basir",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abdul Basir Noorzai",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Haji Abdul Basir",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Haji 'Abd Al-Basir",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Haji Basir Noorzai",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abdul Baseer",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1960",
+      "from": "1960-01-01",
+      "to": "1960-12-31",
+      "precision": "year"
+     },
+     {
+      "raw": "1963",
+      "from": "1963-01-01",
+      "to": "1963-12-31",
+      "precision": "year"
+     },
+     {
+      "raw": "1965",
+      "from": "1965-01-01",
+      "to": "1965-12-31",
+      "precision": "year"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "national_id",
+      "number": "5420124679187",
+      "country": "PK"
+     },
+     {
+      "type": "passport",
+      "number": "AA3829182",
+      "country": "PK"
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "PK"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "AF"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:105763",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:105763",
+    "list_source": "eu",
+    "entity_type": "organisation",
+    "primary_name": "Haji Basir and Zarjmil Company Hawala",
+    "programmes": [
+     "AFG"
+    ],
+    "listed_on": "2017-03-09",
+    "names": [
+     {
+      "name": "Haji Basir and Zarjmil Company Hawala",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Haji Baseer Hawala",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Haji Bashir and Zarjmil Hawala Company",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Haji Abdul Basir and Zar Jameel Hawala",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Haji Basir Hawala",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Haji Abdul Basir Exchange Shop",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Haji Basir and Zarjamil Currency Exchange",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Haji Zar Jamil, Haji Abdul Baseer Money Changer",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [],
+    "identifiers": [],
+    "countries": []
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:105792",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:105792",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Simon Gatwec Duel",
+    "programmes": [
+     "SSD"
+    ],
+    "listed_on": "2017-03-09",
+    "names": [
+     {
+      "name": "Simon Gatwec Duel",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Simon Getwech Dual",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Simon Gatweach",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Simon Gatwick",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Simon Gatwech",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Simon Garwich",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "General Gaduel",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Simon Gatewech DUAL",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Simon Gatwich Dual",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Dhual",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1953",
+      "from": "1953-01-01",
+      "to": "1953-12-31",
+      "precision": "year"
+     }
+    ],
+    "identifiers": [],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "SD"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:105954",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:105954",
+    "list_source": "eu",
+    "entity_type": "organisation",
+    "primary_name": "Jaysh al-Muhajirin wal-Ansar (JAMWA)",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2015-08-14",
+    "names": [
+     {
+      "name": "Jaysh al-Muhajirin wal-Ansar (JAMWA)",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Battalion of Emigrants and Ansar",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Army of Emigrants and Supporters organization",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Battalion of Emigrants and Supporters",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "The Army Of Emigrants And Supporters",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [],
+    "identifiers": [],
+    "countries": [
+     {
+      "role": "citizenship",
+      "iso2": "SY"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106123",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106123",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Colonel Romboh",
+    "programmes": [
+     "CAF"
+    ],
+    "listed_on": "2020-08-10",
+    "names": [
+     {
+      "name": "Colonel Romboh",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Alfred YEKATOM",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Colonel Rambot",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Colonel Rambo",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Colonel Rombhot",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Alfred Saragba",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Colonel Rombot",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Alfred Yekatom Saragba",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Alfred Ekatom",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1976-06-23",
+      "from": "1976-06-23",
+      "to": "1976-06-23",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "CF"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "CF"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106138",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106138",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Soussou  Abib",
+    "programmes": [
+     "CAF"
+    ],
+    "listed_on": "2020-08-10",
+    "names": [
+     {
+      "name": "Soussou Abib",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Habib SOUSSOU",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1980-03-13",
+      "from": "1980-03-13",
+      "to": "1980-03-13",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "CF"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "CF"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106144",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106144",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Oumar YOUNOUS",
+    "programmes": [
+     "CAF"
+    ],
+    "listed_on": "2017-05-30",
+    "names": [
+     {
+      "name": "Oumar YOUNOUS",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Oumar Younous M'Betibangui",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Oumar Sodiam",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Omar Younous",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Oumar YOUNOUS ABDOULAY",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1970-04-02",
+      "from": "1970-04-02",
+      "to": "1970-04-02",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "other",
+      "number": "D00000898",
+      "country": null
+     }
+    ],
+    "countries": [
+     {
+      "role": "citizenship",
+      "iso2": "SD"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106224",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106224",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Abou Fares al Libi",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2025-03-21",
+    "names": [
+     {
+      "name": "Abou Fares al Libi",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Sufyan bin Qumu",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Sofiane Ben Goumo",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1959-06-26",
+      "from": "1959-06-26",
+      "to": "1959-06-26",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "LY"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "LY"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106385",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106385",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Abd Al-Latif Bin Abdallah Salih Muhammad Al-Kawari",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2021-03-30",
+    "names": [
+     {
+      "name": "Abd Al-Latif Bin Abdallah Salih Muhammad Al-Kawari",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu Ali al-Kawari",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "عبداللطیف بن عبدلله صالح محمد الكواري",
+      "type": "alias",
+      "strength": "strong",
+      "script": "arabic"
+     },
+     {
+      "name": "Abd-al-Latif Abdallah Salih al-Kawari",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abd-al-Latif Abdallah Salih al-Kuwari",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abd-al-Latif Abdallah al-Kawwari",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abd-al-Latif Abdallah al-Kawari",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1973-09-28",
+      "from": "1973-09-28",
+      "to": "1973-09-28",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "national_id",
+      "number": "27363400684",
+      "country": "QA"
+     },
+     {
+      "type": "passport",
+      "number": "00490327",
+      "country": "QA"
+     },
+     {
+      "type": "passport",
+      "number": "00754833",
+      "country": "QA"
+     },
+     {
+      "type": "passport",
+      "number": "01020802",
+      "country": "QA"
+     },
+     {
+      "type": "passport",
+      "number": "01538029",
+      "country": "QA"
+     }
+    ],
+    "countries": [
+     {
+      "role": "citizenship",
+      "iso2": "QA"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106389",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106389",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Sa'd bin Sa'd Muhammad Shiryan al-Ka'bi",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2021-03-30",
+    "names": [
+     {
+      "name": "Sa'd bin Sa'd Muhammad Shiryan al-Ka'bi",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Sa'd Sa'd Muhammad Shiryan al-Ka'bi",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Sa'd al-Sharyan al-Ka'bi",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu Haza'",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu Hazza'",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "سعد بن سعد محمد شریان الكعبي",
+      "type": "alias",
+      "strength": "strong",
+      "script": "arabic"
+     },
+     {
+      "name": "Abu Sa'd",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu Suad",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Sa'd Bin Sa'd Muhammad Shariyan Al-Ka'bi",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Umar al-Afghani",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1972-02-15",
+      "from": "1972-02-15",
+      "to": "1972-02-15",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "national_id",
+      "number": "27263401275",
+      "country": "QA"
+     },
+     {
+      "type": "passport",
+      "number": "00966737",
+      "country": "QA"
+     }
+    ],
+    "countries": [
+     {
+      "role": "citizenship",
+      "iso2": "QA"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:1064",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:1064",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Aris Munandar",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2023-02-13",
+    "names": [
+     {
+      "name": "Aris Munandar",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1971-01-01",
+      "from": "1971-01-01",
+      "to": "1971-01-01",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "ID"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "ID"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:1065",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:1065",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Abdul Hakim Ali al-Hashem Murad",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2011-06-17",
+    "names": [
+     {
+      "name": "Abdul Hakim Ali al-Hashem Murad",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abdul Hakim al Hashim Murad",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abdul Hakim MURAD",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Saeed Ahmed",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Saeed Akman",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abdul Hakim Ali Hashim Murad",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abdul Hakim Hasim Murad",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1968-04-11",
+      "from": "1968-04-11",
+      "to": "1968-04-11",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "passport",
+      "number": "665334",
+      "country": "PK"
+     },
+     {
+      "type": "passport",
+      "number": "917739",
+      "country": "PK"
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "KW"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "PK"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106530",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106530",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Aqsa Mahmood",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2015-10-09",
+    "names": [
+     {
+      "name": "Aqsa Mahmood",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Umm Layth",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1994-05-11",
+      "from": "1994-05-11",
+      "to": "1994-05-11",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "passport",
+      "number": "720134834",
+      "country": "GB"
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "GB"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106532",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106532",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Nasir Muthana",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2015-10-09",
+    "names": [
+     {
+      "name": "Nasir Muthana",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abdul Muthana",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu Muthana",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu Al-Yemeni Muthana",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu Muthanna",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Nasser Ahmed Muthana",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1994-04-29",
+      "from": "1994-04-29",
+      "to": "1994-04-29",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "passport",
+      "number": "210804241",
+      "country": "GB"
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "GB"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "GB"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106534",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106534",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Abu- Sa'id Al Britani",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2015-10-09",
+    "names": [
+     {
+      "name": "Abu- Sa'id Al Britani",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Omar Ali Hussain",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1987-03-21",
+      "from": "1987-03-21",
+      "to": "1987-03-21",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "passport",
+      "number": "205939411",
+      "country": "GB"
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "GB"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "GB"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106536",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106536",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Sally-Anne Frances Jones",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2015-10-09",
+    "names": [
+     {
+      "name": "Sally-Anne Frances Jones",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Sakinah Hussain",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Umm Hussain al-Britani",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1968-11-17",
+      "from": "1968-11-17",
+      "to": "1968-11-17",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "passport",
+      "number": "519408086",
+      "country": "GB"
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "GB"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "GB"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106538",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106538",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Boubaker Ben Habib Ben Al-Hakim",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2026-08-26",
+    "names": [
+     {
+      "name": "Boubaker Ben Habib Ben Al-Hakim",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu-Muqatil al-Tunisi",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abou Mouqatel",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abou al Moukatel",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Boubaker el Hakim",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Boubakeur el-Hakim",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "El Hakim Boubakeur",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1983-08-01",
+      "from": "1983-08-01",
+      "to": "1983-08-01",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "FR"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "FR"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "TN"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106540",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106540",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Peter Cherif",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2026-08-26",
+    "names": [
+     {
+      "name": "Peter Cherif",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1982-08-26",
+      "from": "1982-08-26",
+      "to": "1982-08-26",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "FR"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "FR"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106542",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106542",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Maxime Hauchard",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2016-07-01",
+    "names": [
+     {
+      "name": "Maxime Hauchard",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abou Abdallah al Faransi",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1992-03-17",
+      "from": "1992-03-17",
+      "to": "1992-03-17",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "national_id",
+      "number": "101127200129",
+      "country": "FR"
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "FR"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "FR"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106544",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106544",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Amru Al-Absi",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2015-10-09",
+    "names": [
+     {
+      "name": "Amru Al-Absi",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu-Umar al-Absi",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu al-Athir al-Shami",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu Amr al Shami",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu Asir",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu al-Asir",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Amr al Absi",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu al-Athir",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu al Athir Amr al Absi",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1979",
+      "from": "1979-01-01",
+      "to": "1979-12-31",
+      "precision": "year"
+     }
+    ],
+    "identifiers": [],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "SA"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106546",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106546",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Handalah",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2015-10-09",
+    "names": [
+     {
+      "name": "Handalah",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu-Rayhanah",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Rayhanah",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Mu'tassim Yahya 'Ali Al-Rumaysh",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Abu-Rayhanah al-'Ansari al-Jeddawi",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1973-01-04",
+      "from": "1973-01-04",
+      "to": "1973-01-04",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "company_reg",
+      "number": "2054275397",
+      "country": "SA"
+     },
+     {
+      "type": "passport",
+      "number": "01055336",
+      "country": "YE"
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "SA"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "YE"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106548",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106548",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Abu-Muhammad al-Shimali",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2020-09-17",
+    "names": [
+     {
+      "name": "Abu-Muhammad al-Shimali",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Tarad Aljarba",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Tarad Mohammad Alnori Alfares Aljarba",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1979-11-20",
+      "from": "1979-11-20",
+      "to": "1979-11-20",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "national_id",
+      "number": "1121628414",
+      "country": null
+     },
+     {
+      "type": "passport",
+      "number": "E704088",
+      "country": null
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "IQ"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "SA"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106552",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106552",
+    "list_source": "eu",
+    "entity_type": "organisation",
+    "primary_name": "Jund Al-Khilafah In Algeria",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2015-10-09",
+    "names": [
+     {
+      "name": "Jund Al-Khilafah In Algeria",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Soldiers of the Caliphate in the Land of Algeria",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Soldiers of the Caliphate of Algeria",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Soldiers of the Caliphate in Algeria",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Jund al-Khalifa fi Ard al- Jazayer",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Jund al-Khilafah fi Ard al-Jaza'ir",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Jund al Khalifa",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "JAK-A",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [],
+    "identifiers": [],
+    "countries": []
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106554",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106554",
+    "list_source": "eu",
+    "entity_type": "person",
+    "primary_name": "Aseel Muthana",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2015-10-09",
+    "names": [
+     {
+      "name": "Aseel Muthana",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [
+     {
+      "raw": "1996-11-22",
+      "from": "1996-11-22",
+      "to": "1996-11-22",
+      "precision": "day"
+     }
+    ],
+    "identifiers": [
+     {
+      "type": "passport",
+      "number": "516088643",
+      "country": null
+     }
+    ],
+    "countries": [
+     {
+      "role": "birth",
+      "iso2": "GB"
+     },
+     {
+      "role": "citizenship",
+      "iso2": "GB"
+     }
+    ]
+   }
+  },
+  {
+   "op": "upsert",
+   "entity_key": "eu:106568",
+   "change": "added",
+   "entity": {
+    "entity_key": "eu:106568",
+    "list_source": "eu",
+    "entity_type": "organisation",
+    "primary_name": "Mujahidin of Western Indonesia",
+    "programmes": [
+     "TAQA"
+    ],
+    "listed_on": "2017-04-05",
+    "names": [
+     {
+      "name": "Mujahidin of Western Indonesia",
+      "type": "primary",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "MIB",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Mujahidin Indonesia Barat",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Mujahidin Indonesia Timor",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "East Indonesia Mujahideen",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Mujahidin of Eastern Indonesia",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "MIT",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     },
+     {
+      "name": "Mujahidin Indonesian Timur",
+      "type": "alias",
+      "strength": "strong",
+      "script": "latin"
+     }
+    ],
+    "dobs": [],
+    "identifiers": [],
+    "countries": []
+   }
+  }
+ ]
+}
