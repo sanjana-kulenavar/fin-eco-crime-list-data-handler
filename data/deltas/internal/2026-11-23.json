@@ -1,0 +1,74 @@
+{
+  "source": "internal",
+  "from": null,
+  "to": "2026-11-23",
+  "initial_load": true,
+  "counts": {
+    "added": 10,
+    "removed": 0,
+    "amended": 0
+  },
+  "changes": [
+    {
+      "entity_key": "internal:INT-0001",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Example Trading BV"
+    },
+    {
+      "entity_key": "internal:INT-0002",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Voorbeeld Logistiek NV"
+    },
+    {
+      "entity_key": "internal:INT-0003",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Jan Voorbeeld"
+    },
+    {
+      "entity_key": "internal:INT-0004",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Fictitious Shipping Ltd"
+    },
+    {
+      "entity_key": "internal:INT-0005",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Piet Proefpersoon"
+    },
+    {
+      "entity_key": "internal:INT-0006",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Demo Metals Trading FZE"
+    },
+    {
+      "entity_key": "internal:INT-0007",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Erika Mustermann-Test"
+    },
+    {
+      "entity_key": "internal:INT-0008",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Placeholder Capital Partners LLC"
+    },
+    {
+      "entity_key": "internal:INT-0009",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Testcase Agro Export BV"
+    },
+    {
+      "entity_key": "internal:INT-0010",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "John Q. Sample"
+    }
+  ],
+  "changes_truncated": true
+}

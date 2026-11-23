@@ -1,0 +1,164 @@
+{
+  "source": "nl",
+  "from": null,
+  "to": "2026-11-23",
+  "initial_load": true,
+  "counts": {
+    "added": 109,
+    "removed": 0,
+    "amended": 0
+  },
+  "changes": [
+    {
+      "entity_key": "nl:NK-ZUY6Az9Jx9AhuP7q3ADSu2",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Abdelhakim Boukich"
+    },
+    {
+      "entity_key": "nl:NK-meMPT4YjU9UpTecXL9nQkH",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "The Base"
+    },
+    {
+      "entity_key": "nl:NK-noudsEEuFLTeacGgnBDGnZ",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Stichting Al Aqsa"
+    },
+    {
+      "entity_key": "nl:Q23920818",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Musa Aşoğlu"
+    },
+    {
+      "entity_key": "nl:nl-dnst-044f77473e58706fb9e8c5a00b53d84e128a7473",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Driss Daouayry"
+    },
+    {
+      "entity_key": "nl:nl-dnst-099d87aff65e78d33758a5517e1aff8d9d04371d",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Mohamed Talbi"
+    },
+    {
+      "entity_key": "nl:nl-dnst-0b59a3bbec85ea43bb76fd8fea4fe6b57e92a288",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Soufian el Jelali"
+    },
+    {
+      "entity_key": "nl:nl-dnst-0b799e9a56c870470b64bf4f4c58b9659dccce8f",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Hatim Mohamed Rodgers"
+    },
+    {
+      "entity_key": "nl:nl-dnst-0bc212adbb11686cb6314fd22c0f4b448cdf3dac",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Abdel Hay El Idrissi"
+    },
+    {
+      "entity_key": "nl:nl-dnst-0e9d27e1945130fb8c28b83d786dea6e862c0af9",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Abdelkarim el Atrach"
+    },
+    {
+      "entity_key": "nl:nl-dnst-1035a83268decade619554cf3c9a983a3944567e",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Omar Hmima"
+    },
+    {
+      "entity_key": "nl:nl-dnst-12312b4562c80066a1cf78349d8ca278553e731d",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Jihad Saleh"
+    },
+    {
+      "entity_key": "nl:nl-dnst-13b3b49e876808f8a0de7664c0ec969a26e1b98d",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Ibrahim Ismail"
+    },
+    {
+      "entity_key": "nl:nl-dnst-1627e3c694852b24474fadfb0589d8f8a90f4fd2",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Meryam El Ghouat"
+    },
+    {
+      "entity_key": "nl:nl-dnst-1784a57f9760caca3d9c2c8217113886c59f24d7",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Adil Bouchouh"
+    },
+    {
+      "entity_key": "nl:nl-dnst-19af40c4d6b1b7899bc057b27f8bf91117909a56",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Youssra Chouiakh"
+    },
+    {
+      "entity_key": "nl:nl-dnst-19c56847defc3b609b7f43eb0c69075b09f402a9",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Ahmet Polat"
+    },
+    {
+      "entity_key": "nl:nl-dnst-1a1f2597b8a58c7f6a88541150385bb776315912",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Samy Salman"
+    },
+    {
+      "entity_key": "nl:nl-dnst-24a617ed62701651b56223d677ec5a56d2c5480f",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Khalid Haider Khudarhim"
+    },
+    {
+      "entity_key": "nl:nl-dnst-24d6c73e3045da1e150b8e45d84bfda95a98b214",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Bachir Belgharbi"
+    },
+    {
+      "entity_key": "nl:nl-dnst-26af016c30dd81038cb03208bdadf8b93f377c12",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Hicret Kardas"
+    },
+    {
+      "entity_key": "nl:nl-dnst-2a2dd43acf5384b4cc6b699e6116d7b6bd5770f9",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Ahmed Mufti"
+    },
+    {
+      "entity_key": "nl:nl-dnst-2a46efe06040a3e0a03c2c327a9c8d590f3e49a3",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Abousufian el Fassi"
+    },
+    {
+      "entity_key": "nl:nl-dnst-2deb0a44e4c40a5e8d0e281900224345e3aa5b93",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Ridouan Ennaji"
+    },
+    {
+      "entity_key": "nl:nl-dnst-2fec8d94a364253eb6532de4df8c885aafedad7f",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Abdulrahman Al Shamri"
+    }
+  ],
+  "changes_truncated": true
+}

@@ -1,0 +1,164 @@
+{
+  "source": "eu",
+  "from": null,
+  "to": "2026-11-23",
+  "initial_load": true,
+  "counts": {
+    "added": 6303,
+    "removed": 0,
+    "amended": 0
+  },
+  "changes": [
+    {
+      "entity_key": "eu:13",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Saddam Hussein Al-Tikriti"
+    },
+    {
+      "entity_key": "eu:20",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Qoussaï Saddam Hussein Al-Tikriti"
+    },
+    {
+      "entity_key": "eu:23",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Oudaï Saddam Hussein Al-Tikriti"
+    },
+    {
+      "entity_key": "eu:25",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Abdel Hamid Mahmoud"
+    },
+    {
+      "entity_key": "eu:29",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Al-Kimawi"
+    },
+    {
+      "entity_key": "eu:33",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Abu Ahmad"
+    },
+    {
+      "entity_key": "eu:39",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Hani Abdel-Latif Tilfah Al-Tikriti"
+    },
+    {
+      "entity_key": "eu:46",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Mohammed Hamza Zoubaïdi"
+    },
+    {
+      "entity_key": "eu:53",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Barzan Abd al-Ghafur Sulaiman Majid Al-Tikriti"
+    },
+    {
+      "entity_key": "eu:54",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Muzahim Sa'b Hassan Al-Tikriti"
+    },
+    {
+      "entity_key": "eu:58",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Ibrahim Ahmed Abdel Sattar Mohammed Al-Tikriti"
+    },
+    {
+      "entity_key": "eu:60",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Saif-al-Din Fulayyih Hassan Taha Al-Rawi"
+    },
+    {
+      "entity_key": "eu:63",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Rafi Abd-al-Latif Tilfah Al-Tikriti"
+    },
+    {
+      "entity_key": "eu:65",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Tahir Jalil Habbush Al-Tikriti"
+    },
+    {
+      "entity_key": "eu:67",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Hamid Raja Shalah Al-Tikriti"
+    },
+    {
+      "entity_key": "eu:69",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Abd-al-Tawwab Mullah Huwaysh"
+    },
+    {
+      "entity_key": "eu:71",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Taha Yassine Ramadan Al-Jizraoui"
+    },
+    {
+      "entity_key": "eu:76",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Jamal Mustafa Abdallah Sultan al-Tikriti"
+    },
+    {
+      "entity_key": "eu:79",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Mizban Khadr Hadi"
+    },
+    {
+      "entity_key": "eu:81",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Taha Mouhi-al-Din Marouf"
+    },
+    {
+      "entity_key": "eu:83",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Tariq Mikhail Aziz"
+    },
+    {
+      "entity_key": "eu:87",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Soultan Hachim Ahmed Al-Tai"
+    },
+    {
+      "entity_key": "eu:89",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Hikmat Mizban Ibrahim al-Azzaoui"
+    },
+    {
+      "entity_key": "eu:98",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Sab'awi Ibrahim Hassan Al-Tikriti"
+    },
+    {
+      "entity_key": "eu:99",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Watban Ibrahim Hassan Al-Tikriti"
+    }
+  ],
+  "changes_truncated": true
+}

@@ -1,0 +1,164 @@
+{
+  "source": "uk",
+  "from": null,
+  "to": "2026-11-23",
+  "initial_load": true,
+  "counts": {
+    "added": 6448,
+    "removed": 0,
+    "amended": 0
+  },
+  "changes": [
+    {
+      "entity_key": "uk:AFG0001",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "HAJI KHAIRULLAH HAJI SATTAR MONEY EXCHANGE"
+    },
+    {
+      "entity_key": "uk:AFG0002",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "ROSHAN MONEY EXCHANGE"
+    },
+    {
+      "entity_key": "uk:AFG0003",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "HAQQANI NETWORK (HQN)"
+    },
+    {
+      "entity_key": "uk:AFG0004",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "RAHAT LTD."
+    },
+    {
+      "entity_key": "uk:AFG0005",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "HAJI BASIR AND ZARJMIL COMPANY HAWALA"
+    },
+    {
+      "entity_key": "uk:AFG0006",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "MOHAMMAD HASSAN AKHUND"
+    },
+    {
+      "entity_key": "uk:AFG0007",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Abdul Kabir MOHAMMAD JAN"
+    },
+    {
+      "entity_key": "uk:AFG0008",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Mohammed Omar GHULAM NABI"
+    },
+    {
+      "entity_key": "uk:AFG0009",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Muhammad Taher Anwari"
+    },
+    {
+      "entity_key": "uk:AFG0010",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "SAYYED MOHAMMED HAQQANI"
+    },
+    {
+      "entity_key": "uk:AFG0011",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "ABDUL LATIF MANSUR"
+    },
+    {
+      "entity_key": "uk:AFG0012",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Shams Ur-Rahman ABDUL ZAHIR"
+    },
+    {
+      "entity_key": "uk:AFG0013",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "ATTIQULLAH AKHUND"
+    },
+    {
+      "entity_key": "uk:AFG0014",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "AKHTAR MOHAMMAD MANSOUR SHAH MOHAMMED"
+    },
+    {
+      "entity_key": "uk:AFG0015",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "MOHAMMAD NAIM BARICH KHUDAIDAD"
+    },
+    {
+      "entity_key": "uk:AFG0016",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "HIDAYATULLAH"
+    },
+    {
+      "entity_key": "uk:AFG0017",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "YAR MOHAMMAD RAHIMI"
+    },
+    {
+      "entity_key": "uk:AFG0018",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "ALLAH DAD TAYEB WALI MUHAMMAD"
+    },
+    {
+      "entity_key": "uk:AFG0019",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "NIK MOHAMMAD DOST MOHAMMAD"
+    },
+    {
+      "entity_key": "uk:AFG0020",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "MATIULLAH"
+    },
+    {
+      "entity_key": "uk:AFG0021",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "ALLAH DAD MATIN"
+    },
+    {
+      "entity_key": "uk:AFG0022",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Ubaidullah Akhund YAR MOHAMMAD AKHUND"
+    },
+    {
+      "entity_key": "uk:AFG0023",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "FAZL MOHAMMAD MAZLOOM"
+    },
+    {
+      "entity_key": "uk:AFG0024",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "ABDUL GHANI BARADAR ABDUL AHMAD TURK"
+    },
+    {
+      "entity_key": "uk:AFG0025",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "ABDUL RAUF KHADEM"
+    }
+  ],
+  "changes_truncated": true
+}
