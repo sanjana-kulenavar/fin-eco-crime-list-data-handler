@@ -227,8 +227,8 @@
     "source": "ofac",
     "snapshot_date": "2026-11-23",
     "status": "ok",
-    "records": 19599,
-    "persons": 7565,
+    "records": 19629,
+    "persons": 7573,
     "issues_total": 7384,
     "issues_by_severity": {
       "high": 155,
@@ -327,18 +327,18 @@
     "source": "uk",
     "snapshot_date": "2026-11-23",
     "status": "ok",
-    "records": 6448,
-    "persons": 4070,
-    "issues_total": 5196,
+    "records": 6453,
+    "persons": 4075,
+    "issues_total": 5207,
     "issues_by_severity": {
-      "high": 743,
-      "medium": 1977,
-      "low": 2476
+      "high": 747,
+      "medium": 1981,
+      "low": 2479
     },
     "open_entities_by_severity": {
-      "high": 738,
-      "medium": 583,
-      "low": 1887
+      "high": 742,
+      "medium": 584,
+      "low": 1890
     },
     "issues_by_rule": {
       "DQ001": {
@@ -361,20 +361,20 @@
       },
       "DQ005": {
         "severity": "medium",
-        "issues": 581,
-        "entities": 405,
+        "issues": 584,
+        "entities": 408,
         "fixed": true
       },
       "DQ010": {
         "severity": "high",
-        "issues": 707,
-        "entities": 707,
+        "issues": 711,
+        "entities": 711,
         "fixed": false
       },
       "DQ011": {
         "severity": "medium",
-        "issues": 555,
-        "entities": 555,
+        "issues": 556,
+        "entities": 556,
         "fixed": false
       },
       "DQ012": {
@@ -397,8 +397,8 @@
       },
       "DQ021": {
         "severity": "low",
-        "issues": 1125,
-        "entities": 1125,
+        "issues": 1128,
+        "entities": 1128,
         "fixed": false
       },
       "DQ030": {
@@ -450,8 +450,8 @@
         "fixed": false
       }
     },
-    "pct_persons_full_dob": 69.0,
-    "pct_persons_with_nationality": 72.4,
+    "pct_persons_full_dob": 68.9,
+    "pct_persons_with_nationality": 72.3,
     "pct_entities_with_identifier": 33.6,
     "pct_nonlatin_with_latin": 100.0,
     "duplicate_candidates": 20,

@@ -11,9 +11,9 @@
     "internal"
   ],
   "blocked_sources": {},
-  "record_count": 33476,
-  "sha256": "6388deed23b8c82a2765ba89676f7f8b4faabfd70c47859a0a21f8bf30f425a6",
-  "generated_at": "2026-11-23T09:42:17Z",
+  "record_count": 33511,
+  "sha256": "9132bfae33511dd2011f2e4608d313701b0d69c61c7bb60bb4a967444e572a7d",
+  "generated_at": "2026-11-23T18:35:06Z",
   "dq_gate_passed": true,
   "variant": "clean"
 }

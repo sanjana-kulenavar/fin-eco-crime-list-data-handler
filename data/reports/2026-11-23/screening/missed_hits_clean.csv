@@ -1,12 +1,6 @@
 cust_id,entity_key,source,perturbation,listed_name,customer_name,best_true_score
-C001636,eu:162459,eu,typo,Alexej Bragin,Alxej Braign,
-C009251,un:113439,un,typo,YAZID SUFAAT,YtZID Suaat,
-C009696,uk:RUS1424,uk,drop_middle,Igor Alexandrovich PUTIN,Igor Putin,
-C011293,un:111084,un,typo,SADUDDIN SAYYED,Sauddin SAYYiD,
-C012878,uk:RUS0525,uk,drop_middle,Sergey Vladimirovich CHEPIKOV,Sergey Chepikov,
-C013395,un:111119,un,drop_middle,SAYED ESMATULLAH ASEM ABDUL QUDDUS,Sayed Quddus,
-C016361,nl:nl-dnst-c6e6723b9e29e1b991a9e2e4435f4410260df027,nl,typo,Abdellah Rahmani,Abedllah Rahani,
+C006967,eu:172989,eu,typo,RI Chang Ho,Ri Cng Ho,
 C016707,un:6908400,un,drop_middle,ABDUL MOHSEN ABDALLAH IBRAHIM AL CHAREKH,Abdul Charekh,
-C016752,eu:181131,eu,typo,Li XINYANG,Li XIiYANG,
-C019157,ofac:52474,ofac,drop_middle,Ramon Celestino VELASQUEZ ARAGUAYAN,Ramon Araguayan,
-C019611,eu:150785,eu,drop_middle,Evgeniy Vladimirovich BEKASOV,Evgeniy Bekasov,
+C019429,eu:6503,eu,typo,Nawful AL-HUSAYN,Nwaful AL-HUoAYN,
+C019611,eu:7231,eu,drop_middle,Ahmed Shah Noorzai Obaidullah,Ahmed Obaidullah,84.78
+C019649,nl:nl-dnst-cc85c31fbe1cc0e9fe9bb6aee191dfb7826b8f62,nl,translit_variant,Mohamed Slamy,Muhammad Slamy,
