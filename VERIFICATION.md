@@ -53,7 +53,7 @@ TOTAL                             2270     50    98%
 
 15 files skipped due to complete coverage.
 Required test coverage of 80% reached. Total coverage: 97.80%
-141 passed in 8.47s
+142 passed in 8.47s
 exit=0
 ```
 
@@ -306,13 +306,93 @@ $ grep -rn "NotImplementedError\|stub\|TODO" src/ app/
 matches_exit=1 (1 = none found)
 ```
 
+## 10. Hosted runs
+
+### CI (Task 3)
+- Workflow: **CI**
+- URL: https://github.com/sanjana-kulenavar/fin-eco-crime-list-data-handler/actions/runs/45071510865
+- Date (UTC): **2026-11-22 21:20**
+- Conclusion: **success**
+- Log lines (pasted from `gh run view 45071510865 --log`):
+```
+All checks passed!
+62 files already formatted
+Required test coverage of 80% reached. Total coverage: 97.80%
+142 passed in 18.07s
+offline demo OK -> data/demo/reports/2026-11-22/summary.json
+```
+
+### Daily list update — first run (Task 4)
+- Workflow: **Daily list update**
+- URL: https://github.com/sanjana-kulenavar/fin-eco-crime-list-data-handler/actions/runs/45149348977
+- Date (UTC): **2026-11-23 09:41**
+- Conclusion: **success**
+- Log lines (pasted from `gh run view 45149348977 --log`):
+```
+Cache not found for input keys: slo-db-45149348977, slo-db-
+fetch     eu         26,066,969 bytes  sha256=3eea03e34a44
+normalise eu       status=ok parsed=6303 declared/elements=6303 names=31265
+fetch     un          2,180,873 bytes  sha256=1f72a7b1a827
+normalise un       status=ok parsed=1007 declared/elements=1007 names=4429
+fetch     ofac       29,614,437 bytes  sha256=8a8e2c8b2fd2
+normalise ofac     status=ok parsed=19599 declared/elements=19599 names=44294
+fetch     uk         22,198,502 bytes  sha256=6b558b1981c2
+normalise uk       status=ok parsed=6448 declared/elements=6448 names=19826
+fetch     nl            152,266 bytes  sha256=36c9cf4e4f3a
+normalise nl       status=ok parsed=109 declared/elements=109 names=112
+dq        eu         8,444 issues
+dq        un         1,118 issues
+dq        ofac       7,384 issues
+dq        uk         5,177 issues
+dq        nl           106 issues
+dq        internal       7 issues
+crosslist UN->EU 944/1007, UN->UK 1006/1007
+fix       eu         3,274 fixes
+fix       un           544 fixes
+fix       ofac       4,042 fixes
+fix       uk         1,557 fixes
+fix       nl             0 fixes
+fix       internal       2 fixes
+delta     eu       {'added': 6303, 'removed': 0, 'amended': 0} (initial load)
+delta     un       {'added': 1007, 'removed': 0, 'amended': 0} (initial load)
+delta     ofac     {'added': 19599, 'removed': 0, 'amended': 0} (initial load)
+delta     uk       {'added': 6448, 'removed': 0, 'amended': 0} (initial load)
+delta     nl       {'added': 109, 'removed': 0, 'amended': 0} (initial load)
+delta     internal {'added': 10, 'removed': 0, 'amended': 0} (initial load)
+export    payments_screening    81,353 records  gate_passed=True  blocked=[]
+export    customer_screening    33,476 records  gate_passed=True  blocked=[]
+export    delta_feed            33,476 records  gate_passed=True  blocked=[]
+screen    raw    recall=0.96 fp/1k=46.25 (6.9s)
+screen    clean  recall=0.9633 fp/1k=57.95 (8.3s)
+report    data/reports/2026-11-23  (44.5s total)
+```
+
+### Daily list update — second run (Task 5)
+- Workflow: **Daily list update**
+- URL: https://github.com/sanjana-kulenavar/fin-eco-crime-list-data-handler/actions/runs/45430373909
+- Date (UTC): **2026-11-24 15:51**
+- Conclusion: **success**
+- Log lines (pasted from `gh run view 45430373909 --log`):
+```
+Cache restored successfully
+Cache restored from key: slo-db-45239841660
+delta     eu       {'added': 0, 'removed': 0, 'amended': 0}
+delta     un       {'added': 0, 'removed': 0, 'amended': 0}
+delta     ofac     {'added': 0, 'removed': 0, 'amended': 0}
+delta     uk       {'added': 4, 'removed': 0, 'amended': 1}
+delta     nl       {'added': 0, 'removed': 0, 'amended': 0}
+delta     internal {'added': 0, 'removed': 0, 'amended': 0}
+report    data/reports/2026-11-24  (43.1s total)
+```
+- Verified delta files on `main`: all six sources have `"initial_load": false`, `"from": "2026-11-23"`, `"to": "2026-11-24"`; EU/UN/OFAC/NL/internal counts are zero, UK has 4 added and 1 amended. The amended UK entry is `uk:YEM0010` with `changed_fields: ["names"]`. Dashboard delta dates from committed artefacts: `['2026-11-22', '2026-11-23', '2026-11-24']`.
+
 ## PLAN §17 checklist
 
 | §17 item | Status | Evidence |
 |---|---|---|
 | `uv sync && make lint test demo` passes | ✅ locally (macOS) | §1, §3, §4 |
-| `ci.yml` green on `main` in GitHub Actions | ⏳ not yet | needs a GitHub remote; see *Not done yet* |
-| Coverage ≥ 80% printed in CI | ✅ locally (97.8%) | §3; `make test` uses `--cov-fail-under=80` |
+| `ci.yml` green on `main` in GitHub Actions | ✅ | §10, CI run 2026-11-22 |
+| Coverage ≥ 80% printed in CI | ✅ locally (97.8%) | §3; §10 (CI log); `make test` uses `--cov-fail-under=80` |
 | `slo offline-demo` < 30 s, writes `summary.json` | ✅ 1.5 s | §4 |
 | No raw files / `.duckdb` tracked | ✅ | `.gitignore`; `git ls-files data/raw '*.duckdb'` output at the bottom |
 | `slo all` live for 5 sources, all `status=ok` | ✅ | §5, §6 `runs` table |
@@ -324,7 +404,7 @@ matches_exit=1 (1 = none found)
 | Fixes → `*_clean` + `fix_log`, raw unchanged (hash test) | ✅ | `tests/test_fixes.py::test_fixes_build_clean_tables_and_leave_raw_untouched` |
 | Export gate blocks on DQ060 (test + demo command) | ✅ | `tests/test_export.py::test_exports_and_gate`, `tests/test_dq.py::test_dq060_count_mismatch_and_gate`; §8 (real run, exit 1), `tests/test_cli.py::test_export_gate_blocks_offline_demo` |
 | Cross-list overlaps + UN→EU/UK gaps in `summary.md` | ✅ | README findings; `data/reports/2026-11-22/crosslist.json` |
-| `data/deltas/<source>/<date>.json` + exact-count delta test | ✅ | `data/deltas/*/2026-11-22.json` (initial load); `tests/test_delta.py` |
+| `data/deltas/<source>/<date>.json` + exact-count delta test | ✅ | `data/deltas/*/2026-11-22.json` (initial load); real (non-initial) deltas: §10, daily run 2026-11-24; `tests/test_delta.py` |
 | 3 exports with manifests + 50-row samples | ✅ | `data/exports/samples/` |
 | ≥ 5 requests, all types; maker = checker fails; apply → data + `fix_log` | ✅ 6 requests | `requests/requests.csv`; `tests/test_requests.py`, `tests/test_fixes.py::test_requests_applied_in_clean_tables`, `tests/test_cli.py` |
 | 20k customers + 300 hits, deterministic (hash test) | ✅ | `tests/test_screening.py::test_generate_is_deterministic_and_plants_hits`; sha256 in `metrics.json` |
@@ -335,16 +415,12 @@ matches_exit=1 (1 = none found)
 | README findings auto-filled between markers | ✅ | `slo all` / `slo report --update-readme` rewrite the block |
 | Dashboard: 6 pages from committed artefacts only, works without `data/raw/` | ✅ | `tests/test_dashboard.py` (Streamlit AppTest, no raw/DB) + same check on live artefacts |
 | `docs/what_id_do_at_a_bank.md` | ✅ | written as what I *would* do; no claimed bank experience |
-| `daily.yml` ran via `workflow_dispatch` and committed | ⏳ not yet | needs a GitHub remote; `actionlint` passes (§9) |
+| `daily.yml` ran via `workflow_dispatch` and committed | ✅ | §10, daily run 2026-11-23 |
 | No secrets / real customer data / paid data; OpenSanctions attribution | ✅ | customers synthetic, internal list fictional, attribution in README |
 
 ## Not done yet
 
-- **GitHub Actions runs.** The repository has no remote yet, so neither `ci.yml` nor `daily.yml` has run on GitHub.
-  Both pass `actionlint`, and every command they run passes locally (above). To finish: create the GitHub repository,
-  push `main`, confirm CI is green, then start *Daily list update* from the Actions tab (`workflow_dispatch`).
-- **Daily deltas.** Only the initial load exists (2026-11-22). Real add/remove/amend deltas appear from the second
-  daily run onward. The delta logic is covered by `tests/test_delta.py`.
+Nothing open. All PLAN §17 items are verified (see §10 for hosted runs). Optional dashboard deployment (Task 6) is pending the owner's Streamlit Community Cloud login; it does not affect PLAN §17.
 
 ## Deliberate deviations from PLAN.md
 
@@ -363,7 +439,7 @@ All checks passed!
 uv run ruff format --check .
 62 files already formatted
 Required test coverage of 80% reached. Total coverage: 97.80%
-141 passed in 15.03s
+142 passed in 15.03s
 offline demo OK -> clone/data/demo/reports/2026-11-22/summary.json
 fresh_clone_exit=0
 
