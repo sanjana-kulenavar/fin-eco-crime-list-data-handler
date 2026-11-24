@@ -1,7 +1,7 @@
 {
   "system": "delta_feed",
-  "snapshot_date": "2026-11-23",
-  "file": "2026-11-23.json",
+  "snapshot_date": "2026-11-24",
+  "file": "2026-11-24.json",
   "sources": [
     "eu",
     "un",
@@ -11,9 +11,9 @@
     "internal"
   ],
   "blocked_sources": {},
-  "record_count": 33511,
-  "sha256": "9132bfae33511dd2011f2e4608d313701b0d69c61c7bb60bb4a967444e572a7d",
-  "generated_at": "2026-11-23T18:35:06Z",
+  "record_count": 5,
+  "sha256": "8f33799051ed425785fd91a246e1b35bcfe848d27d8efaf7abe53feb9261cd31",
+  "generated_at": "2026-11-24T15:52:22Z",
   "dq_gate_passed": true,
   "variant": "clean"
 }

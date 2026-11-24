@@ -1,0 +1,542 @@
+{
+  "eu": {
+    "source": "eu",
+    "snapshot_date": "2026-11-24",
+    "status": "ok",
+    "records": 6303,
+    "persons": 4506,
+    "issues_total": 8512,
+    "issues_by_severity": {
+      "high": 913,
+      "medium": 5415,
+      "low": 2184
+    },
+    "open_entities_by_severity": {
+      "high": 909,
+      "medium": 2030,
+      "low": 2035
+    },
+    "issues_by_rule": {
+      "DQ002": {
+        "severity": "medium",
+        "issues": 2149,
+        "entities": 810,
+        "fixed": true
+      },
+      "DQ005": {
+        "severity": "medium",
+        "issues": 699,
+        "entities": 518,
+        "fixed": true
+      },
+      "DQ010": {
+        "severity": "high",
+        "issues": 722,
+        "entities": 722,
+        "fixed": false
+      },
+      "DQ011": {
+        "severity": "medium",
+        "issues": 513,
+        "entities": 513,
+        "fixed": false
+      },
+      "DQ012": {
+        "severity": "low",
+        "issues": 33,
+        "entities": 33,
+        "fixed": true
+      },
+      "DQ014": {
+        "severity": "high",
+        "issues": 3,
+        "entities": 3,
+        "fixed": false
+      },
+      "DQ020": {
+        "severity": "medium",
+        "issues": 1756,
+        "entities": 1653,
+        "fixed": false
+      },
+      "DQ021": {
+        "severity": "low",
+        "issues": 1791,
+        "entities": 1791,
+        "fixed": false
+      },
+      "DQ030": {
+        "severity": "medium",
+        "issues": 294,
+        "entities": 245,
+        "fixed": true
+      },
+      "DQ031": {
+        "severity": "medium",
+        "issues": 3,
+        "entities": 3,
+        "fixed": true
+      },
+      "DQ032": {
+        "severity": "high",
+        "issues": 105,
+        "entities": 103,
+        "fixed": false
+      },
+      "DQ033": {
+        "severity": "low",
+        "issues": 356,
+        "entities": 290,
+        "fixed": false
+      },
+      "DQ040": {
+        "severity": "high",
+        "issues": 20,
+        "entities": 20,
+        "fixed": false
+      },
+      "DQ050": {
+        "severity": "high",
+        "issues": 63,
+        "entities": 63,
+        "fixed": false
+      },
+      "DQ051": {
+        "severity": "medium",
+        "issues": 1,
+        "entities": 1,
+        "fixed": false
+      },
+      "DQ052": {
+        "severity": "low",
+        "issues": 4,
+        "entities": 4,
+        "fixed": false
+      }
+    },
+    "pct_persons_full_dob": 72.6,
+    "pct_persons_with_nationality": 60.3,
+    "pct_entities_with_identifier": 32.4,
+    "pct_nonlatin_with_latin": 100.0,
+    "duplicate_candidates": 20,
+    "dq_score": 72.7,
+    "export_gate_passed": true,
+    "export_gate_reasons": []
+  },
+  "un": {
+    "source": "un",
+    "snapshot_date": "2026-11-24",
+    "status": "ok",
+    "records": 1007,
+    "persons": 733,
+    "issues_total": 1118,
+    "issues_by_severity": {
+      "high": 59,
+      "medium": 489,
+      "low": 570
+    },
+    "open_entities_by_severity": {
+      "high": 56,
+      "medium": 265,
+      "low": 209
+    },
+    "issues_by_rule": {
+      "DQ002": {
+        "severity": "medium",
+        "issues": 2,
+        "entities": 2,
+        "fixed": true
+      },
+      "DQ004": {
+        "severity": "low",
+        "issues": 292,
+        "entities": 292,
+        "fixed": true
+      },
+      "DQ005": {
+        "severity": "medium",
+        "issues": 80,
+        "entities": 68,
+        "fixed": true
+      },
+      "DQ010": {
+        "severity": "high",
+        "issues": 53,
+        "entities": 53,
+        "fixed": false
+      },
+      "DQ011": {
+        "severity": "medium",
+        "issues": 263,
+        "entities": 263,
+        "fixed": false
+      },
+      "DQ012": {
+        "severity": "low",
+        "issues": 21,
+        "entities": 21,
+        "fixed": true
+      },
+      "DQ020": {
+        "severity": "medium",
+        "issues": 2,
+        "entities": 2,
+        "fixed": false
+      },
+      "DQ021": {
+        "severity": "low",
+        "issues": 103,
+        "entities": 103,
+        "fixed": false
+      },
+      "DQ030": {
+        "severity": "medium",
+        "issues": 142,
+        "entities": 109,
+        "fixed": true
+      },
+      "DQ032": {
+        "severity": "high",
+        "issues": 4,
+        "entities": 2,
+        "fixed": false
+      },
+      "DQ033": {
+        "severity": "low",
+        "issues": 154,
+        "entities": 120,
+        "fixed": false
+      },
+      "DQ040": {
+        "severity": "high",
+        "issues": 2,
+        "entities": 2,
+        "fixed": false
+      }
+    },
+    "pct_persons_full_dob": 56.9,
+    "pct_persons_with_nationality": 85.9,
+    "pct_entities_with_identifier": 29.4,
+    "pct_nonlatin_with_latin": 100.0,
+    "duplicate_candidates": 2,
+    "dq_score": 84.5,
+    "export_gate_passed": true,
+    "export_gate_reasons": []
+  },
+  "ofac": {
+    "source": "ofac",
+    "snapshot_date": "2026-11-24",
+    "status": "ok",
+    "records": 19629,
+    "persons": 7573,
+    "issues_total": 7384,
+    "issues_by_severity": {
+      "high": 155,
+      "medium": 4866,
+      "low": 2363
+    },
+    "open_entities_by_severity": {
+      "high": 151,
+      "medium": 957,
+      "low": 2159
+    },
+    "issues_by_rule": {
+      "DQ002": {
+        "severity": "medium",
+        "issues": 10,
+        "entities": 10,
+        "fixed": true
+      },
+      "DQ005": {
+        "severity": "medium",
+        "issues": 651,
+        "entities": 604,
+        "fixed": true
+      },
+      "DQ010": {
+        "severity": "high",
+        "issues": 71,
+        "entities": 71,
+        "fixed": false
+      },
+      "DQ011": {
+        "severity": "medium",
+        "issues": 893,
+        "entities": 893,
+        "fixed": false
+      },
+      "DQ012": {
+        "severity": "low",
+        "issues": 108,
+        "entities": 108,
+        "fixed": true
+      },
+      "DQ020": {
+        "severity": "medium",
+        "issues": 74,
+        "entities": 72,
+        "fixed": false
+      },
+      "DQ021": {
+        "severity": "low",
+        "issues": 1426,
+        "entities": 1426,
+        "fixed": false
+      },
+      "DQ030": {
+        "severity": "medium",
+        "issues": 3237,
+        "entities": 3130,
+        "fixed": true
+      },
+      "DQ031": {
+        "severity": "medium",
+        "issues": 1,
+        "entities": 1,
+        "fixed": true
+      },
+      "DQ032": {
+        "severity": "high",
+        "issues": 52,
+        "entities": 48,
+        "fixed": false
+      },
+      "DQ033": {
+        "severity": "low",
+        "issues": 829,
+        "entities": 793,
+        "fixed": false
+      },
+      "DQ040": {
+        "severity": "high",
+        "issues": 32,
+        "entities": 32,
+        "fixed": false
+      }
+    },
+    "pct_persons_full_dob": 87.3,
+    "pct_persons_with_nationality": 81.2,
+    "pct_entities_with_identifier": 62.5,
+    "pct_nonlatin_with_latin": null,
+    "duplicate_candidates": 32,
+    "dq_score": 96.7,
+    "export_gate_passed": true,
+    "export_gate_reasons": []
+  },
+  "uk": {
+    "source": "uk",
+    "snapshot_date": "2026-11-24",
+    "status": "ok",
+    "records": 6457,
+    "persons": 4079,
+    "issues_total": 5214,
+    "issues_by_severity": {
+      "high": 750,
+      "medium": 1982,
+      "low": 2482
+    },
+    "open_entities_by_severity": {
+      "high": 745,
+      "medium": 585,
+      "low": 1893
+    },
+    "issues_by_rule": {
+      "DQ001": {
+        "severity": "high",
+        "issues": 2,
+        "entities": 2,
+        "fixed": false
+      },
+      "DQ002": {
+        "severity": "medium",
+        "issues": 12,
+        "entities": 10,
+        "fixed": true
+      },
+      "DQ004": {
+        "severity": "low",
+        "issues": 27,
+        "entities": 26,
+        "fixed": true
+      },
+      "DQ005": {
+        "severity": "medium",
+        "issues": 584,
+        "entities": 408,
+        "fixed": true
+      },
+      "DQ010": {
+        "severity": "high",
+        "issues": 714,
+        "entities": 714,
+        "fixed": false
+      },
+      "DQ011": {
+        "severity": "medium",
+        "issues": 557,
+        "entities": 557,
+        "fixed": false
+      },
+      "DQ012": {
+        "severity": "low",
+        "issues": 73,
+        "entities": 73,
+        "fixed": true
+      },
+      "DQ013": {
+        "severity": "high",
+        "issues": 1,
+        "entities": 1,
+        "fixed": false
+      },
+      "DQ020": {
+        "severity": "medium",
+        "issues": 12,
+        "entities": 11,
+        "fixed": false
+      },
+      "DQ021": {
+        "severity": "low",
+        "issues": 1131,
+        "entities": 1131,
+        "fixed": false
+      },
+      "DQ030": {
+        "severity": "medium",
+        "issues": 783,
+        "entities": 634,
+        "fixed": true
+      },
+      "DQ031": {
+        "severity": "medium",
+        "issues": 17,
+        "entities": 17,
+        "fixed": true
+      },
+      "DQ032": {
+        "severity": "high",
+        "issues": 12,
+        "entities": 12,
+        "fixed": false
+      },
+      "DQ033": {
+        "severity": "low",
+        "issues": 1250,
+        "entities": 855,
+        "fixed": false
+      },
+      "DQ040": {
+        "severity": "high",
+        "issues": 20,
+        "entities": 20,
+        "fixed": false
+      },
+      "DQ050": {
+        "severity": "high",
+        "issues": 1,
+        "entities": 1,
+        "fixed": false
+      },
+      "DQ051": {
+        "severity": "medium",
+        "issues": 17,
+        "entities": 17,
+        "fixed": false
+      },
+      "DQ052": {
+        "severity": "low",
+        "issues": 1,
+        "entities": 1,
+        "fixed": false
+      }
+    },
+    "pct_persons_full_dob": 68.8,
+    "pct_persons_with_nationality": 72.3,
+    "pct_entities_with_identifier": 33.5,
+    "pct_nonlatin_with_latin": 100.0,
+    "duplicate_candidates": 20,
+    "dq_score": 82.8,
+    "export_gate_passed": true,
+    "export_gate_reasons": []
+  },
+  "nl": {
+    "source": "nl",
+    "snapshot_date": "2026-11-24",
+    "status": "ok",
+    "records": 109,
+    "persons": 106,
+    "issues_total": 106,
+    "issues_by_severity": {
+      "high": 0,
+      "medium": 0,
+      "low": 106
+    },
+    "open_entities_by_severity": {
+      "high": 0,
+      "medium": 0,
+      "low": 106
+    },
+    "issues_by_rule": {
+      "DQ021": {
+        "severity": "low",
+        "issues": 106,
+        "entities": 106,
+        "fixed": false
+      }
+    },
+    "pct_persons_full_dob": 100.0,
+    "pct_persons_with_nationality": 0.0,
+    "pct_entities_with_identifier": 0.0,
+    "pct_nonlatin_with_latin": null,
+    "duplicate_candidates": 0,
+    "dq_score": 90.3,
+    "export_gate_passed": true,
+    "export_gate_reasons": []
+  },
+  "internal": {
+    "source": "internal",
+    "snapshot_date": "2026-11-24",
+    "status": "ok",
+    "records": 10,
+    "persons": 4,
+    "issues_total": 7,
+    "issues_by_severity": {
+      "high": 0,
+      "medium": 3,
+      "low": 4
+    },
+    "open_entities_by_severity": {
+      "high": 0,
+      "medium": 1,
+      "low": 4
+    },
+    "issues_by_rule": {
+      "DQ005": {
+        "severity": "medium",
+        "issues": 2,
+        "entities": 2,
+        "fixed": true
+      },
+      "DQ011": {
+        "severity": "medium",
+        "issues": 1,
+        "entities": 1,
+        "fixed": false
+      },
+      "DQ021": {
+        "severity": "low",
+        "issues": 4,
+        "entities": 4,
+        "fixed": false
+      }
+    },
+    "pct_persons_full_dob": 75.0,
+    "pct_persons_with_nationality": 0.0,
+    "pct_entities_with_identifier": 0.0,
+    "pct_nonlatin_with_latin": null,
+    "duplicate_candidates": 0,
+    "dq_score": 93.0,
+    "export_gate_passed": true,
+    "export_gate_reasons": []
+  }
+}

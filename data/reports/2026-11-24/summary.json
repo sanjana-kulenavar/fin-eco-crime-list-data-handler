@@ -1,0 +1,1595 @@
+{
+  "snapshot_date": "2026-11-24",
+  "sources": {
+    "eu": {
+      "source": "eu",
+      "snapshot_date": "2026-11-24",
+      "status": "ok",
+      "records": 6303,
+      "persons": 4506,
+      "issues_total": 8512,
+      "issues_by_severity": {
+        "high": 913,
+        "medium": 5415,
+        "low": 2184
+      },
+      "open_entities_by_severity": {
+        "high": 909,
+        "medium": 2030,
+        "low": 2035
+      },
+      "issues_by_rule": {
+        "DQ002": {
+          "severity": "medium",
+          "issues": 2149,
+          "entities": 810,
+          "fixed": true
+        },
+        "DQ005": {
+          "severity": "medium",
+          "issues": 699,
+          "entities": 518,
+          "fixed": true
+        },
+        "DQ010": {
+          "severity": "high",
+          "issues": 722,
+          "entities": 722,
+          "fixed": false
+        },
+        "DQ011": {
+          "severity": "medium",
+          "issues": 513,
+          "entities": 513,
+          "fixed": false
+        },
+        "DQ012": {
+          "severity": "low",
+          "issues": 33,
+          "entities": 33,
+          "fixed": true
+        },
+        "DQ014": {
+          "severity": "high",
+          "issues": 3,
+          "entities": 3,
+          "fixed": false
+        },
+        "DQ020": {
+          "severity": "medium",
+          "issues": 1756,
+          "entities": 1653,
+          "fixed": false
+        },
+        "DQ021": {
+          "severity": "low",
+          "issues": 1791,
+          "entities": 1791,
+          "fixed": false
+        },
+        "DQ030": {
+          "severity": "medium",
+          "issues": 294,
+          "entities": 245,
+          "fixed": true
+        },
+        "DQ031": {
+          "severity": "medium",
+          "issues": 3,
+          "entities": 3,
+          "fixed": true
+        },
+        "DQ032": {
+          "severity": "high",
+          "issues": 105,
+          "entities": 103,
+          "fixed": false
+        },
+        "DQ033": {
+          "severity": "low",
+          "issues": 356,
+          "entities": 290,
+          "fixed": false
+        },
+        "DQ040": {
+          "severity": "high",
+          "issues": 20,
+          "entities": 20,
+          "fixed": false
+        },
+        "DQ050": {
+          "severity": "high",
+          "issues": 63,
+          "entities": 63,
+          "fixed": false
+        },
+        "DQ051": {
+          "severity": "medium",
+          "issues": 1,
+          "entities": 1,
+          "fixed": false
+        },
+        "DQ052": {
+          "severity": "low",
+          "issues": 4,
+          "entities": 4,
+          "fixed": false
+        }
+      },
+      "pct_persons_full_dob": 72.6,
+      "pct_persons_with_nationality": 60.3,
+      "pct_entities_with_identifier": 32.4,
+      "pct_nonlatin_with_latin": 100.0,
+      "duplicate_candidates": 20,
+      "dq_score": 72.7,
+      "export_gate_passed": true,
+      "export_gate_reasons": [],
+      "published_date": "2026-11-20",
+      "ingest": {
+        "source": "eu",
+        "status": "ok",
+        "published": "2026-11-20",
+        "declared": null,
+        "elements": 6303,
+        "parsed": 6303,
+        "failures": 0,
+        "entities": 6303,
+        "names": 31265,
+        "birth_dates": 4228,
+        "identifiers": 3106,
+        "countries": 7227,
+        "addresses": 2688
+      },
+      "top_issues": [
+        {
+          "rule_id": "DQ021",
+          "title": "Person has no nationality or citizenship",
+          "severity": "low",
+          "issues": 1791,
+          "entities": 1791,
+          "fixed": false
+        },
+        {
+          "rule_id": "DQ020",
+          "title": "Country code unknown ('00') or country name not mappable to ISO 3166",
+          "severity": "medium",
+          "issues": 1756,
+          "entities": 1653,
+          "fixed": false
+        },
+        {
+          "rule_id": "DQ002",
+          "title": "Name has leading/trailing/double whitespace",
+          "severity": "medium",
+          "issues": 2149,
+          "entities": 810,
+          "fixed": true
+        },
+        {
+          "rule_id": "DQ010",
+          "title": "Person has no date of birth",
+          "severity": "high",
+          "issues": 722,
+          "entities": 722,
+          "fixed": false
+        },
+        {
+          "rule_id": "DQ005",
+          "title": "Duplicate names within an entity after normalisation",
+          "severity": "medium",
+          "issues": 699,
+          "entities": 518,
+          "fixed": true
+        }
+      ]
+    },
+    "un": {
+      "source": "un",
+      "snapshot_date": "2026-11-24",
+      "status": "ok",
+      "records": 1007,
+      "persons": 733,
+      "issues_total": 1118,
+      "issues_by_severity": {
+        "high": 59,
+        "medium": 489,
+        "low": 570
+      },
+      "open_entities_by_severity": {
+        "high": 56,
+        "medium": 265,
+        "low": 209
+      },
+      "issues_by_rule": {
+        "DQ002": {
+          "severity": "medium",
+          "issues": 2,
+          "entities": 2,
+          "fixed": true
+        },
+        "DQ004": {
+          "severity": "low",
+          "issues": 292,
+          "entities": 292,
+          "fixed": true
+        },
+        "DQ005": {
+          "severity": "medium",
+          "issues": 80,
+          "entities": 68,
+          "fixed": true
+        },
+        "DQ010": {
+          "severity": "high",
+          "issues": 53,
+          "entities": 53,
+          "fixed": false
+        },
+        "DQ011": {
+          "severity": "medium",
+          "issues": 263,
+          "entities": 263,
+          "fixed": false
+        },
+        "DQ012": {
+          "severity": "low",
+          "issues": 21,
+          "entities": 21,
+          "fixed": true
+        },
+        "DQ020": {
+          "severity": "medium",
+          "issues": 2,
+          "entities": 2,
+          "fixed": false
+        },
+        "DQ021": {
+          "severity": "low",
+          "issues": 103,
+          "entities": 103,
+          "fixed": false
+        },
+        "DQ030": {
+          "severity": "medium",
+          "issues": 142,
+          "entities": 109,
+          "fixed": true
+        },
+        "DQ032": {
+          "severity": "high",
+          "issues": 4,
+          "entities": 2,
+          "fixed": false
+        },
+        "DQ033": {
+          "severity": "low",
+          "issues": 154,
+          "entities": 120,
+          "fixed": false
+        },
+        "DQ040": {
+          "severity": "high",
+          "issues": 2,
+          "entities": 2,
+          "fixed": false
+        }
+      },
+      "pct_persons_full_dob": 56.9,
+      "pct_persons_with_nationality": 85.9,
+      "pct_entities_with_identifier": 29.4,
+      "pct_nonlatin_with_latin": 100.0,
+      "duplicate_candidates": 2,
+      "dq_score": 84.5,
+      "export_gate_passed": true,
+      "export_gate_reasons": [],
+      "published_date": "2026-11-24",
+      "ingest": {
+        "source": "un",
+        "status": "ok",
+        "published": "2026-11-24",
+        "declared": null,
+        "elements": 1007,
+        "parsed": 1007,
+        "failures": 0,
+        "entities": 1007,
+        "names": 4429,
+        "birth_dates": 890,
+        "identifiers": 502,
+        "countries": 1299,
+        "addresses": 1279
+      },
+      "top_issues": [
+        {
+          "rule_id": "DQ004",
+          "title": "Empty alias element",
+          "severity": "low",
+          "issues": 292,
+          "entities": 292,
+          "fixed": true
+        },
+        {
+          "rule_id": "DQ011",
+          "title": "Person has no full (day-precision) date of birth",
+          "severity": "medium",
+          "issues": 263,
+          "entities": 263,
+          "fixed": false
+        },
+        {
+          "rule_id": "DQ033",
+          "title": "Passport/national ID without issuing country",
+          "severity": "low",
+          "issues": 154,
+          "entities": 120,
+          "fixed": false
+        },
+        {
+          "rule_id": "DQ030",
+          "title": "Identifier number contains whitespace/punctuation noise",
+          "severity": "medium",
+          "issues": 142,
+          "entities": 109,
+          "fixed": true
+        },
+        {
+          "rule_id": "DQ021",
+          "title": "Person has no nationality or citizenship",
+          "severity": "low",
+          "issues": 103,
+          "entities": 103,
+          "fixed": false
+        }
+      ]
+    },
+    "ofac": {
+      "source": "ofac",
+      "snapshot_date": "2026-11-24",
+      "status": "ok",
+      "records": 19629,
+      "persons": 7573,
+      "issues_total": 7384,
+      "issues_by_severity": {
+        "high": 155,
+        "medium": 4866,
+        "low": 2363
+      },
+      "open_entities_by_severity": {
+        "high": 151,
+        "medium": 957,
+        "low": 2159
+      },
+      "issues_by_rule": {
+        "DQ002": {
+          "severity": "medium",
+          "issues": 10,
+          "entities": 10,
+          "fixed": true
+        },
+        "DQ005": {
+          "severity": "medium",
+          "issues": 651,
+          "entities": 604,
+          "fixed": true
+        },
+        "DQ010": {
+          "severity": "high",
+          "issues": 71,
+          "entities": 71,
+          "fixed": false
+        },
+        "DQ011": {
+          "severity": "medium",
+          "issues": 893,
+          "entities": 893,
+          "fixed": false
+        },
+        "DQ012": {
+          "severity": "low",
+          "issues": 108,
+          "entities": 108,
+          "fixed": true
+        },
+        "DQ020": {
+          "severity": "medium",
+          "issues": 74,
+          "entities": 72,
+          "fixed": false
+        },
+        "DQ021": {
+          "severity": "low",
+          "issues": 1426,
+          "entities": 1426,
+          "fixed": false
+        },
+        "DQ030": {
+          "severity": "medium",
+          "issues": 3237,
+          "entities": 3130,
+          "fixed": true
+        },
+        "DQ031": {
+          "severity": "medium",
+          "issues": 1,
+          "entities": 1,
+          "fixed": true
+        },
+        "DQ032": {
+          "severity": "high",
+          "issues": 52,
+          "entities": 48,
+          "fixed": false
+        },
+        "DQ033": {
+          "severity": "low",
+          "issues": 829,
+          "entities": 793,
+          "fixed": false
+        },
+        "DQ040": {
+          "severity": "high",
+          "issues": 32,
+          "entities": 32,
+          "fixed": false
+        }
+      },
+      "pct_persons_full_dob": 87.3,
+      "pct_persons_with_nationality": 81.2,
+      "pct_entities_with_identifier": 62.5,
+      "pct_nonlatin_with_latin": null,
+      "duplicate_candidates": 32,
+      "dq_score": 96.7,
+      "export_gate_passed": true,
+      "export_gate_reasons": [],
+      "published_date": "2026-11-23",
+      "ingest": {
+        "source": "ofac",
+        "status": "ok",
+        "published": "2026-11-23",
+        "declared": 19629,
+        "elements": 19629,
+        "parsed": 19629,
+        "failures": 0,
+        "entities": 19629,
+        "names": 44330,
+        "birth_dates": 8257,
+        "identifiers": 19086,
+        "countries": 13703,
+        "addresses": 22097
+      },
+      "top_issues": [
+        {
+          "rule_id": "DQ030",
+          "title": "Identifier number contains whitespace/punctuation noise",
+          "severity": "medium",
+          "issues": 3237,
+          "entities": 3130,
+          "fixed": true
+        },
+        {
+          "rule_id": "DQ021",
+          "title": "Person has no nationality or citizenship",
+          "severity": "low",
+          "issues": 1426,
+          "entities": 1426,
+          "fixed": false
+        },
+        {
+          "rule_id": "DQ011",
+          "title": "Person has no full (day-precision) date of birth",
+          "severity": "medium",
+          "issues": 893,
+          "entities": 893,
+          "fixed": false
+        },
+        {
+          "rule_id": "DQ033",
+          "title": "Passport/national ID without issuing country",
+          "severity": "low",
+          "issues": 829,
+          "entities": 793,
+          "fixed": false
+        },
+        {
+          "rule_id": "DQ005",
+          "title": "Duplicate names within an entity after normalisation",
+          "severity": "medium",
+          "issues": 651,
+          "entities": 604,
+          "fixed": true
+        }
+      ]
+    },
+    "uk": {
+      "source": "uk",
+      "snapshot_date": "2026-11-24",
+      "status": "ok",
+      "records": 6457,
+      "persons": 4079,
+      "issues_total": 5214,
+      "issues_by_severity": {
+        "high": 750,
+        "medium": 1982,
+        "low": 2482
+      },
+      "open_entities_by_severity": {
+        "high": 745,
+        "medium": 585,
+        "low": 1893
+      },
+      "issues_by_rule": {
+        "DQ001": {
+          "severity": "high",
+          "issues": 2,
+          "entities": 2,
+          "fixed": false
+        },
+        "DQ002": {
+          "severity": "medium",
+          "issues": 12,
+          "entities": 10,
+          "fixed": true
+        },
+        "DQ004": {
+          "severity": "low",
+          "issues": 27,
+          "entities": 26,
+          "fixed": true
+        },
+        "DQ005": {
+          "severity": "medium",
+          "issues": 584,
+          "entities": 408,
+          "fixed": true
+        },
+        "DQ010": {
+          "severity": "high",
+          "issues": 714,
+          "entities": 714,
+          "fixed": false
+        },
+        "DQ011": {
+          "severity": "medium",
+          "issues": 557,
+          "entities": 557,
+          "fixed": false
+        },
+        "DQ012": {
+          "severity": "low",
+          "issues": 73,
+          "entities": 73,
+          "fixed": true
+        },
+        "DQ013": {
+          "severity": "high",
+          "issues": 1,
+          "entities": 1,
+          "fixed": false
+        },
+        "DQ020": {
+          "severity": "medium",
+          "issues": 12,
+          "entities": 11,
+          "fixed": false
+        },
+        "DQ021": {
+          "severity": "low",
+          "issues": 1131,
+          "entities": 1131,
+          "fixed": false
+        },
+        "DQ030": {
+          "severity": "medium",
+          "issues": 783,
+          "entities": 634,
+          "fixed": true
+        },
+        "DQ031": {
+          "severity": "medium",
+          "issues": 17,
+          "entities": 17,
+          "fixed": true
+        },
+        "DQ032": {
+          "severity": "high",
+          "issues": 12,
+          "entities": 12,
+          "fixed": false
+        },
+        "DQ033": {
+          "severity": "low",
+          "issues": 1250,
+          "entities": 855,
+          "fixed": false
+        },
+        "DQ040": {
+          "severity": "high",
+          "issues": 20,
+          "entities": 20,
+          "fixed": false
+        },
+        "DQ050": {
+          "severity": "high",
+          "issues": 1,
+          "entities": 1,
+          "fixed": false
+        },
+        "DQ051": {
+          "severity": "medium",
+          "issues": 17,
+          "entities": 17,
+          "fixed": false
+        },
+        "DQ052": {
+          "severity": "low",
+          "issues": 1,
+          "entities": 1,
+          "fixed": false
+        }
+      },
+      "pct_persons_full_dob": 68.8,
+      "pct_persons_with_nationality": 72.3,
+      "pct_entities_with_identifier": 33.5,
+      "pct_nonlatin_with_latin": 100.0,
+      "duplicate_candidates": 20,
+      "dq_score": 82.8,
+      "export_gate_passed": true,
+      "export_gate_reasons": [],
+      "published_date": "2026-11-24",
+      "ingest": {
+        "source": "uk",
+        "status": "ok",
+        "published": "2026-11-24",
+        "declared": null,
+        "elements": 6457,
+        "parsed": 6457,
+        "failures": 0,
+        "entities": 6457,
+        "names": 19849,
+        "birth_dates": 3814,
+        "identifiers": 2709,
+        "countries": 6387,
+        "addresses": 3882
+      },
+      "top_issues": [
+        {
+          "rule_id": "DQ021",
+          "title": "Person has no nationality or citizenship",
+          "severity": "low",
+          "issues": 1131,
+          "entities": 1131,
+          "fixed": false
+        },
+        {
+          "rule_id": "DQ033",
+          "title": "Passport/national ID without issuing country",
+          "severity": "low",
+          "issues": 1250,
+          "entities": 855,
+          "fixed": false
+        },
+        {
+          "rule_id": "DQ010",
+          "title": "Person has no date of birth",
+          "severity": "high",
+          "issues": 714,
+          "entities": 714,
+          "fixed": false
+        },
+        {
+          "rule_id": "DQ030",
+          "title": "Identifier number contains whitespace/punctuation noise",
+          "severity": "medium",
+          "issues": 783,
+          "entities": 634,
+          "fixed": true
+        },
+        {
+          "rule_id": "DQ011",
+          "title": "Person has no full (day-precision) date of birth",
+          "severity": "medium",
+          "issues": 557,
+          "entities": 557,
+          "fixed": false
+        }
+      ]
+    },
+    "nl": {
+      "source": "nl",
+      "snapshot_date": "2026-11-24",
+      "status": "ok",
+      "records": 109,
+      "persons": 106,
+      "issues_total": 106,
+      "issues_by_severity": {
+        "high": 0,
+        "medium": 0,
+        "low": 106
+      },
+      "open_entities_by_severity": {
+        "high": 0,
+        "medium": 0,
+        "low": 106
+      },
+      "issues_by_rule": {
+        "DQ021": {
+          "severity": "low",
+          "issues": 106,
+          "entities": 106,
+          "fixed": false
+        }
+      },
+      "pct_persons_full_dob": 100.0,
+      "pct_persons_with_nationality": 0.0,
+      "pct_entities_with_identifier": 0.0,
+      "pct_nonlatin_with_latin": null,
+      "duplicate_candidates": 0,
+      "dq_score": 90.3,
+      "export_gate_passed": true,
+      "export_gate_reasons": [],
+      "published_date": "2026-11-24",
+      "ingest": {
+        "source": "nl",
+        "status": "ok",
+        "published": "2026-11-24",
+        "declared": null,
+        "elements": 109,
+        "parsed": 109,
+        "failures": 0,
+        "entities": 109,
+        "names": 112,
+        "birth_dates": 106,
+        "identifiers": 0,
+        "countries": 0,
+        "addresses": 0
+      },
+      "top_issues": [
+        {
+          "rule_id": "DQ021",
+          "title": "Person has no nationality or citizenship",
+          "severity": "low",
+          "issues": 106,
+          "entities": 106,
+          "fixed": false
+        }
+      ]
+    },
+    "internal": {
+      "source": "internal",
+      "snapshot_date": "2026-11-24",
+      "status": "ok",
+      "records": 10,
+      "persons": 4,
+      "issues_total": 7,
+      "issues_by_severity": {
+        "high": 0,
+        "medium": 3,
+        "low": 4
+      },
+      "open_entities_by_severity": {
+        "high": 0,
+        "medium": 1,
+        "low": 4
+      },
+      "issues_by_rule": {
+        "DQ005": {
+          "severity": "medium",
+          "issues": 2,
+          "entities": 2,
+          "fixed": true
+        },
+        "DQ011": {
+          "severity": "medium",
+          "issues": 1,
+          "entities": 1,
+          "fixed": false
+        },
+        "DQ021": {
+          "severity": "low",
+          "issues": 4,
+          "entities": 4,
+          "fixed": false
+        }
+      },
+      "pct_persons_full_dob": 75.0,
+      "pct_persons_with_nationality": 0.0,
+      "pct_entities_with_identifier": 0.0,
+      "pct_nonlatin_with_latin": null,
+      "duplicate_candidates": 0,
+      "dq_score": 93.0,
+      "export_gate_passed": true,
+      "export_gate_reasons": [],
+      "published_date": null,
+      "ingest": {
+        "source": "internal",
+        "status": "ok",
+        "parsed": 10,
+        "requests_implemented": [],
+        "entities": 10,
+        "names": 17,
+        "birth_dates": 4,
+        "identifiers": 0,
+        "countries": 0,
+        "addresses": 0
+      },
+      "top_issues": [
+        {
+          "rule_id": "DQ021",
+          "title": "Person has no nationality or citizenship",
+          "severity": "low",
+          "issues": 4,
+          "entities": 4,
+          "fixed": false
+        },
+        {
+          "rule_id": "DQ005",
+          "title": "Duplicate names within an entity after normalisation",
+          "severity": "medium",
+          "issues": 2,
+          "entities": 2,
+          "fixed": true
+        },
+        {
+          "rule_id": "DQ011",
+          "title": "Person has no full (day-precision) date of birth",
+          "severity": "medium",
+          "issues": 1,
+          "entities": 1,
+          "fixed": false
+        }
+      ]
+    }
+  },
+  "crosslist": {
+    "stats": {
+      "snapshot_dates": {
+        "un": "2026-11-24",
+        "eu": "2026-11-24",
+        "uk": "2026-11-24",
+        "ofac": "2026-11-24"
+      },
+      "un_entities": 1007,
+      "un_eu": 944,
+      "un_uk": 1006,
+      "un_ofac": 702,
+      "un_eu_uk": 944,
+      "linked_by_un_ref": {
+        "eu": 82,
+        "uk": 992,
+        "ofac": 0
+      },
+      "name_dob_overlap": {
+        "eu_uk": 3448,
+        "eu_ofac": 2449,
+        "uk_ofac": 2445
+      }
+    },
+    "transposition_gaps": {
+      "eu": {
+        "count": 63,
+        "median_days_since_un_listing": 5750,
+        "max_days": 9405,
+        "by_un_reference_prefix": {
+          "IR": 20,
+          "GB": 10,
+          "KP": 7,
+          "QD": 7,
+          "CD": 5,
+          "LY": 5,
+          "SD": 4,
+          "TA": 4,
+          "SO": 1
+        },
+        "examples": [
+          "UN-listed SEBASTIEN UWIMBABAZI not found on EU list; 133 days since UN listing",
+          "UN-listed MUHAMMED LUMISA not found on EU list; 133 days since UN listing",
+          "UN-listed IBRAIMA CAMAR\u00c1 not found on EU list; 5303 days since UN listing",
+          "UN-listed CRANHA DANFA not found on EU list; 5242 days since UN listing",
+          "UN-listed IDRISSA DJAL\u00d3 not found on EU list; 5242 days since UN listing",
+          "UN-listed ANT\u00d3NIO INJAI not found on EU list; 5303 days since UN listing",
+          "UN-listed TCHIPA NA BIDON not found on EU list; 5242 days since UN listing",
+          "UN-listed TCHAM NA MAN not found on EU list; 5242 days since UN listing",
+          "UN-listed EST\u00caV\u00c3O NA MENA not found on EU list; 5303 days since UN listing",
+          "UN-listed DABA NAUALNA not found on EU list; 5303 days since UN listing"
+        ]
+      },
+      "uk": {
+        "count": 1,
+        "median_days_since_un_listing": 133,
+        "max_days": 133,
+        "by_un_reference_prefix": {
+          "CD": 1
+        },
+        "examples": [
+          "UN-listed TWIRWANEHO not found on UK list; 133 days since UN listing"
+        ]
+      }
+    }
+  },
+  "deltas": {
+    "eu": {
+      "added": 0,
+      "removed": 0,
+      "amended": 0,
+      "from": "2026-11-23",
+      "initial_load": false
+    },
+    "un": {
+      "added": 0,
+      "removed": 0,
+      "amended": 0,
+      "from": "2026-11-23",
+      "initial_load": false
+    },
+    "ofac": {
+      "added": 0,
+      "removed": 0,
+      "amended": 0,
+      "from": "2026-11-23",
+      "initial_load": false
+    },
+    "uk": {
+      "added": 4,
+      "removed": 0,
+      "amended": 1,
+      "from": "2026-11-23",
+      "initial_load": false
+    },
+    "nl": {
+      "added": 0,
+      "removed": 0,
+      "amended": 0,
+      "from": "2026-11-23",
+      "initial_load": false
+    },
+    "internal": {
+      "added": 0,
+      "removed": 0,
+      "amended": 0,
+      "from": "2026-11-23",
+      "initial_load": false
+    }
+  },
+  "exports": {
+    "payments_screening": {
+      "record_count": 81406,
+      "sha256": "5a6608c9562ee63d6e9854a5078a3dd8991448fc2f8df5781fd20ca44a1d0a89",
+      "dq_gate_passed": true,
+      "blocked_sources": {},
+      "sources": [
+        "eu",
+        "un",
+        "ofac",
+        "uk",
+        "nl",
+        "internal"
+      ]
+    },
+    "customer_screening": {
+      "record_count": 33515,
+      "sha256": "cd9250ec58b5b8cadb2b721dc0a01c6ca8cb51f3a33305f90562303a35b8daba",
+      "dq_gate_passed": true,
+      "blocked_sources": {},
+      "sources": [
+        "eu",
+        "un",
+        "ofac",
+        "uk",
+        "nl",
+        "internal"
+      ]
+    },
+    "delta_feed": {
+      "record_count": 5,
+      "sha256": "8f33799051ed425785fd91a246e1b35bcfe848d27d8efaf7abe53feb9261cd31",
+      "dq_gate_passed": true,
+      "blocked_sources": {},
+      "sources": [
+        "eu",
+        "un",
+        "ofac",
+        "uk",
+        "nl",
+        "internal"
+      ]
+    }
+  },
+  "screening": {
+    "synthetic_data": {
+      "seed": 42,
+      "n_customers": 20000,
+      "n_hits": 300,
+      "customers_sha256": "5ca0e0aa19f8a0c511380cf08fca13aaa36f089e729a8bdb79c23a2a35696692",
+      "truth_sha256": "ae6216a8dd67b354f0ed7e145df972449f15855a6509bed58a7c0a7f542dbaf3"
+    },
+    "runs": {
+      "raw": {
+        "n_customers": 20000,
+        "n_planted_hits": 300,
+        "default_threshold": 85,
+        "at_default_threshold": {
+          "threshold": 85,
+          "alerts": 5381,
+          "alerted_customers": 1219,
+          "true_hits_found": 289,
+          "recall": 0.9633,
+          "precision": 0.2371,
+          "false_positive_alerts": 3696,
+          "false_positive_customers": 926,
+          "fp_per_1k_customers": 46.3
+        },
+        "operating_point_95_recall": {
+          "threshold": 88,
+          "alerts": 2296,
+          "alerted_customers": 723,
+          "true_hits_found": 285,
+          "recall": 0.95,
+          "precision": 0.3942,
+          "false_positive_alerts": 1123,
+          "false_positive_customers": 433,
+          "fp_per_1k_customers": 21.65
+        },
+        "recall_by_perturbation": {
+          "alias_used": {
+            "planted": 45,
+            "found": 45,
+            "recall": 1.0
+          },
+          "drop_middle": {
+            "planted": 45,
+            "found": 35,
+            "recall": 0.7778
+          },
+          "exact": {
+            "planted": 60,
+            "found": 60,
+            "recall": 1.0
+          },
+          "token_swap": {
+            "planted": 45,
+            "found": 45,
+            "recall": 1.0
+          },
+          "translit_variant": {
+            "planted": 45,
+            "found": 45,
+            "recall": 1.0
+          },
+          "typo": {
+            "planted": 60,
+            "found": 59,
+            "recall": 0.9833
+          }
+        },
+        "sweep": [
+          {
+            "threshold": 75,
+            "alerts": 20739,
+            "alerted_customers": 3396,
+            "true_hits_found": 292,
+            "recall": 0.9733,
+            "precision": 0.086,
+            "false_positive_alerts": 16357,
+            "false_positive_customers": 3098,
+            "fp_per_1k_customers": 154.9
+          },
+          {
+            "threshold": 76,
+            "alerts": 18909,
+            "alerted_customers": 3237,
+            "true_hits_found": 291,
+            "recall": 0.97,
+            "precision": 0.0899,
+            "false_positive_alerts": 14948,
+            "false_positive_customers": 2940,
+            "fp_per_1k_customers": 147.0
+          },
+          {
+            "threshold": 77,
+            "alerts": 17757,
+            "alerted_customers": 3114,
+            "true_hits_found": 290,
+            "recall": 0.9667,
+            "precision": 0.0931,
+            "false_positive_alerts": 14048,
+            "false_positive_customers": 2818,
+            "fp_per_1k_customers": 140.9
+          },
+          {
+            "threshold": 78,
+            "alerts": 15941,
+            "alerted_customers": 2845,
+            "true_hits_found": 290,
+            "recall": 0.9667,
+            "precision": 0.1019,
+            "false_positive_alerts": 12548,
+            "false_positive_customers": 2549,
+            "fp_per_1k_customers": 127.45
+          },
+          {
+            "threshold": 79,
+            "alerts": 14423,
+            "alerted_customers": 2636,
+            "true_hits_found": 290,
+            "recall": 0.9667,
+            "precision": 0.11,
+            "false_positive_alerts": 11298,
+            "false_positive_customers": 2340,
+            "fp_per_1k_customers": 117.0
+          },
+          {
+            "threshold": 80,
+            "alerts": 12870,
+            "alerted_customers": 2362,
+            "true_hits_found": 290,
+            "recall": 0.9667,
+            "precision": 0.1228,
+            "false_positive_alerts": 9955,
+            "false_positive_customers": 2066,
+            "fp_per_1k_customers": 103.3
+          },
+          {
+            "threshold": 81,
+            "alerts": 11440,
+            "alerted_customers": 2131,
+            "true_hits_found": 290,
+            "recall": 0.9667,
+            "precision": 0.1361,
+            "false_positive_alerts": 8767,
+            "false_positive_customers": 1835,
+            "fp_per_1k_customers": 91.75
+          },
+          {
+            "threshold": 82,
+            "alerts": 10371,
+            "alerted_customers": 1972,
+            "true_hits_found": 290,
+            "recall": 0.9667,
+            "precision": 0.1471,
+            "false_positive_alerts": 7869,
+            "false_positive_customers": 1676,
+            "fp_per_1k_customers": 83.8
+          },
+          {
+            "threshold": 83,
+            "alerts": 8369,
+            "alerted_customers": 1702,
+            "true_hits_found": 290,
+            "recall": 0.9667,
+            "precision": 0.1704,
+            "false_positive_alerts": 6165,
+            "false_positive_customers": 1406,
+            "fp_per_1k_customers": 70.3
+          },
+          {
+            "threshold": 84,
+            "alerts": 6710,
+            "alerted_customers": 1448,
+            "true_hits_found": 290,
+            "recall": 0.9667,
+            "precision": 0.2003,
+            "false_positive_alerts": 4793,
+            "false_positive_customers": 1153,
+            "fp_per_1k_customers": 57.65
+          },
+          {
+            "threshold": 85,
+            "alerts": 5381,
+            "alerted_customers": 1219,
+            "true_hits_found": 289,
+            "recall": 0.9633,
+            "precision": 0.2371,
+            "false_positive_alerts": 3696,
+            "false_positive_customers": 926,
+            "fp_per_1k_customers": 46.3
+          },
+          {
+            "threshold": 86,
+            "alerts": 4041,
+            "alerted_customers": 1010,
+            "true_hits_found": 288,
+            "recall": 0.96,
+            "precision": 0.2851,
+            "false_positive_alerts": 2565,
+            "false_positive_customers": 717,
+            "fp_per_1k_customers": 35.85
+          },
+          {
+            "threshold": 87,
+            "alerts": 3049,
+            "alerted_customers": 853,
+            "true_hits_found": 286,
+            "recall": 0.9533,
+            "precision": 0.3353,
+            "false_positive_alerts": 1735,
+            "false_positive_customers": 561,
+            "fp_per_1k_customers": 28.05
+          },
+          {
+            "threshold": 88,
+            "alerts": 2296,
+            "alerted_customers": 723,
+            "true_hits_found": 285,
+            "recall": 0.95,
+            "precision": 0.3942,
+            "false_positive_alerts": 1123,
+            "false_positive_customers": 433,
+            "fp_per_1k_customers": 21.65
+          },
+          {
+            "threshold": 89,
+            "alerts": 1658,
+            "alerted_customers": 602,
+            "true_hits_found": 283,
+            "recall": 0.9433,
+            "precision": 0.4701,
+            "false_positive_alerts": 722,
+            "false_positive_customers": 314,
+            "fp_per_1k_customers": 15.7
+          },
+          {
+            "threshold": 90,
+            "alerts": 1166,
+            "alerted_customers": 494,
+            "true_hits_found": 283,
+            "recall": 0.9433,
+            "precision": 0.5729,
+            "false_positive_alerts": 388,
+            "false_positive_customers": 208,
+            "fp_per_1k_customers": 10.4
+          },
+          {
+            "threshold": 91,
+            "alerts": 913,
+            "alerted_customers": 403,
+            "true_hits_found": 282,
+            "recall": 0.94,
+            "precision": 0.6998,
+            "false_positive_alerts": 197,
+            "false_positive_customers": 120,
+            "fp_per_1k_customers": 6.0
+          },
+          {
+            "threshold": 92,
+            "alerts": 768,
+            "alerted_customers": 357,
+            "true_hits_found": 281,
+            "recall": 0.9367,
+            "precision": 0.7871,
+            "false_positive_alerts": 116,
+            "false_positive_customers": 75,
+            "fp_per_1k_customers": 3.75
+          },
+          {
+            "threshold": 93,
+            "alerts": 683,
+            "alerted_customers": 322,
+            "true_hits_found": 278,
+            "recall": 0.9267,
+            "precision": 0.8634,
+            "false_positive_alerts": 72,
+            "false_positive_customers": 44,
+            "fp_per_1k_customers": 2.2
+          },
+          {
+            "threshold": 94,
+            "alerts": 612,
+            "alerted_customers": 295,
+            "true_hits_found": 272,
+            "recall": 0.9067,
+            "precision": 0.922,
+            "false_positive_alerts": 23,
+            "false_positive_customers": 23,
+            "fp_per_1k_customers": 1.15
+          },
+          {
+            "threshold": 95,
+            "alerts": 572,
+            "alerted_customers": 280,
+            "true_hits_found": 269,
+            "recall": 0.8967,
+            "precision": 0.9607,
+            "false_positive_alerts": 11,
+            "false_positive_customers": 11,
+            "fp_per_1k_customers": 0.55
+          }
+        ],
+        "runtime_seconds": 6.2,
+        "list_names_indexed": 96140
+      },
+      "clean": {
+        "n_customers": 20000,
+        "n_planted_hits": 300,
+        "default_threshold": 85,
+        "at_default_threshold": {
+          "threshold": 85,
+          "alerts": 7149,
+          "alerted_customers": 1455,
+          "true_hits_found": 290,
+          "recall": 0.9667,
+          "precision": 0.1993,
+          "false_positive_alerts": 5294,
+          "false_positive_customers": 1160,
+          "fp_per_1k_customers": 58.0
+        },
+        "operating_point_95_recall": {
+          "threshold": 90,
+          "alerts": 1428,
+          "alerted_customers": 560,
+          "true_hits_found": 285,
+          "recall": 0.95,
+          "precision": 0.5089,
+          "false_positive_alerts": 624,
+          "false_positive_customers": 273,
+          "fp_per_1k_customers": 13.65
+        },
+        "recall_by_perturbation": {
+          "alias_used": {
+            "planted": 45,
+            "found": 45,
+            "recall": 1.0
+          },
+          "drop_middle": {
+            "planted": 45,
+            "found": 37,
+            "recall": 0.8222
+          },
+          "exact": {
+            "planted": 60,
+            "found": 60,
+            "recall": 1.0
+          },
+          "token_swap": {
+            "planted": 45,
+            "found": 45,
+            "recall": 1.0
+          },
+          "translit_variant": {
+            "planted": 45,
+            "found": 45,
+            "recall": 1.0
+          },
+          "typo": {
+            "planted": 60,
+            "found": 58,
+            "recall": 0.9667
+          }
+        },
+        "sweep": [
+          {
+            "threshold": 75,
+            "alerts": 29377,
+            "alerted_customers": 3960,
+            "true_hits_found": 291,
+            "recall": 0.97,
+            "precision": 0.0735,
+            "false_positive_alerts": 24621,
+            "false_positive_customers": 3663,
+            "fp_per_1k_customers": 183.15
+          },
+          {
+            "threshold": 76,
+            "alerts": 26896,
+            "alerted_customers": 3762,
+            "true_hits_found": 291,
+            "recall": 0.97,
+            "precision": 0.0774,
+            "false_positive_alerts": 22536,
+            "false_positive_customers": 3465,
+            "fp_per_1k_customers": 173.25
+          },
+          {
+            "threshold": 77,
+            "alerts": 25470,
+            "alerted_customers": 3636,
+            "true_hits_found": 291,
+            "recall": 0.97,
+            "precision": 0.08,
+            "false_positive_alerts": 21386,
+            "false_positive_customers": 3339,
+            "fp_per_1k_customers": 166.95
+          },
+          {
+            "threshold": 78,
+            "alerts": 23294,
+            "alerted_customers": 3362,
+            "true_hits_found": 291,
+            "recall": 0.97,
+            "precision": 0.0866,
+            "false_positive_alerts": 19527,
+            "false_positive_customers": 3065,
+            "fp_per_1k_customers": 153.25
+          },
+          {
+            "threshold": 79,
+            "alerts": 21542,
+            "alerted_customers": 3142,
+            "true_hits_found": 291,
+            "recall": 0.97,
+            "precision": 0.0926,
+            "false_positive_alerts": 18055,
+            "false_positive_customers": 2845,
+            "fp_per_1k_customers": 142.25
+          },
+          {
+            "threshold": 80,
+            "alerts": 19789,
+            "alerted_customers": 2832,
+            "true_hits_found": 291,
+            "recall": 0.97,
+            "precision": 0.1028,
+            "false_positive_alerts": 16525,
+            "false_positive_customers": 2535,
+            "fp_per_1k_customers": 126.75
+          },
+          {
+            "threshold": 81,
+            "alerts": 18032,
+            "alerted_customers": 2555,
+            "true_hits_found": 291,
+            "recall": 0.97,
+            "precision": 0.1139,
+            "false_positive_alerts": 15025,
+            "false_positive_customers": 2258,
+            "fp_per_1k_customers": 112.9
+          },
+          {
+            "threshold": 82,
+            "alerts": 16702,
+            "alerted_customers": 2357,
+            "true_hits_found": 291,
+            "recall": 0.97,
+            "precision": 0.1235,
+            "false_positive_alerts": 13894,
+            "false_positive_customers": 2060,
+            "fp_per_1k_customers": 103.0
+          },
+          {
+            "threshold": 83,
+            "alerts": 12532,
+            "alerted_customers": 2029,
+            "true_hits_found": 291,
+            "recall": 0.97,
+            "precision": 0.1434,
+            "false_positive_alerts": 10090,
+            "false_positive_customers": 1732,
+            "fp_per_1k_customers": 86.6
+          },
+          {
+            "threshold": 84,
+            "alerts": 9405,
+            "alerted_customers": 1729,
+            "true_hits_found": 291,
+            "recall": 0.97,
+            "precision": 0.1683,
+            "false_positive_alerts": 7294,
+            "false_positive_customers": 1432,
+            "fp_per_1k_customers": 71.6
+          },
+          {
+            "threshold": 85,
+            "alerts": 7149,
+            "alerted_customers": 1455,
+            "true_hits_found": 290,
+            "recall": 0.9667,
+            "precision": 0.1993,
+            "false_positive_alerts": 5294,
+            "false_positive_customers": 1160,
+            "fp_per_1k_customers": 58.0
+          },
+          {
+            "threshold": 86,
+            "alerts": 5347,
+            "alerted_customers": 1195,
+            "true_hits_found": 290,
+            "recall": 0.9667,
+            "precision": 0.2427,
+            "false_positive_alerts": 3738,
+            "false_positive_customers": 900,
+            "fp_per_1k_customers": 45.0
+          },
+          {
+            "threshold": 87,
+            "alerts": 3853,
+            "alerted_customers": 998,
+            "true_hits_found": 288,
+            "recall": 0.96,
+            "precision": 0.2886,
+            "false_positive_alerts": 2494,
+            "false_positive_customers": 704,
+            "fp_per_1k_customers": 35.2
+          },
+          {
+            "threshold": 88,
+            "alerts": 2819,
+            "alerted_customers": 839,
+            "true_hits_found": 288,
+            "recall": 0.96,
+            "precision": 0.3433,
+            "false_positive_alerts": 1717,
+            "false_positive_customers": 546,
+            "fp_per_1k_customers": 27.3
+          },
+          {
+            "threshold": 89,
+            "alerts": 2063,
+            "alerted_customers": 695,
+            "true_hits_found": 286,
+            "recall": 0.9533,
+            "precision": 0.4115,
+            "false_positive_alerts": 1148,
+            "false_positive_customers": 405,
+            "fp_per_1k_customers": 20.25
+          },
+          {
+            "threshold": 90,
+            "alerts": 1428,
+            "alerted_customers": 560,
+            "true_hits_found": 285,
+            "recall": 0.95,
+            "precision": 0.5089,
+            "false_positive_alerts": 624,
+            "false_positive_customers": 273,
+            "fp_per_1k_customers": 13.65
+          },
+          {
+            "threshold": 91,
+            "alerts": 1059,
+            "alerted_customers": 461,
+            "true_hits_found": 284,
+            "recall": 0.9467,
+            "precision": 0.6161,
+            "false_positive_alerts": 320,
+            "false_positive_customers": 176,
+            "fp_per_1k_customers": 8.8
+          },
+          {
+            "threshold": 92,
+            "alerts": 845,
+            "alerted_customers": 391,
+            "true_hits_found": 281,
+            "recall": 0.9367,
+            "precision": 0.7187,
+            "false_positive_alerts": 174,
+            "false_positive_customers": 109,
+            "fp_per_1k_customers": 5.45
+          },
+          {
+            "threshold": 93,
+            "alerts": 733,
+            "alerted_customers": 339,
+            "true_hits_found": 278,
+            "recall": 0.9267,
+            "precision": 0.8201,
+            "false_positive_alerts": 106,
+            "false_positive_customers": 61,
+            "fp_per_1k_customers": 3.05
+          },
+          {
+            "threshold": 94,
+            "alerts": 663,
+            "alerted_customers": 311,
+            "true_hits_found": 274,
+            "recall": 0.9133,
+            "precision": 0.881,
+            "false_positive_alerts": 61,
+            "false_positive_customers": 37,
+            "fp_per_1k_customers": 1.85
+          },
+          {
+            "threshold": 95,
+            "alerts": 607,
+            "alerted_customers": 290,
+            "true_hits_found": 272,
+            "recall": 0.9067,
+            "precision": 0.9379,
+            "false_positive_alerts": 28,
+            "false_positive_customers": 18,
+            "fp_per_1k_customers": 0.9
+          }
+        ],
+        "runtime_seconds": 7.4,
+        "list_names_indexed": 100898
+      }
+    }
+  }
+}

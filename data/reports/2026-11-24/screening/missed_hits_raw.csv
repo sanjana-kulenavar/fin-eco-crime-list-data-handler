@@ -1,0 +1,12 @@
+cust_id,entity_key,source,perturbation,listed_name,customer_name,best_true_score
+C003270,ofac:8195,ofac,drop_middle,Thoraya Barzan Ibrahim Hasan AL-TIKRITI,Thoraya Al-tikriti,76.84
+C003753,ofac:7191,ofac,drop_middle,Juan Jesus NARVAEZ GONI,Juan Goni,
+C006714,un:6908102,un,drop_middle,SA'D ABD-AL-MAJID AL-FAISAL AL-TIKRITI,Sa'd Al-tikriti,75.75
+C009677,un:110384,un,typo,FATER INSTITUTE,Fatr Istitute,
+C013023,un:2974555,un,drop_middle,ABD AL-RAHMAN OULD MUHAMMAD AL-HUSAYN OULD MUHAMMAD SALIM,Abd Salim,
+C013589,eu:115225,eu,drop_middle,Antonio José BENAVIDES TORRES,Antonio Torres,
+C014031,uk:RUS3063,uk,drop_middle,Maxim Viktorovich AGEEV,Maxim Ageev,
+C015059,eu:135253,eu,drop_middle,Igor Vladimirovich OSIPOV,Igor Osipov,
+C016187,eu:643,eu,drop_middle,Abdul Manan Mohammad Ishak,Abdul Ishak,
+C016707,un:6908400,un,drop_middle,ABDUL MOHSEN ABDALLAH IBRAHIM AL CHAREKH,Abdul Charekh,
+C019611,eu:7231,eu,drop_middle,Ahmed Shah Noorzai Obaidullah,Ahmed Obaidullah,84.78
