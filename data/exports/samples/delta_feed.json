@@ -1,218 +1,24 @@
 {
- "snapshot_date": "2026-11-24",
+ "snapshot_date": "2026-11-25",
  "operations": [
   {
    "op": "upsert",
-   "entity_key": "uk:GHR0214",
+   "entity_key": "un:6909750",
    "change": "added",
    "entity": {
-    "entity_key": "uk:GHR0214",
-    "list_source": "uk",
-    "entity_type": "person",
-    "primary_name": "Sarim Al Din Mufadal",
-    "programmes": [
-     "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026"
-    ],
-    "listed_on": "2026-11-24",
-    "names": [
-     {
-      "name": "Sarim Al Din Mufadal",
-      "type": "primary",
-      "strength": "strong",
-      "script": "latin"
-     },
-     {
-      "name": "Sarim Al-Din MUFADDAL",
-      "type": "alias",
-      "strength": null,
-      "script": "latin"
-     },
-     {
-      "name": "صارم الدين مفضل",
-      "type": "non_latin",
-      "strength": "strong",
-      "script": "arabic"
-     }
-    ],
-    "dobs": [],
-    "identifiers": [],
-    "countries": []
-   }
-  },
-  {
-   "op": "upsert",
-   "entity_key": "uk:GHR0215",
-   "change": "added",
-   "entity": {
-    "entity_key": "uk:GHR0215",
-    "list_source": "uk",
-    "entity_type": "person",
-    "primary_name": "Mohamed MOUFLEH",
-    "programmes": [
-     "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026"
-    ],
-    "listed_on": "2026-11-24",
-    "names": [
-     {
-      "name": "Mohamed MOUFLEH",
-      "type": "primary",
-      "strength": "strong",
-      "script": "latin"
-     },
-     {
-      "name": "Mohamad MOFLEH",
-      "type": "alias",
-      "strength": null,
-      "script": "latin"
-     },
-     {
-      "name": "Mohammad MOFLIH",
-      "type": "alias",
-      "strength": null,
-      "script": "latin"
-     },
-     {
-      "name": "Muhammad MOUFLEH",
-      "type": "alias",
-      "strength": null,
-      "script": "latin"
-     },
-     {
-      "name": "Mohammed MOUFLIH",
-      "type": "alias",
-      "strength": null,
-      "script": "latin"
-     },
-     {
-      "name": "Muhammed MUFLEH",
-      "type": "alias",
-      "strength": null,
-      "script": "latin"
-     },
-     {
-      "name": "محمد مفلح",
-      "type": "non_latin",
-      "strength": "strong",
-      "script": "arabic"
-     }
-    ],
-    "dobs": [],
-    "identifiers": [],
-    "countries": []
-   }
-  },
-  {
-   "op": "upsert",
-   "entity_key": "uk:GHR0216",
-   "change": "added",
-   "entity": {
-    "entity_key": "uk:GHR0216",
-    "list_source": "uk",
-    "entity_type": "person",
-    "primary_name": "Abdul Hakim AL KHAIWANI",
-    "programmes": [
-     "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026"
-    ],
-    "listed_on": "2026-11-24",
-    "names": [
-     {
-      "name": "Abdul Hakim AL KHAIWANI",
-      "type": "primary",
-      "strength": "strong",
-      "script": "latin"
-     },
-     {
-      "name": "Abdulhakim AL KHIYAWANI",
-      "type": "alias",
-      "strength": null,
-      "script": "latin"
-     }
-    ],
-    "dobs": [
-     {
-      "raw": "dd/mm/1986",
-      "from": "1986-01-01",
-      "to": "1986-12-31",
-      "precision": "year"
-     }
-    ],
-    "identifiers": [],
-    "countries": [
-     {
-      "role": "nationality",
-      "iso2": "YE"
-     }
-    ]
-   }
-  },
-  {
-   "op": "upsert",
-   "entity_key": "uk:GHR0217",
-   "change": "added",
-   "entity": {
-    "entity_key": "uk:GHR0217",
-    "list_source": "uk",
-    "entity_type": "person",
-    "primary_name": "Abdulkarim Amiruddin Hussein AL-HOUTHI",
-    "programmes": [
-     "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026"
-    ],
-    "listed_on": "2026-11-24",
-    "names": [
-     {
-      "name": "Abdulkarim Amiruddin Hussein AL-HOUTHI",
-      "type": "primary",
-      "strength": "strong",
-      "script": "latin"
-     }
-    ],
-    "dobs": [],
-    "identifiers": [],
-    "countries": []
-   }
-  },
-  {
-   "op": "upsert",
-   "entity_key": "uk:YEM0010",
-   "change": "amended",
-   "entity": {
-    "entity_key": "uk:YEM0010",
-    "list_source": "uk",
+    "entity_key": "un:6909750",
+    "list_source": "un",
     "entity_type": "organisation",
-    "primary_name": "The Houthis",
+    "primary_name": "Aegean",
     "programmes": [
-     "The Yemen (Sanctions) (EU Exit) Regulations 2020"
+     "Libya"
     ],
-    "listed_on": "2022-03-01",
+    "listed_on": "2026-11-24",
     "names": [
      {
-      "name": "The Houthis",
+      "name": "Aegean",
       "type": "primary",
       "strength": "strong",
-      "script": "latin"
-     },
-     {
-      "name": "Ansar Allah",
-      "type": "alias",
-      "strength": null,
-      "script": "latin"
-     },
-     {
-      "name": "ANSARALLAH",
-      "type": "alias",
-      "strength": null,
-      "script": "latin"
-     },
-     {
-      "name": "PARTISANS OF GOD",
-      "type": "alias",
-      "strength": null,
-      "script": "latin"
-     },
-     {
-      "name": "SUPPORTERS OF GOD",
-      "type": "alias",
-      "strength": null,
       "script": "latin"
      }
     ],

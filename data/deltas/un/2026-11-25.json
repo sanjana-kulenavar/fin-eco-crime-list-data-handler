@@ -1,0 +1,19 @@
+{
+  "source": "un",
+  "from": "2026-11-24",
+  "to": "2026-11-25",
+  "initial_load": false,
+  "counts": {
+    "added": 1,
+    "removed": 0,
+    "amended": 0
+  },
+  "changes": [
+    {
+      "entity_key": "un:6909750",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "Aegean"
+    }
+  ]
+}
