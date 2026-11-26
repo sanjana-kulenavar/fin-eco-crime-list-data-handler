@@ -1,49 +1,49 @@
 uid;name;name_type;entity_type;dob_from;dob_to;nationality_iso2;programme;list_source
-eu:1003#0;Nurjaman Riduan Isamuddin;primary;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#1;Hambali;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#2;Nurjaman;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#3;Nurjaman Riduan Isomuddin;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#4;Encep Nurjaman (birth name);alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#5;Hambali Bin Ending;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#6;Hambali Ending Hambali;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#7;Isomuddin, Nurjaman Riduan;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#8;Isamudin Ridwan;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#9;Isamuddin Riduan;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1004#0;Mohamad Iqbal Rahman;primary;person;1957-08-17;1958-08-17;ID;TAQA;eu
-eu:1004#1;Mohamad Iqbal Abdul Rahman;alias;person;1957-08-17;1958-08-17;ID;TAQA;eu
-eu:1004#2;Mohamad Iqbal A Rahman;alias;person;1957-08-17;1958-08-17;ID;TAQA;eu
+eu:1003#0;Hambali Bin Ending;primary;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#1;Isomuddin, Nurjaman Riduan;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#2;Isamudin Ridwan;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#3;Isamuddin Riduan;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#4;Nurjaman Riduan Isamuddin;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#5;Hambali;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#6;Nurjaman;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#7;Nurjaman Riduan Isomuddin;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#8;Encep Nurjaman (birth name);alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#9;Hambali Ending Hambali;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1004#0;Abu Jibril Abdurrahman;primary;person;1957-08-17;1958-08-17;ID;TAQA;eu
+eu:1004#1;Fikiruddin Muqti;alias;person;1957-08-17;1958-08-17;ID;TAQA;eu
+eu:1004#2;Fihiruddin Muqti;alias;person;1957-08-17;1958-08-17;ID;TAQA;eu
 eu:1004#3;Mohamad Iqbal Abdurrahman;alias;person;1957-08-17;1958-08-17;ID;TAQA;eu
-eu:1004#4;Fihiruddin Muqti;alias;person;1957-08-17;1958-08-17;ID;TAQA;eu
-eu:1004#5;Fikiruddin Muqti;alias;person;1957-08-17;1958-08-17;ID;TAQA;eu
-eu:1004#6;Abu Jibril Abdurrahman;alias;person;1957-08-17;1958-08-17;ID;TAQA;eu
+eu:1004#4;Mohamad Iqbal Rahman;alias;person;1957-08-17;1958-08-17;ID;TAQA;eu
+eu:1004#5;Mohamad Iqbal A Rahman;alias;person;1957-08-17;1958-08-17;ID;TAQA;eu
+eu:1004#6;Mohamad Iqbal Abdul Rahman;alias;person;1957-08-17;1958-08-17;ID;TAQA;eu
 eu:1006#0;Lashkar i Jhangvi;primary;organisation;;;;TAQA;eu
-eu:1008#0;Apoiantes Curdos do Islão;primary;organisation;;;;TAQA;eu
-eu:1008#1;Devotos del Islam;alias;organisation;;;;TAQA;eu
-eu:1008#2;Ejército Ansar al-Sunna;alias;organisation;;;;TAQA;eu
-eu:1008#3;Soldados de Deus;alias;organisation;;;;TAQA;eu
-eu:1008#4;Apoiantes do Islão no Curdistão;alias;organisation;;;;TAQA;eu
-eu:1008#5;Ansar al-Islam;alias;organisation;;;;TAQA;eu
-eu:1008#6;Jund al-Islam;alias;organisation;;;;TAQA;eu
-eu:1008#7;Soldiers of Islam;alias;organisation;;;;TAQA;eu
-eu:1008#8;Kurdistan Supporters of Islam;alias;organisation;;;;TAQA;eu
-eu:1008#9;Supporters of Islam in Kurdistan;alias;organisation;;;;TAQA;eu
-eu:1008#10;Followers of Islam in Kurdistan;alias;organisation;;;;TAQA;eu
-eu:1008#11;Soldados del Islam;alias;organisation;;;;TAQA;eu
-eu:1008#12;Seguidores do Islão no Curdistão;alias;organisation;;;;TAQA;eu
-eu:1008#13;Simpatizantes kurdos del Islam;alias;organisation;;;;TAQA;eu
-eu:1008#14;Simpatizantes del Islam en Kurdistán;alias;organisation;;;;TAQA;eu
-eu:1008#15;Seguidores del Islam en Kurdistán;alias;organisation;;;;TAQA;eu
-eu:1008#16;Soldados do Islão;alias;organisation;;;;TAQA;eu
-eu:1008#17;Exército Ansar al-Sunna;alias;organisation;;;;TAQA;eu
-eu:1008#23;Kurdish Taliban;alias;organisation;;;;TAQA;eu
-eu:1008#26;Devotees of Islam;alias;organisation;;;;TAQA;eu
-eu:1008#27;Devotos do Islão;alias;organisation;;;;TAQA;eu
-eu:1008#28;Soldiers of God;alias;organisation;;;;TAQA;eu
-eu:1008#29;Ansar al-Sunna Army;alias;organisation;;;;TAQA;eu
-eu:1008#30;Jaish Ansar al-Sunna;alias;organisation;;;;TAQA;eu
-eu:1008#31;Ansar al-Sunna;alias;organisation;;;;TAQA;eu
-eu:1008#32;Talibanes kurdos;alias;organisation;;;;TAQA;eu
-eu:1008#33;Soldados de Dios;alias;organisation;;;;TAQA;eu
+eu:1008#2;Followers of Islam in Kurdistan;alias;organisation;;;;TAQA;eu
+eu:1008#3;Soldados del Islam;alias;organisation;;;;TAQA;eu
+eu:1008#4;Simpatizantes kurdos del Islam;alias;organisation;;;;TAQA;eu
+eu:1008#5;Simpatizantes del Islam en Kurdistán;alias;organisation;;;;TAQA;eu
+eu:1008#6;Seguidores del Islam en Kurdistán;alias;organisation;;;;TAQA;eu
+eu:1008#7;Soldados do Islão;alias;organisation;;;;TAQA;eu
+eu:1008#8;Apoiantes Curdos do Islão;alias;organisation;;;;TAQA;eu
+eu:1008#9;Apoiantes do Islão no Curdistão;alias;organisation;;;;TAQA;eu
+eu:1008#10;Devotees of Islam;alias;organisation;;;;TAQA;eu
+eu:1008#11;Devotos del Islam;alias;organisation;;;;TAQA;eu
+eu:1008#13;Devotos do Islão;alias;organisation;;;;TAQA;eu
+eu:1008#14;Seguidores do Islão no Curdistão;alias;organisation;;;;TAQA;eu
+eu:1008#15;Kurdish Taliban;alias;organisation;;;;TAQA;eu
+eu:1008#16;Soldiers of God;alias;organisation;;;;TAQA;eu
+eu:1008#17;Ansar al-Sunna Army;alias;organisation;;;;TAQA;eu
+eu:1008#18;Jaish Ansar al-Sunna;alias;organisation;;;;TAQA;eu
+eu:1008#19;Ansar al-Sunna;alias;organisation;;;;TAQA;eu
+eu:1008#20;Talibanes kurdos;alias;organisation;;;;TAQA;eu
+eu:1008#21;Soldados de Dios;alias;organisation;;;;TAQA;eu
+eu:1008#22;Ejército Ansar al-Sunna;alias;organisation;;;;TAQA;eu
+eu:1008#24;Soldados de Deus;alias;organisation;;;;TAQA;eu
+eu:1008#25;Exército Ansar al-Sunna;alias;organisation;;;;TAQA;eu
+eu:1008#29;Ansar al-Islam;alias;organisation;;;;TAQA;eu
+eu:1008#30;Jund al-Islam;alias;organisation;;;;TAQA;eu
+eu:1008#31;Soldiers of Islam;alias;organisation;;;;TAQA;eu
+eu:1008#32;Kurdistan Supporters of Islam;alias;organisation;;;;TAQA;eu
+eu:1008#33;Supporters of Islam in Kurdistan;alias;organisation;;;;TAQA;eu
 eu:101#0;Barzan Ibrahim Hassan Al-Tikriti;primary;person;1951-01-01;1951-12-31;IQ;IRQ;eu
 eu:1010#0;Islamic International Brigade;primary;organisation;;;;TAQA;eu
 eu:1010#1;the Islamic Peacekeeping Brigade;alias;organisation;;;;TAQA;eu

@@ -1,0 +1,11 @@
+cust_id,entity_key,source,perturbation,listed_name,customer_name,best_true_score
+C001824,nl:nl-dnst-806b70f59bccdfa1c06cfe4c9ec3a41988cfd5c2,nl,typo,Anas Labouh,Anss Laobuh,
+C006860,nl:nl-dnst-3b22f59d449d153e121a82ca23606a4639c194ad,nl,drop_middle,"Jeroen Dusseldorp, van",Jeroen Van,
+C008586,nl:nl-dnst-9410439c036439824cf5824b9fed77847aa5e230,nl,drop_middle,Mandy Helena Johanna Spijk,Mandy Spijk,
+C010336,un:111084,un,typo,SADUDDIN SAYYED,Sauddin SAYYiD,
+C010979,eu:7227,eu,typo,Rahim HAMLBAR,Rahm Halmbar,
+C012870,uk:BIH0004,uk,typo,Mania d.o.o.,Mnaia Do.o.,
+C012990,uk:RUS0549,uk,drop_middle,Roman Mikhailovich VODIANOV,Roman Vodianov,76.39
+C013023,un:6908664,un,drop_middle,GÉDÉON KYUNGU MUTANGA WA BAFUNKWA KANONGA,Gédéon Kanonga,
+C016588,nl:nl-dnst-cc85c31fbe1cc0e9fe9bb6aee191dfb7826b8f62,nl,translit_variant,Mohamed Slamy,Muhammad Slamy,
+C019157,ofac:11946,ofac,drop_middle,Ruben Alejandro VALENZUELA ZUNIGA,Ruben Zuniga,

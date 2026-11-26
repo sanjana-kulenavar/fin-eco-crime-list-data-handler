@@ -1,7 +1,7 @@
 {
   "system": "payments_screening",
-  "snapshot_date": "2026-11-25",
-  "file": "2026-11-25.csv",
+  "snapshot_date": "2026-11-26",
+  "file": "2026-11-26.csv",
   "sources": [
     "eu",
     "un",
@@ -11,9 +11,9 @@
     "internal"
   ],
   "blocked_sources": {},
-  "record_count": 81407,
-  "sha256": "19262e50604428e4645eeb3efb790d36abc84c6e029af7c963a66c7b76ee801c",
-  "generated_at": "2026-11-25T17:29:23Z",
+  "record_count": 81411,
+  "sha256": "dc3cbcc9ecfc63f66bdaa3bc8095d13c9deb1da14a0dfaf00c80e99d4165c75d",
+  "generated_at": "2026-11-26T17:11:42Z",
   "dq_gate_passed": true,
   "variant": "clean"
 }

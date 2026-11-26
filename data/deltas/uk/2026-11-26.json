@@ -1,0 +1,37 @@
+{
+  "source": "uk",
+  "from": "2026-11-25",
+  "to": "2026-11-26",
+  "initial_load": false,
+  "counts": {
+    "added": 1,
+    "removed": 0,
+    "amended": 2
+  },
+  "changes": [
+    {
+      "entity_key": "uk:LIB0080",
+      "change_type": "added",
+      "changed_fields": [],
+      "primary_name": "IMO 8027705"
+    },
+    {
+      "entity_key": "uk:CHW0042",
+      "change_type": "amended",
+      "changed_fields": [
+        "birth_dates",
+        "identifiers"
+      ],
+      "primary_name": "Ivan Sergeyevich Kravtsov"
+    },
+    {
+      "entity_key": "uk:GHR0214",
+      "change_type": "amended",
+      "changed_fields": [
+        "primary_name",
+        "names"
+      ],
+      "primary_name": "Sarim Al-Din MUFADDAL"
+    }
+  ]
+}

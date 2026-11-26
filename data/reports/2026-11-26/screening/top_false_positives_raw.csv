@@ -1,0 +1,31 @@
+cust_id,entity_key,matched_name,name_score,final_score,full_name,dob,nationality_iso2,list_primary_name
+C009879,uk:RUS1841,omk,100.0,100.0,OMK,,RU,JSC United Metallurgical Company
+C012995,eu:147499,unica,100.0,100.0,Unica,,NL,Unica
+C014911,uk:CAF0010,joseph kony,93.57,98.57,Joseph Conway,1959-10-01,GB,JOSEPH KONY
+C002498,ofac:16962,valeriy bolotov,92.04,97.04,Valeriya Sokolov,1970-02-07,RU,Valery BOLOTOV
+C018989,ofac:40124,lyudmila markina,93.58,96.58,Lyudmila Savina,1978-09-05,RU,Liudmila Leonidovna MARKINA
+C008403,uk:SYR0066,andré mayard,93.33,96.33,André Allard,1953-12-06,FR,Adib Mayaleh
+C013194,ofac:11740,mohamed siad atom,90.79,95.79,Mohamed Postma,1965-11-21,NL,Mohamed SA'ID
+C007217,ofac:32736,konstantin sokolov,92.73,95.73,Konstantin Konovalova,1979-11-27,RU,Konstantin KUDRYAVTSEV
+C019309,ofac:23719,mohamed mire,95.48,95.48,Mohamed Miller,1976-12-29,GB,Mohamed Mire Ali YUSUF
+C007393,eu:159913,aleksandr beloglazov,92.36,95.36,Aleksandr Soboleva,1979-12-04,RU,Aleksandr BELOGLAZOV
+C009970,ofac:11738,mohamed garad,90.21,95.21,Mohamed Bud,1974-11-27,NL,Mohamed Abdi GARAAD
+C017220,uk:RUS2701,ekaterina romanova,91.78,94.78,Ekaterina Kotov,1942-05-01,RU,Ekaterina ROMANOVA
+C006304,eu:6505,mohammed zamrini,94.74,94.74,Mohammed Martin,2008-08-05,GB,Muhammed ZAMRINI
+C005282,ofac:30083,mokran llc,94.67,94.67,Morgan LLC,,GB,MOKRAN LLC
+C000808,eu:183145,aleksandr švetsov,91.54,94.54,Aleksandr Pavlov,1990-01-11,RU,Alexandr Švecov
+C019895,uk:RUS1598,aleksander kuleshov,94.54,94.54,Aleksander Kulus,1971-05-09,PL,Aleksander Kuleshov
+C010171,uk:AFG0124,mohammed oman,89.43,94.43,Mohammed van Goerle,1970-08-01,NL,MOHAMMAD AMAN AKHUND
+C016559,ofac:53923,stichting israa,94.37,94.37,Stichting Maas,,NL,ISRAA CHARITABLE FOUNDATION NETHERLANDS
+C016830,uk:INU0117,simatic,94.29,94.29,Simac,,NL,Simatec Development Company
+C013686,ofac:58806,alex vare,91.28,94.28,Alex Verdú,1993-02-06,ES,Alexandre VARELA VILLAR
+C006356,uk:RUS1572,vladimir bespalov,91.26,94.26,Vladimir Popov,2005-11-02,RU,Vladimir BESPALOV
+C010406,uk:RUS2694,nikita dmitriev,91.25,94.25,Anikita Dmitriev,1970-02-07,RU,Nikita DMITRIEV
+C017402,uk:RUS2724,asv,94.17,94.17,ASVB,,NL,State Corporation Deposit Insurance Agency (DIA)
+C016559,ofac:7639,stichting al-aqsa,93.87,93.87,Stichting Maas,,NL,STICHTING AL-AQSA
+C016559,ofac:7637,stichting al-aqsa,93.87,93.87,Stichting Maas,,NL,AL-AQSA FOUNDATION
+C016559,ofac:7645,stichting al-aqsa,93.87,93.87,Stichting Maas,,NL,AL-AQSA FOUNDATION
+C016559,ofac:7638,stichting al-aqsa,93.87,93.87,Stichting Maas,,NL,AL-AQSA E.V.
+C016559,nl:NK-noudsEEuFLTeacGgnBDGnZ,stichting al aqsa,93.87,93.87,Stichting Maas,,NL,Stichting Al Aqsa
+C016559,ofac:7640,stichting al-aqsa,93.87,93.87,Stichting Maas,,NL,FORENINGEN AL-AQSA
+C016559,ofac:7641,stichting al-aqsa,93.87,93.87,Stichting Maas,,NL,AL-AQSA
