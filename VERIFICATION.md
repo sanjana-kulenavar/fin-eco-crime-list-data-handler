@@ -420,7 +420,7 @@ report    data/reports/2026-11-24  (43.1s total)
 
 ## Not done yet
 
-Nothing open. All PLAN §17 items are verified (see §10 for hosted runs). Optional dashboard deployment (Task 6) is pending the owner's Streamlit Community Cloud login; it does not affect PLAN §17.
+Nothing open. All PLAN §17 items are verified (see §10 for hosted runs).
 
 ## Deliberate deviations from PLAN.md
 
