@@ -1,7 +1,7 @@
 {
   "system": "customer_screening",
-  "snapshot_date": "2026-11-26",
-  "file": "2026-11-26.jsonl",
+  "snapshot_date": "2026-11-27",
+  "file": "2026-11-27.jsonl",
   "sources": [
     "eu",
     "un",
@@ -11,9 +11,9 @@
     "internal"
   ],
   "blocked_sources": {},
-  "record_count": 33519,
-  "sha256": "090a7423c10c4d0b0b3a36e27dbc14731c3dcc10eac36fdd85bef9168cfc3d05",
-  "generated_at": "2026-11-26T17:11:42Z",
+  "record_count": 33517,
+  "sha256": "8f41c6667e69d3d3b038748ab31d68993d50da14234c5842f8b7833c780f54b2",
+  "generated_at": "2026-11-27T16:53:26Z",
   "dq_gate_passed": true,
   "variant": "clean"
 }

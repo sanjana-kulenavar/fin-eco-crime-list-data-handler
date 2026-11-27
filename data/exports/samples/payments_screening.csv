@@ -1,14 +1,14 @@
 uid;name;name_type;entity_type;dob_from;dob_to;nationality_iso2;programme;list_source
-eu:1003#0;Hambali Bin Ending;primary;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#1;Isomuddin, Nurjaman Riduan;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#2;Isamudin Ridwan;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#3;Isamuddin Riduan;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#4;Nurjaman Riduan Isamuddin;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#5;Hambali;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#6;Nurjaman;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#7;Nurjaman Riduan Isomuddin;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#8;Encep Nurjaman (birth name);alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
-eu:1003#9;Hambali Ending Hambali;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#0;Nurjaman Riduan Isamuddin;primary;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#1;Hambali;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#2;Nurjaman;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#3;Nurjaman Riduan Isomuddin;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#4;Encep Nurjaman (birth name);alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#5;Hambali Bin Ending;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#6;Hambali Ending Hambali;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#7;Isomuddin, Nurjaman Riduan;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#8;Isamudin Ridwan;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
+eu:1003#9;Isamuddin Riduan;alias;person;1964-04-04;1966-12-31;ID;TAQA;eu
 eu:1004#0;Abu Jibril Abdurrahman;primary;person;1957-08-17;1958-08-17;ID;TAQA;eu
 eu:1004#1;Fikiruddin Muqti;alias;person;1957-08-17;1958-08-17;ID;TAQA;eu
 eu:1004#2;Fihiruddin Muqti;alias;person;1957-08-17;1958-08-17;ID;TAQA;eu
