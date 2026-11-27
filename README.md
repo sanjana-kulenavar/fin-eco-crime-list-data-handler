@@ -162,6 +162,8 @@ Details and the exact logic: [docs/dq_rules.md](docs/dq_rules.md). Real examples
 
 You need [uv](https://docs.astral.sh/uv/) (a Python package manager). It installs Python 3.12 and everything else.
 
+Live dashboard: https://fin-eco-crime-list-data-handler-dqvbvzkr9a8f8k399d9gwc.streamlit.app/
+
 ```bash
 uv sync          # install
 make demo        # run the whole line on small sample files, offline, in ~2 seconds
