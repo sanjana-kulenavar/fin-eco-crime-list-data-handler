@@ -1,0 +1,11 @@
+cust_id,entity_key,source,perturbation,listed_name,customer_name,best_true_score
+C002200,eu:144580,eu,drop_middle,Ella Aleksandrovna PAMFILOVA,Ella Pamfilova,
+C002583,nl:nl-dnst-be82d5ca4ab79b34f07a147daca03c0f32d0404f,nl,typo,Mehmet Kardas,Meumet Kradas,
+C006860,nl:nl-dnst-3b22f59d449d153e121a82ca23606a4639c194ad,nl,drop_middle,"Jeroen Dusseldorp, van",Jeroen Van,
+C008103,un:6908600,un,drop_middle,MUHAMMAD BAHRUM NAIM ANGGIH TAMTOMO,Muhammad Tamtomo,
+C010336,un:111084,un,typo,SADUDDIN SAYYED,Sauddin SAYYiD,
+C012489,eu:6070,eu,drop_middle,Nefissa Bent Mohamed Ben Rhouma TRABELSI,Nefissa Trabelsi,
+C012990,uk:RUS1668,uk,drop_middle,Denis Valentinovich MANTUROV,Denis Manturov,
+C013958,nl:nl-dnst-3ec21f2ed797774667c4aa3dad75c7056a3fc3b7,nl,typo,Noureddin Benzouagh,Nureddin Bezouagh,
+C016588,nl:nl-dnst-cc85c31fbe1cc0e9fe9bb6aee191dfb7826b8f62,nl,translit_variant,Mohamed Slamy,Muhammad Slamy,
+C019611,eu:181834,eu,drop_middle,MOHAMED Tijani Ibrahim Moussa,Mohamed Moussa,

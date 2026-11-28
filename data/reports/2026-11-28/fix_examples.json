@@ -1,0 +1,450 @@
+[
+  {
+    "source": "eu",
+    "rule_id": "DQ002",
+    "entity_key": "eu:106138",
+    "before": "'Soussou  Abib'",
+    "after": "Soussou Abib"
+  },
+  {
+    "source": "eu",
+    "rule_id": "DQ002",
+    "entity_key": "eu:107850",
+    "before": "'Administração Nacional da  Tecnologia Espacial'",
+    "after": "Administração Nacional da Tecnologia Espacial"
+  },
+  {
+    "source": "eu",
+    "rule_id": "DQ002",
+    "entity_key": "eu:107850",
+    "before": "'Administrația  Națională pentru Tehnologie  Aerospațială'",
+    "after": "Administrația Națională pentru Tehnologie Aerospațială"
+  },
+  {
+    "source": "ofac",
+    "rule_id": "DQ002",
+    "entity_key": "ofac:10923",
+    "before": "'IJHA TURATH  AL-ISLAMI'",
+    "after": "IJHA TURATH AL-ISLAMI"
+  },
+  {
+    "source": "ofac",
+    "rule_id": "DQ002",
+    "entity_key": "ofac:11297",
+    "before": "'TING SHING TAI JEWELLERY (HK)  CO. LIMITED'",
+    "after": "TING SHING TAI JEWELLERY (HK) CO. LIMITED"
+  },
+  {
+    "source": "ofac",
+    "rule_id": "DQ002",
+    "entity_key": "ofac:11608",
+    "before": "'AHWAZ STEEL COMMERCIAL & TECHNICAL SERVICE GMBH  ASCOTEC'",
+    "after": "AHWAZ STEEL COMMERCIAL & TECHNICAL SERVICE GMBH ASCOTEC"
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ002",
+    "entity_key": "uk:BEL0111",
+    "before": "'Open Joint Stock Company  \"Belaruskali\"'",
+    "after": "Open Joint Stock Company \"Belaruskali\""
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ002",
+    "entity_key": "uk:BEL0111",
+    "before": "'Open Joint Stock Company  \"Belaruskali\"'",
+    "after": "Open Joint Stock Company \"Belaruskali\""
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ002",
+    "entity_key": "uk:BEL0119",
+    "before": "'Григорий Юрьевич  АЗАРЁНОК'",
+    "after": "Григорий Юрьевич АЗАРЁНОК"
+  },
+  {
+    "source": "un",
+    "rule_id": "DQ002",
+    "entity_key": "un:3001252",
+    "before": "'حركة التوحيد والجهاد في\\n                                                  غرب إفريقيا'",
+    "after": "حركة التوحيد والجهاد في غرب إفريقيا"
+  },
+  {
+    "source": "un",
+    "rule_id": "DQ002",
+    "entity_key": "un:6908841",
+    "before": "'أمیر محمد سعید عبد\\n                                                  الرحمن السلبي'",
+    "after": "أمیر محمد سعید عبد الرحمن السلبي"
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ004",
+    "entity_key": "uk:BEL0033",
+    "before": "",
+    "after": null
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ004",
+    "entity_key": "uk:BEL0038",
+    "before": "",
+    "after": null
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ004",
+    "entity_key": "uk:BEL0044",
+    "before": "",
+    "after": null
+  },
+  {
+    "source": "un",
+    "rule_id": "DQ004",
+    "entity_key": "un:110327",
+    "before": "",
+    "after": null
+  },
+  {
+    "source": "un",
+    "rule_id": "DQ004",
+    "entity_key": "un:110328",
+    "before": "",
+    "after": null
+  },
+  {
+    "source": "un",
+    "rule_id": "DQ004",
+    "entity_key": "un:110329",
+    "before": "",
+    "after": null
+  },
+  {
+    "source": "eu",
+    "rule_id": "DQ005",
+    "entity_key": "eu:101",
+    "before": "Barzan Ibrahim Hassan Al-Tikriti",
+    "after": null
+  },
+  {
+    "source": "eu",
+    "rule_id": "DQ005",
+    "entity_key": "eu:101",
+    "before": "Barzan Ibrahim Hassan Al-Tikriti",
+    "after": null
+  },
+  {
+    "source": "eu",
+    "rule_id": "DQ005",
+    "entity_key": "eu:1010",
+    "before": "Brigada Internacional Islámica",
+    "after": null
+  },
+  {
+    "source": "internal",
+    "rule_id": "DQ005",
+    "entity_key": "internal:INT-0001",
+    "before": "Example Trading B.V.",
+    "after": null
+  },
+  {
+    "source": "internal",
+    "rule_id": "DQ005",
+    "entity_key": "internal:INT-0004",
+    "before": "Fictitious Shipping Limited",
+    "after": null
+  },
+  {
+    "source": "ofac",
+    "rule_id": "DQ005",
+    "entity_key": "ofac:10568",
+    "before": "Wiam WAHHAB",
+    "after": null
+  },
+  {
+    "source": "ofac",
+    "rule_id": "DQ005",
+    "entity_key": "ofac:10728",
+    "before": "Akram Turki Hishan AL-MAZIDIH",
+    "after": null
+  },
+  {
+    "source": "ofac",
+    "rule_id": "DQ005",
+    "entity_key": "ofac:10755",
+    "before": "POLOTSK-STEKLOVOLOKNO JSC",
+    "after": null
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ005",
+    "entity_key": "uk:AFG0119",
+    "before": "Faizullah Khan Noorzai",
+    "after": null
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ005",
+    "entity_key": "uk:AFG0120",
+    "before": "Malik Noorzai",
+    "after": null
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ005",
+    "entity_key": "uk:AQD0007",
+    "before": "Les Enturbannes",
+    "after": null
+  },
+  {
+    "source": "un",
+    "rule_id": "DQ005",
+    "entity_key": "un:111072",
+    "before": "Sayed Mohammad Azim Agha",
+    "after": null
+  },
+  {
+    "source": "un",
+    "rule_id": "DQ005",
+    "entity_key": "un:111734",
+    "before": "Fabio Fusco",
+    "after": null
+  },
+  {
+    "source": "un",
+    "rule_id": "DQ005",
+    "entity_key": "un:111734",
+    "before": "Fabio Fusco",
+    "after": null
+  },
+  {
+    "source": "eu",
+    "rule_id": "DQ012",
+    "entity_key": "eu:108086",
+    "before": "1959,1960,1961",
+    "after": "1959 to 1961"
+  },
+  {
+    "source": "eu",
+    "rule_id": "DQ012",
+    "entity_key": "eu:109405",
+    "before": "1992,1993,1994,1995",
+    "after": "1992 to 1995"
+  },
+  {
+    "source": "eu",
+    "rule_id": "DQ012",
+    "entity_key": "eu:109426",
+    "before": "1991,1992,1993",
+    "after": "1991 to 1993"
+  },
+  {
+    "source": "ofac",
+    "rule_id": "DQ012",
+    "entity_key": "ofac:10378",
+    "before": "1943,1944",
+    "after": "1943 to 1944"
+  },
+  {
+    "source": "ofac",
+    "rule_id": "DQ012",
+    "entity_key": "ofac:10692",
+    "before": "1943,1944",
+    "after": "1943 to 1944"
+  },
+  {
+    "source": "ofac",
+    "rule_id": "DQ012",
+    "entity_key": "ofac:10727",
+    "before": "1974,1975",
+    "after": "1974 to 1975"
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ012",
+    "entity_key": "uk:AFG0006",
+    "before": "1945,1946,1947,1948,1949,1950",
+    "after": "1945 to 1950"
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ012",
+    "entity_key": "uk:AFG0006",
+    "before": "1955,1956,1957,1958",
+    "after": "1955 to 1958"
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ012",
+    "entity_key": "uk:AFG0022",
+    "before": "1968,1969",
+    "after": "1968 to 1969"
+  },
+  {
+    "source": "un",
+    "rule_id": "DQ012",
+    "entity_key": "un:110446",
+    "before": "1958,1959",
+    "after": "1958 to 1959"
+  },
+  {
+    "source": "un",
+    "rule_id": "DQ012",
+    "entity_key": "un:112032",
+    "before": "1937,1938,1939,1940,1941,1942,1943,1944,1945",
+    "after": "1937 to 1945"
+  },
+  {
+    "source": "un",
+    "rule_id": "DQ012",
+    "entity_key": "un:2832991",
+    "before": "1943,1944",
+    "after": "1943 to 1944"
+  },
+  {
+    "source": "eu",
+    "rule_id": "DQ030",
+    "entity_key": "eu:1068",
+    "before": "640120-01-5529",
+    "after": "640120015529"
+  },
+  {
+    "source": "eu",
+    "rule_id": "DQ030",
+    "entity_key": "eu:1068",
+    "before": "A 10472263",
+    "after": "A10472263"
+  },
+  {
+    "source": "eu",
+    "rule_id": "DQ030",
+    "entity_key": "eu:107480",
+    "before": "911-10-77",
+    "after": "9111077"
+  },
+  {
+    "source": "ofac",
+    "rule_id": "DQ030",
+    "entity_key": "ofac:10001",
+    "before": "816005011-4",
+    "after": "8160050114"
+  },
+  {
+    "source": "ofac",
+    "rule_id": "DQ030",
+    "entity_key": "ofac:10002",
+    "before": "816004106-0",
+    "after": "8160041060"
+  },
+  {
+    "source": "ofac",
+    "rule_id": "DQ030",
+    "entity_key": "ofac:10003",
+    "before": "800102465-1",
+    "after": "8001024651"
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ030",
+    "entity_key": "uk:AFG0014",
+    "before": "SE-011697",
+    "after": "SE011697"
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ030",
+    "entity_key": "uk:AFG0032",
+    "before": "OR 1961825",
+    "after": "OR1961825"
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ030",
+    "entity_key": "uk:AFG0097",
+    "before": "D 001206",
+    "after": "D001206"
+  },
+  {
+    "source": "un",
+    "rule_id": "DQ030",
+    "entity_key": "un:110424",
+    "before": "Diplomatic Passport: Z30321794",
+    "after": "DIPLOMATICPASSPORT:Z30321794"
+  },
+  {
+    "source": "un",
+    "rule_id": "DQ030",
+    "entity_key": "un:110917",
+    "before": "OA 454044",
+    "after": "OA454044"
+  },
+  {
+    "source": "un",
+    "rule_id": "DQ030",
+    "entity_key": "un:111090",
+    "before": "SE-011697",
+    "after": "SE011697"
+  },
+  {
+    "source": "eu",
+    "rule_id": "DQ031",
+    "entity_key": "eu:154720",
+    "before": "7805060220",
+    "after": null
+  },
+  {
+    "source": "eu",
+    "rule_id": "DQ031",
+    "entity_key": "eu:174984",
+    "before": "1027802718437",
+    "after": null
+  },
+  {
+    "source": "eu",
+    "rule_id": "DQ031",
+    "entity_key": "eu:179756",
+    "before": "1025902394385",
+    "after": null
+  },
+  {
+    "source": "ofac",
+    "rule_id": "DQ031",
+    "entity_key": "ofac:36466",
+    "before": "1718002246",
+    "after": null
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ031",
+    "entity_key": "uk:AFG0006",
+    "before": "P04581926",
+    "after": null
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ031",
+    "entity_key": "uk:AFG0006",
+    "before": "P04581926",
+    "after": null
+  },
+  {
+    "source": "uk",
+    "rule_id": "DQ031",
+    "entity_key": "uk:AFG0006",
+    "before": "P04581926",
+    "after": null
+  },
+  {
+    "source": "eu",
+    "rule_id": "REQ:R002",
+    "entity_key": "eu:13",
+    "before": null,
+    "after": "Saddam Husayn al-Tikriti"
+  },
+  {
+    "source": "eu",
+    "rule_id": "REQ:R002",
+    "entity_key": "eu:13",
+    "before": null,
+    "after": "Saddam Hussein al-Takriti"
+  }
+]

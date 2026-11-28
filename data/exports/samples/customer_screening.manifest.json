@@ -1,7 +1,7 @@
 {
   "system": "customer_screening",
-  "snapshot_date": "2026-11-27",
-  "file": "2026-11-27.jsonl",
+  "snapshot_date": "2026-11-28",
+  "file": "2026-11-28.jsonl",
   "sources": [
     "eu",
     "un",
@@ -13,7 +13,7 @@
   "blocked_sources": {},
   "record_count": 33517,
   "sha256": "8f41c6667e69d3d3b038748ab31d68993d50da14234c5842f8b7833c780f54b2",
-  "generated_at": "2026-11-27T16:53:26Z",
+  "generated_at": "2026-11-28T15:44:41Z",
   "dq_gate_passed": true,
   "variant": "clean"
 }
